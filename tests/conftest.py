@@ -28,3 +28,11 @@ def find_customer(store, consent: str) -> str:
         if row["consent_status"] == consent:
             return cid
     raise AssertionError(f"no customer with consent {consent}")
+
+
+@pytest.fixture(scope="session")
+def trained_classifier():
+    """Trained once per session: fitting is a few seconds and the model is read-only."""
+    from copilot.classifier import TaskClassifier, load_split
+
+    return TaskClassifier.train(load_split(DATA)[0])

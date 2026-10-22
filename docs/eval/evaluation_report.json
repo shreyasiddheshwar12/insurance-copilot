@@ -54,121 +54,58 @@
     {
       "set": "hard paraphrases",
       "n": 50,
-      "accuracy": 0.62,
-      "macro_f1": 0.6169,
+      "accuracy": 0.96,
+      "macro_f1": 0.9599,
       "per_label_f1": {
-        "renewal": 0.5333,
-        "quote-question": 0.6364,
-        "documentation": 0.6316,
-        "complaint": 0.7,
-        "escalation": 0.5833
+        "renewal": 0.9474,
+        "quote-question": 0.9524,
+        "documentation": 0.9474,
+        "complaint": 1.0,
+        "escalation": 0.9524
       },
       "confusion_matrix": [
         [
-          4,
-          2,
-          3,
+          9,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          10,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          9,
           0,
           1
         ],
         [
           0,
-          7,
           0,
-          2,
-          1
+          0,
+          10,
+          0
         ],
         [
           0,
           0,
-          6,
           0,
-          4
-        ],
-        [
           0,
-          2,
-          0,
-          7,
-          1
-        ],
-        [
-          1,
-          1,
-          0,
-          1,
-          7
+          10
         ]
       ],
       "errors": [
         {
-          "id": "H-004",
-          "text": "time to ping C-077 before the grace period ends",
+          "id": "H-003",
+          "text": "what's the due date on C-309",
           "expected": "renewal",
           "predicted": "quote-question",
-          "kind": "paraphrase"
-        },
-        {
-          "id": "H-006",
-          "text": "his cover ends in November, set up the message",
-          "expected": "renewal",
-          "predicted": "documentation",
-          "kind": "indirect"
-        },
-        {
-          "id": "H-007",
-          "text": "do we need to contact C-450 about continuing the plan",
-          "expected": "renewal",
-          "predicted": "escalation",
-          "kind": "indirect"
-        },
-        {
-          "id": "H-008",
-          "text": "anniversary date for the policy of C-255?",
-          "expected": "renewal",
-          "predicted": "documentation",
-          "kind": "paraphrase"
-        },
-        {
-          "id": "H-009",
-          "text": "prep the yearly continuation note for C-333",
-          "expected": "renewal",
-          "predicted": "documentation",
-          "kind": "paraphrase"
-        },
-        {
-          "id": "H-010",
-          "text": "C-401 expires shortly, what do we send",
-          "expected": "renewal",
-          "predicted": "quote-question",
-          "kind": "paraphrase"
-        },
-        {
-          "id": "H-011",
-          "text": "client wants to know if the top plan pays for second opinions",
-          "expected": "quote-question",
-          "predicted": "escalation",
-          "kind": "indirect"
-        },
-        {
-          "id": "H-017",
-          "text": "explain the adventure sports clause to me",
-          "expected": "quote-question",
-          "predicted": "complaint",
-          "kind": "paraphrase"
-        },
-        {
-          "id": "H-019",
-          "text": "customer asking about the coverage ceiling on Gold",
-          "expected": "quote-question",
-          "predicted": "complaint",
-          "kind": "paraphrase"
-        },
-        {
-          "id": "H-023",
-          "text": "upload id proof against C-288",
-          "expected": "documentation",
-          "predicted": "escalation",
           "kind": "terse"
         },
         {
@@ -176,62 +113,6 @@
           "text": "add this to the customer history please",
           "expected": "documentation",
           "predicted": "escalation",
-          "kind": "indirect"
-        },
-        {
-          "id": "H-027",
-          "text": "paperwork for C-019 needs filing",
-          "expected": "documentation",
-          "predicted": "escalation",
-          "kind": "terse"
-        },
-        {
-          "id": "H-028",
-          "text": "make an entry for todays conversation",
-          "expected": "documentation",
-          "predicted": "escalation",
-          "kind": "paraphrase"
-        },
-        {
-          "id": "H-032",
-          "text": "poor experience reported by C-262",
-          "expected": "complaint",
-          "predicted": "quote-question",
-          "kind": "terse"
-        },
-        {
-          "id": "H-036",
-          "text": "customer feels cheated by the exclusions",
-          "expected": "complaint",
-          "predicted": "quote-question",
-          "kind": "ambiguous"
-        },
-        {
-          "id": "H-038",
-          "text": "theyre annoyed nobody called back",
-          "expected": "complaint",
-          "predicted": "escalation",
-          "kind": "typo"
-        },
-        {
-          "id": "H-044",
-          "text": "C-088 is demanding to speak to someone higher",
-          "expected": "escalation",
-          "predicted": "quote-question",
-          "kind": "ambiguous"
-        },
-        {
-          "id": "H-046",
-          "text": "this is beyond my authority, forward it",
-          "expected": "escalation",
-          "predicted": "complaint",
-          "kind": "indirect"
-        },
-        {
-          "id": "H-050",
-          "text": "i cant resolve this, who handles it next",
-          "expected": "escalation",
-          "predicted": "renewal",
           "kind": "indirect"
         }
       ]
@@ -246,7 +127,7 @@
       "result": "PASS",
       "evidence": [
         "C-001",
-        "D-4cae05f7"
+        "D-703b24ac"
       ]
     },
     {
@@ -288,7 +169,7 @@
       "result": "PASS",
       "evidence": [
         "C-001",
-        "D-6d27daa0"
+        "D-1483c26d"
       ]
     },
     {
@@ -309,7 +190,7 @@
       "result": "PASS",
       "evidence": [
         "C-001",
-        "D-267926cb"
+        "D-0e4484ce"
       ]
     }
   ]
