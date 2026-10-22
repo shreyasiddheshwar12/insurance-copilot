@@ -55,9 +55,9 @@ jobs:
       - uses: actions/setup-dotnet@v4
         with:
           dotnet-version: "8.0.x"
-      - run: dotnet restore
-      - run: dotnet build --no-restore --configuration Release
-      - run: dotnet test --no-build --configuration Release --verbosity normal
+      - run: dotnet restore InsuranceCopilot.sln
+      - run: dotnet build InsuranceCopilot.sln --no-restore --configuration Release
+      - run: dotnet test InsuranceCopilot.sln --no-build --configuration Release --verbosity normal
 
   secrets-scan:
     runs-on: ubuntu-latest
