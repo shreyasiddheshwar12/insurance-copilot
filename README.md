@@ -27,7 +27,7 @@ Agent / UI -> FastAPI (copilot/api.py)
                 |-> store.py    synthetic CSV/JSONL data, drafts, audit log
 ```
 
-Planned next: a React + TypeScript UI, a Hugging Face task classifier, Azure AI Search as an alternative to the local index, and a small .NET 8 client.
+Also included: a React + TypeScript UI in `ui/` (ask, cited answers, approval queue, audit trail). Planned next: a Hugging Face task classifier, Azure AI Search as an alternative to the local index, and a small .NET 8 client.
 
 ## Quick start
 
@@ -39,6 +39,12 @@ pip install -r requirements.txt
 python scripts/generate_data.py    # optional: fixtures are already committed
 pytest -q                          # run the tests
 uvicorn copilot.api:app --reload   # then open http://127.0.0.1:8000/docs
+```
+
+React UI (in a second terminal, with the API running):
+
+```bash
+cd ui && npm install && npm run dev   # http://localhost:5173
 ```
 
 Docker:
