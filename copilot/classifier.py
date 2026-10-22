@@ -20,6 +20,12 @@ from sklearn.pipeline import FeatureUnion, Pipeline
 
 LABELS = ["renewal", "quote-question", "documentation", "complaint", "escalation"]
 
+#: Returned instead of a guess when no label clears the confidence bar.
+UNCLEAR = "unclear"
+
+#: Chosen from the paraphrase-set confidence distribution; see docs/eval/error_analysis.md.
+DEFAULT_THRESHOLD = 0.40
+
 
 def load_split(data_dir: Path) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     rows = [json.loads(line) for line in (data_dir / "labelled_tasks.jsonl").read_text(encoding="utf-8").splitlines() if line.strip()]
@@ -51,6 +57,16 @@ class TaskClassifier:
         probs = self.pipeline.predict_proba([text])[0]
         idx = int(probs.argmax())
         return str(self.pipeline.classes_[idx]), round(float(probs[idx]), 4)
+
+    def predict_with_threshold(self, text: str, threshold: float = DEFAULT_THRESHOLD) -> tuple[str, float]:
+        """Return UNCLEAR instead of a low-confidence guess.
+
+        The error analysis showed unfamiliar wording defaulting to `escalation`, which sends
+        routine work to a supervisor. Naming the uncertainty is what the brief asks for:
+        request the missing input rather than assert something unsupported.
+        """
+        label, confidence = self.predict(text)
+        return (label, confidence) if confidence >= threshold else (UNCLEAR, confidence)
 
 
 def evaluate(model: TaskClassifier, test_rows: list[dict[str, Any]]) -> dict[str, Any]:
