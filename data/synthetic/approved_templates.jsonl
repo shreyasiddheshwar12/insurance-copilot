@@ -1,0 +1,2 @@
+{"template_id": "RENEWAL_REMINDER_V1", "channel": "sms", "text": "Hello {customer_id}, this is a reminder that your fictional plan renews on {renewal_date}. Please contact your advisor to review the details. This is a non-binding message.", "compliance_version": "2026.1"}
+{"template_id": "RENEWAL_REMINDER_EMAIL_V1", "channel": "email", "text": "Dear customer {customer_id}, your fictional policy is due for renewal on {renewal_date}. Your advisor can explain any options. Nothing in this message is a binding offer.", "compliance_version": "2026.1"}

@@ -1,0 +1,1201 @@
+interaction_id,customer_id,category,timestamp,agent_note_synthetic
+I-00001,C-194,escalation,2026-10-02T10:55:00,Customer asked about renewal date.
+I-00002,C-097,escalation,2026-09-07T10:30:00,Requested a comparison of two fictional plans.
+I-00003,C-446,documentation,2026-05-01T10:13:00,Requested a comparison of two fictional plans.
+I-00004,C-493,renewal,2026-08-08T10:44:00,Asked to escalate to supervisor.
+I-00005,C-361,quote-question,2026-07-08T10:35:00,Sent policy document reminder.
+I-00006,C-398,documentation,2026-07-15T10:34:00,Sent policy document reminder.
+I-00007,C-158,documentation,2026-06-17T10:56:00,Customer unhappy with waiting period; logged for review.
+I-00008,C-239,renewal,2026-08-25T10:53:00,Sent policy document reminder.
+I-00009,C-469,quote-question,2026-06-11T10:26:00,Customer asked about renewal date.
+I-00010,C-289,quote-question,2026-03-01T10:16:00,Asked to escalate to supervisor.
+I-00011,C-479,escalation,2026-10-24T10:26:00,Sent policy document reminder.
+I-00012,C-079,quote-question,2026-06-08T10:24:00,Asked to escalate to supervisor.
+I-00013,C-427,quote-question,2026-08-18T10:41:00,Sent policy document reminder.
+I-00014,C-132,complaint,2026-08-15T10:10:00,Sent policy document reminder.
+I-00015,C-087,quote-question,2026-09-16T10:11:00,Asked to escalate to supervisor.
+I-00016,C-329,renewal,2026-09-02T10:53:00,Customer asked about renewal date.
+I-00017,C-484,renewal,2026-01-14T10:08:00,Requested a comparison of two fictional plans.
+I-00018,C-035,quote-question,2026-01-07T10:32:00,Customer unhappy with waiting period; logged for review.
+I-00019,C-192,renewal,2026-10-21T10:42:00,Asked to escalate to supervisor.
+I-00020,C-468,complaint,2026-08-01T10:00:00,Asked to escalate to supervisor.
+I-00021,C-283,complaint,2026-01-01T10:33:00,Sent policy document reminder.
+I-00022,C-275,documentation,2026-01-17T10:52:00,Customer unhappy with waiting period; logged for review.
+I-00023,C-413,quote-question,2026-02-04T10:33:00,Requested a comparison of two fictional plans.
+I-00024,C-124,quote-question,2026-10-17T10:16:00,Sent policy document reminder.
+I-00025,C-137,complaint,2026-02-12T10:25:00,Customer unhappy with waiting period; logged for review.
+I-00026,C-290,quote-question,2026-04-10T10:43:00,Customer asked about renewal date.
+I-00027,C-335,renewal,2026-02-13T10:24:00,Customer unhappy with waiting period; logged for review.
+I-00028,C-283,complaint,2026-01-21T10:00:00,Requested a comparison of two fictional plans.
+I-00029,C-043,complaint,2026-07-21T10:50:00,Sent policy document reminder.
+I-00030,C-290,renewal,2026-09-02T10:14:00,Requested a comparison of two fictional plans.
+I-00031,C-462,escalation,2026-08-09T10:02:00,Customer asked about renewal date.
+I-00032,C-351,documentation,2026-09-19T10:42:00,Customer asked about renewal date.
+I-00033,C-092,documentation,2026-01-07T10:37:00,Requested a comparison of two fictional plans.
+I-00034,C-386,complaint,2026-02-10T10:10:00,Asked to escalate to supervisor.
+I-00035,C-124,escalation,2026-07-22T10:57:00,Asked to escalate to supervisor.
+I-00036,C-170,complaint,2026-03-26T10:44:00,Customer asked about renewal date.
+I-00037,C-257,documentation,2026-01-04T10:27:00,Requested a comparison of two fictional plans.
+I-00038,C-430,renewal,2026-06-20T10:49:00,Asked to escalate to supervisor.
+I-00039,C-489,escalation,2026-07-25T10:20:00,Customer asked about renewal date.
+I-00040,C-325,documentation,2026-08-16T10:14:00,Sent policy document reminder.
+I-00041,C-284,complaint,2026-07-06T10:43:00,Asked to escalate to supervisor.
+I-00042,C-339,complaint,2026-02-25T10:39:00,Sent policy document reminder.
+I-00043,C-409,quote-question,2026-02-03T10:17:00,Requested a comparison of two fictional plans.
+I-00044,C-195,quote-question,2026-07-11T10:23:00,Customer asked about renewal date.
+I-00045,C-047,renewal,2026-05-15T10:23:00,Sent policy document reminder.
+I-00046,C-053,quote-question,2026-02-06T10:27:00,Customer unhappy with waiting period; logged for review.
+I-00047,C-286,escalation,2026-09-14T10:06:00,Customer asked about renewal date.
+I-00048,C-046,documentation,2026-09-03T10:38:00,Asked to escalate to supervisor.
+I-00049,C-402,documentation,2026-07-01T10:18:00,Customer unhappy with waiting period; logged for review.
+I-00050,C-199,renewal,2026-09-08T10:36:00,Asked to escalate to supervisor.
+I-00051,C-087,complaint,2026-03-05T10:17:00,Sent policy document reminder.
+I-00052,C-138,complaint,2026-03-03T10:10:00,Customer unhappy with waiting period; logged for review.
+I-00053,C-142,complaint,2026-05-16T10:50:00,Customer asked about renewal date.
+I-00054,C-185,documentation,2026-04-24T10:40:00,Customer unhappy with waiting period; logged for review.
+I-00055,C-305,escalation,2026-04-15T10:06:00,Requested a comparison of two fictional plans.
+I-00056,C-156,renewal,2026-07-11T10:53:00,Asked to escalate to supervisor.
+I-00057,C-195,documentation,2026-08-11T10:27:00,Asked to escalate to supervisor.
+I-00058,C-070,documentation,2026-06-20T10:44:00,Requested a comparison of two fictional plans.
+I-00059,C-246,documentation,2026-03-13T10:20:00,Sent policy document reminder.
+I-00060,C-377,complaint,2026-10-26T10:15:00,Sent policy document reminder.
+I-00061,C-193,documentation,2026-07-12T10:07:00,Asked to escalate to supervisor.
+I-00062,C-103,escalation,2026-09-06T10:43:00,Asked to escalate to supervisor.
+I-00063,C-014,complaint,2026-04-15T10:51:00,Sent policy document reminder.
+I-00064,C-426,renewal,2026-07-22T10:31:00,Requested a comparison of two fictional plans.
+I-00065,C-325,documentation,2026-04-09T10:42:00,Requested a comparison of two fictional plans.
+I-00066,C-367,complaint,2026-07-03T10:28:00,Asked to escalate to supervisor.
+I-00067,C-246,escalation,2026-07-18T10:32:00,Customer unhappy with waiting period; logged for review.
+I-00068,C-279,renewal,2026-06-23T10:57:00,Asked to escalate to supervisor.
+I-00069,C-305,renewal,2026-02-25T10:15:00,Sent policy document reminder.
+I-00070,C-086,escalation,2026-01-19T10:41:00,Customer unhappy with waiting period; logged for review.
+I-00071,C-496,documentation,2026-07-04T10:00:00,Customer asked about renewal date.
+I-00072,C-133,quote-question,2026-09-24T10:33:00,Asked to escalate to supervisor.
+I-00073,C-298,escalation,2026-04-15T10:23:00,Customer unhappy with waiting period; logged for review.
+I-00074,C-238,escalation,2026-09-05T10:22:00,Customer asked about renewal date.
+I-00075,C-248,renewal,2026-05-14T10:58:00,Customer asked about renewal date.
+I-00076,C-060,quote-question,2026-06-10T10:21:00,Customer unhappy with waiting period; logged for review.
+I-00077,C-402,quote-question,2026-09-16T10:22:00,Customer unhappy with waiting period; logged for review.
+I-00078,C-050,complaint,2026-08-11T10:04:00,Sent policy document reminder.
+I-00079,C-023,renewal,2026-01-28T10:21:00,Customer asked about renewal date.
+I-00080,C-347,quote-question,2026-04-17T10:11:00,Asked to escalate to supervisor.
+I-00081,C-082,documentation,2026-09-14T10:29:00,Requested a comparison of two fictional plans.
+I-00082,C-409,complaint,2026-03-06T10:40:00,Customer unhappy with waiting period; logged for review.
+I-00083,C-203,renewal,2026-10-07T10:28:00,Asked to escalate to supervisor.
+I-00084,C-220,complaint,2026-01-23T10:13:00,Requested a comparison of two fictional plans.
+I-00085,C-143,renewal,2026-10-04T10:51:00,Asked to escalate to supervisor.
+I-00086,C-096,documentation,2026-06-07T10:29:00,Customer asked about renewal date.
+I-00087,C-135,complaint,2026-09-21T10:20:00,Asked to escalate to supervisor.
+I-00088,C-199,escalation,2026-07-19T10:07:00,Sent policy document reminder.
+I-00089,C-181,complaint,2026-10-06T10:52:00,Sent policy document reminder.
+I-00090,C-471,escalation,2026-10-03T10:43:00,Requested a comparison of two fictional plans.
+I-00091,C-161,renewal,2026-04-10T10:07:00,Requested a comparison of two fictional plans.
+I-00092,C-192,quote-question,2026-09-13T10:26:00,Asked to escalate to supervisor.
+I-00093,C-071,escalation,2026-07-14T10:11:00,Customer unhappy with waiting period; logged for review.
+I-00094,C-326,escalation,2026-03-18T10:10:00,Customer unhappy with waiting period; logged for review.
+I-00095,C-148,quote-question,2026-03-11T10:53:00,Customer unhappy with waiting period; logged for review.
+I-00096,C-318,renewal,2026-06-01T10:31:00,Requested a comparison of two fictional plans.
+I-00097,C-100,complaint,2026-09-17T10:41:00,Customer unhappy with waiting period; logged for review.
+I-00098,C-210,complaint,2026-07-23T10:53:00,Customer unhappy with waiting period; logged for review.
+I-00099,C-251,quote-question,2026-02-19T10:01:00,Requested a comparison of two fictional plans.
+I-00100,C-150,renewal,2026-05-08T10:34:00,Sent policy document reminder.
+I-00101,C-087,complaint,2026-10-24T10:49:00,Customer unhappy with waiting period; logged for review.
+I-00102,C-282,escalation,2026-02-19T10:07:00,Sent policy document reminder.
+I-00103,C-397,escalation,2026-06-18T10:52:00,Customer asked about renewal date.
+I-00104,C-390,complaint,2026-09-07T10:27:00,Customer asked about renewal date.
+I-00105,C-377,quote-question,2026-05-28T10:02:00,Customer unhappy with waiting period; logged for review.
+I-00106,C-135,documentation,2026-02-15T10:55:00,Customer asked about renewal date.
+I-00107,C-398,quote-question,2026-04-26T10:47:00,Asked to escalate to supervisor.
+I-00108,C-353,documentation,2026-10-21T10:27:00,Requested a comparison of two fictional plans.
+I-00109,C-316,quote-question,2026-04-27T10:13:00,Customer asked about renewal date.
+I-00110,C-292,documentation,2026-09-09T10:38:00,Asked to escalate to supervisor.
+I-00111,C-087,documentation,2026-05-10T10:36:00,Sent policy document reminder.
+I-00112,C-488,escalation,2026-02-05T10:48:00,Customer unhappy with waiting period; logged for review.
+I-00113,C-471,renewal,2026-05-28T10:41:00,Requested a comparison of two fictional plans.
+I-00114,C-360,quote-question,2026-04-05T10:45:00,Sent policy document reminder.
+I-00115,C-425,quote-question,2026-07-16T10:09:00,Asked to escalate to supervisor.
+I-00116,C-324,documentation,2026-07-13T10:28:00,Customer asked about renewal date.
+I-00117,C-325,renewal,2026-07-17T10:47:00,Sent policy document reminder.
+I-00118,C-356,documentation,2026-08-16T10:20:00,Asked to escalate to supervisor.
+I-00119,C-002,renewal,2026-08-21T10:42:00,Sent policy document reminder.
+I-00120,C-436,renewal,2026-09-13T10:13:00,Customer unhappy with waiting period; logged for review.
+I-00121,C-423,quote-question,2026-08-09T10:20:00,Sent policy document reminder.
+I-00122,C-173,escalation,2026-10-05T10:36:00,Customer unhappy with waiting period; logged for review.
+I-00123,C-404,documentation,2026-01-02T10:06:00,Customer unhappy with waiting period; logged for review.
+I-00124,C-009,renewal,2026-03-15T10:29:00,Customer asked about renewal date.
+I-00125,C-491,complaint,2026-04-23T10:58:00,Requested a comparison of two fictional plans.
+I-00126,C-452,documentation,2026-03-28T10:59:00,Sent policy document reminder.
+I-00127,C-048,documentation,2026-05-03T10:23:00,Requested a comparison of two fictional plans.
+I-00128,C-027,complaint,2026-05-24T10:44:00,Requested a comparison of two fictional plans.
+I-00129,C-220,renewal,2026-02-01T10:13:00,Customer unhappy with waiting period; logged for review.
+I-00130,C-040,quote-question,2026-10-08T10:33:00,Customer unhappy with waiting period; logged for review.
+I-00131,C-005,renewal,2026-06-27T10:07:00,Customer unhappy with waiting period; logged for review.
+I-00132,C-356,quote-question,2026-08-03T10:14:00,Customer unhappy with waiting period; logged for review.
+I-00133,C-046,renewal,2026-02-11T10:23:00,Sent policy document reminder.
+I-00134,C-071,complaint,2026-03-21T10:43:00,Requested a comparison of two fictional plans.
+I-00135,C-036,escalation,2026-10-01T10:39:00,Requested a comparison of two fictional plans.
+I-00136,C-226,documentation,2026-04-21T10:47:00,Requested a comparison of two fictional plans.
+I-00137,C-471,complaint,2026-10-22T10:28:00,Requested a comparison of two fictional plans.
+I-00138,C-045,renewal,2026-03-25T10:07:00,Asked to escalate to supervisor.
+I-00139,C-374,complaint,2026-06-14T10:20:00,Requested a comparison of two fictional plans.
+I-00140,C-127,documentation,2026-02-08T10:35:00,Asked to escalate to supervisor.
+I-00141,C-308,escalation,2026-05-25T10:44:00,Customer asked about renewal date.
+I-00142,C-435,documentation,2026-04-17T10:38:00,Asked to escalate to supervisor.
+I-00143,C-097,complaint,2026-05-21T10:03:00,Requested a comparison of two fictional plans.
+I-00144,C-254,complaint,2026-02-08T10:31:00,Asked to escalate to supervisor.
+I-00145,C-037,escalation,2026-01-12T10:59:00,Sent policy document reminder.
+I-00146,C-068,complaint,2026-10-14T10:23:00,Asked to escalate to supervisor.
+I-00147,C-350,quote-question,2026-08-25T10:04:00,Customer asked about renewal date.
+I-00148,C-301,renewal,2026-01-09T10:13:00,Customer asked about renewal date.
+I-00149,C-473,renewal,2026-07-17T10:18:00,Asked to escalate to supervisor.
+I-00150,C-393,complaint,2026-07-23T10:25:00,Customer asked about renewal date.
+I-00151,C-328,escalation,2026-09-20T10:09:00,Sent policy document reminder.
+I-00152,C-043,documentation,2026-02-17T10:58:00,Requested a comparison of two fictional plans.
+I-00153,C-499,quote-question,2026-09-11T10:25:00,Asked to escalate to supervisor.
+I-00154,C-325,renewal,2026-05-23T10:27:00,Requested a comparison of two fictional plans.
+I-00155,C-030,quote-question,2026-02-14T10:07:00,Customer unhappy with waiting period; logged for review.
+I-00156,C-314,escalation,2026-01-10T10:42:00,Requested a comparison of two fictional plans.
+I-00157,C-062,renewal,2026-03-23T10:00:00,Requested a comparison of two fictional plans.
+I-00158,C-255,documentation,2026-09-17T10:50:00,Sent policy document reminder.
+I-00159,C-086,documentation,2026-03-24T10:49:00,Sent policy document reminder.
+I-00160,C-376,renewal,2026-01-11T10:51:00,Customer unhappy with waiting period; logged for review.
+I-00161,C-140,escalation,2026-02-09T10:45:00,Asked to escalate to supervisor.
+I-00162,C-322,renewal,2026-08-15T10:32:00,Sent policy document reminder.
+I-00163,C-029,complaint,2026-10-06T10:23:00,Requested a comparison of two fictional plans.
+I-00164,C-131,renewal,2026-10-22T10:46:00,Customer asked about renewal date.
+I-00165,C-117,escalation,2026-01-02T10:54:00,Customer asked about renewal date.
+I-00166,C-126,renewal,2026-08-12T10:24:00,Requested a comparison of two fictional plans.
+I-00167,C-092,renewal,2026-09-26T10:58:00,Customer unhappy with waiting period; logged for review.
+I-00168,C-115,documentation,2026-04-14T10:58:00,Sent policy document reminder.
+I-00169,C-139,renewal,2026-10-12T10:07:00,Asked to escalate to supervisor.
+I-00170,C-345,renewal,2026-03-08T10:51:00,Asked to escalate to supervisor.
+I-00171,C-024,complaint,2026-02-15T10:55:00,Sent policy document reminder.
+I-00172,C-397,documentation,2026-06-03T10:35:00,Customer unhappy with waiting period; logged for review.
+I-00173,C-005,documentation,2026-04-10T10:36:00,Sent policy document reminder.
+I-00174,C-379,escalation,2026-04-15T10:23:00,Asked to escalate to supervisor.
+I-00175,C-498,complaint,2026-04-24T10:57:00,Asked to escalate to supervisor.
+I-00176,C-390,quote-question,2026-03-01T10:59:00,Customer unhappy with waiting period; logged for review.
+I-00177,C-013,quote-question,2026-09-12T10:40:00,Customer asked about renewal date.
+I-00178,C-487,documentation,2026-01-25T10:42:00,Customer unhappy with waiting period; logged for review.
+I-00179,C-435,documentation,2026-02-07T10:33:00,Requested a comparison of two fictional plans.
+I-00180,C-215,complaint,2026-01-05T10:45:00,Sent policy document reminder.
+I-00181,C-048,renewal,2026-04-28T10:33:00,Customer unhappy with waiting period; logged for review.
+I-00182,C-359,documentation,2026-08-24T10:05:00,Asked to escalate to supervisor.
+I-00183,C-049,escalation,2026-03-21T10:52:00,Customer unhappy with waiting period; logged for review.
+I-00184,C-039,escalation,2026-10-02T10:27:00,Requested a comparison of two fictional plans.
+I-00185,C-122,documentation,2026-05-28T10:20:00,Customer unhappy with waiting period; logged for review.
+I-00186,C-359,documentation,2026-06-15T10:17:00,Requested a comparison of two fictional plans.
+I-00187,C-039,quote-question,2026-03-25T10:49:00,Asked to escalate to supervisor.
+I-00188,C-056,quote-question,2026-02-06T10:28:00,Customer unhappy with waiting period; logged for review.
+I-00189,C-161,complaint,2026-02-18T10:22:00,Requested a comparison of two fictional plans.
+I-00190,C-232,documentation,2026-08-09T10:54:00,Customer asked about renewal date.
+I-00191,C-047,quote-question,2026-05-27T10:45:00,Asked to escalate to supervisor.
+I-00192,C-021,quote-question,2026-06-05T10:05:00,Requested a comparison of two fictional plans.
+I-00193,C-496,documentation,2026-07-17T10:03:00,Sent policy document reminder.
+I-00194,C-134,quote-question,2026-01-13T10:54:00,Customer unhappy with waiting period; logged for review.
+I-00195,C-285,escalation,2026-04-04T10:29:00,Customer asked about renewal date.
+I-00196,C-412,quote-question,2026-02-01T10:03:00,Requested a comparison of two fictional plans.
+I-00197,C-067,quote-question,2026-07-12T10:43:00,Customer asked about renewal date.
+I-00198,C-299,escalation,2026-05-27T10:04:00,Customer asked about renewal date.
+I-00199,C-034,quote-question,2026-08-26T10:08:00,Customer asked about renewal date.
+I-00200,C-464,documentation,2026-02-02T10:29:00,Customer asked about renewal date.
+I-00201,C-087,escalation,2026-07-27T10:46:00,Customer unhappy with waiting period; logged for review.
+I-00202,C-255,renewal,2026-07-22T10:27:00,Requested a comparison of two fictional plans.
+I-00203,C-182,quote-question,2026-03-09T10:17:00,Customer unhappy with waiting period; logged for review.
+I-00204,C-453,quote-question,2026-01-20T10:39:00,Asked to escalate to supervisor.
+I-00205,C-126,documentation,2026-08-14T10:56:00,Asked to escalate to supervisor.
+I-00206,C-246,renewal,2026-02-09T10:24:00,Requested a comparison of two fictional plans.
+I-00207,C-215,quote-question,2026-09-08T10:40:00,Asked to escalate to supervisor.
+I-00208,C-407,renewal,2026-07-26T10:45:00,Sent policy document reminder.
+I-00209,C-246,escalation,2026-08-12T10:58:00,Asked to escalate to supervisor.
+I-00210,C-258,documentation,2026-07-09T10:11:00,Customer asked about renewal date.
+I-00211,C-164,escalation,2026-04-01T10:57:00,Sent policy document reminder.
+I-00212,C-030,complaint,2026-09-12T10:49:00,Asked to escalate to supervisor.
+I-00213,C-120,quote-question,2026-02-08T10:42:00,Requested a comparison of two fictional plans.
+I-00214,C-137,escalation,2026-01-25T10:14:00,Asked to escalate to supervisor.
+I-00215,C-434,complaint,2026-06-27T10:54:00,Requested a comparison of two fictional plans.
+I-00216,C-091,quote-question,2026-10-11T10:51:00,Sent policy document reminder.
+I-00217,C-468,escalation,2026-01-23T10:44:00,Sent policy document reminder.
+I-00218,C-486,escalation,2026-10-05T10:36:00,Requested a comparison of two fictional plans.
+I-00219,C-429,complaint,2026-09-10T10:11:00,Customer unhappy with waiting period; logged for review.
+I-00220,C-020,renewal,2026-01-08T10:38:00,Requested a comparison of two fictional plans.
+I-00221,C-011,escalation,2026-08-01T10:21:00,Asked to escalate to supervisor.
+I-00222,C-104,quote-question,2026-06-23T10:11:00,Sent policy document reminder.
+I-00223,C-031,renewal,2026-03-19T10:45:00,Requested a comparison of two fictional plans.
+I-00224,C-397,renewal,2026-09-28T10:23:00,Customer asked about renewal date.
+I-00225,C-192,complaint,2026-10-04T10:21:00,Sent policy document reminder.
+I-00226,C-166,quote-question,2026-03-24T10:27:00,Customer unhappy with waiting period; logged for review.
+I-00227,C-333,documentation,2026-03-23T10:35:00,Asked to escalate to supervisor.
+I-00228,C-403,documentation,2026-04-22T10:37:00,Requested a comparison of two fictional plans.
+I-00229,C-194,documentation,2026-05-05T10:11:00,Customer asked about renewal date.
+I-00230,C-486,escalation,2026-07-28T10:49:00,Asked to escalate to supervisor.
+I-00231,C-017,quote-question,2026-10-11T10:58:00,Asked to escalate to supervisor.
+I-00232,C-114,escalation,2026-02-16T10:09:00,Sent policy document reminder.
+I-00233,C-382,renewal,2026-04-12T10:20:00,Requested a comparison of two fictional plans.
+I-00234,C-326,renewal,2026-06-15T10:00:00,Sent policy document reminder.
+I-00235,C-108,quote-question,2026-02-12T10:16:00,Customer asked about renewal date.
+I-00236,C-369,renewal,2026-01-13T10:28:00,Customer unhappy with waiting period; logged for review.
+I-00237,C-497,quote-question,2026-07-16T10:56:00,Customer unhappy with waiting period; logged for review.
+I-00238,C-180,escalation,2026-07-04T10:53:00,Customer unhappy with waiting period; logged for review.
+I-00239,C-404,escalation,2026-04-06T10:28:00,Customer asked about renewal date.
+I-00240,C-410,renewal,2026-05-01T10:20:00,Sent policy document reminder.
+I-00241,C-488,renewal,2026-02-11T10:10:00,Customer unhappy with waiting period; logged for review.
+I-00242,C-083,renewal,2026-09-03T10:21:00,Asked to escalate to supervisor.
+I-00243,C-315,complaint,2026-01-14T10:41:00,Requested a comparison of two fictional plans.
+I-00244,C-311,complaint,2026-03-02T10:06:00,Sent policy document reminder.
+I-00245,C-106,quote-question,2026-07-23T10:35:00,Asked to escalate to supervisor.
+I-00246,C-136,documentation,2026-05-08T10:06:00,Customer asked about renewal date.
+I-00247,C-202,escalation,2026-09-27T10:31:00,Requested a comparison of two fictional plans.
+I-00248,C-028,documentation,2026-01-14T10:05:00,Sent policy document reminder.
+I-00249,C-422,escalation,2026-08-07T10:06:00,Customer asked about renewal date.
+I-00250,C-106,quote-question,2026-05-03T10:30:00,Customer asked about renewal date.
+I-00251,C-158,complaint,2026-08-16T10:57:00,Sent policy document reminder.
+I-00252,C-047,escalation,2026-07-06T10:23:00,Customer unhappy with waiting period; logged for review.
+I-00253,C-190,quote-question,2026-08-02T10:16:00,Customer unhappy with waiting period; logged for review.
+I-00254,C-239,documentation,2026-04-27T10:17:00,Asked to escalate to supervisor.
+I-00255,C-032,quote-question,2026-02-03T10:42:00,Sent policy document reminder.
+I-00256,C-414,escalation,2026-07-25T10:37:00,Requested a comparison of two fictional plans.
+I-00257,C-284,renewal,2026-07-27T10:33:00,Customer unhappy with waiting period; logged for review.
+I-00258,C-495,escalation,2026-08-19T10:56:00,Requested a comparison of two fictional plans.
+I-00259,C-244,documentation,2026-02-13T10:57:00,Customer asked about renewal date.
+I-00260,C-258,escalation,2026-09-26T10:36:00,Asked to escalate to supervisor.
+I-00261,C-076,renewal,2026-08-06T10:10:00,Requested a comparison of two fictional plans.
+I-00262,C-414,quote-question,2026-03-02T10:27:00,Customer asked about renewal date.
+I-00263,C-350,complaint,2026-04-27T10:40:00,Requested a comparison of two fictional plans.
+I-00264,C-428,escalation,2026-05-11T10:58:00,Customer asked about renewal date.
+I-00265,C-045,complaint,2026-09-13T10:35:00,Sent policy document reminder.
+I-00266,C-439,documentation,2026-09-15T10:58:00,Customer asked about renewal date.
+I-00267,C-403,escalation,2026-10-17T10:50:00,Customer unhappy with waiting period; logged for review.
+I-00268,C-058,complaint,2026-03-05T10:36:00,Asked to escalate to supervisor.
+I-00269,C-299,renewal,2026-02-19T10:49:00,Customer asked about renewal date.
+I-00270,C-403,documentation,2026-09-12T10:56:00,Customer unhappy with waiting period; logged for review.
+I-00271,C-136,complaint,2026-08-19T10:38:00,Customer unhappy with waiting period; logged for review.
+I-00272,C-020,quote-question,2026-05-13T10:09:00,Asked to escalate to supervisor.
+I-00273,C-312,complaint,2026-01-13T10:56:00,Sent policy document reminder.
+I-00274,C-354,quote-question,2026-01-24T10:30:00,Sent policy document reminder.
+I-00275,C-460,documentation,2026-01-11T10:52:00,Sent policy document reminder.
+I-00276,C-160,documentation,2026-08-28T10:44:00,Customer asked about renewal date.
+I-00277,C-498,quote-question,2026-03-10T10:47:00,Customer unhappy with waiting period; logged for review.
+I-00278,C-397,documentation,2026-05-24T10:26:00,Asked to escalate to supervisor.
+I-00279,C-331,renewal,2026-04-15T10:13:00,Customer unhappy with waiting period; logged for review.
+I-00280,C-380,complaint,2026-09-28T10:23:00,Customer asked about renewal date.
+I-00281,C-264,quote-question,2026-02-10T10:45:00,Asked to escalate to supervisor.
+I-00282,C-207,quote-question,2026-09-19T10:01:00,Requested a comparison of two fictional plans.
+I-00283,C-099,quote-question,2026-01-08T10:02:00,Customer unhappy with waiting period; logged for review.
+I-00284,C-026,documentation,2026-04-09T10:23:00,Customer unhappy with waiting period; logged for review.
+I-00285,C-259,complaint,2026-02-22T10:01:00,Requested a comparison of two fictional plans.
+I-00286,C-191,complaint,2026-10-15T10:11:00,Customer unhappy with waiting period; logged for review.
+I-00287,C-301,escalation,2026-06-12T10:10:00,Sent policy document reminder.
+I-00288,C-384,renewal,2026-05-01T10:24:00,Customer asked about renewal date.
+I-00289,C-084,escalation,2026-04-28T10:14:00,Requested a comparison of two fictional plans.
+I-00290,C-347,quote-question,2026-05-21T10:26:00,Asked to escalate to supervisor.
+I-00291,C-011,renewal,2026-08-05T10:41:00,Requested a comparison of two fictional plans.
+I-00292,C-308,renewal,2026-04-09T10:38:00,Sent policy document reminder.
+I-00293,C-365,documentation,2026-07-13T10:54:00,Sent policy document reminder.
+I-00294,C-236,documentation,2026-04-15T10:19:00,Asked to escalate to supervisor.
+I-00295,C-423,escalation,2026-07-19T10:06:00,Customer asked about renewal date.
+I-00296,C-262,documentation,2026-09-21T10:38:00,Asked to escalate to supervisor.
+I-00297,C-145,documentation,2026-02-16T10:04:00,Sent policy document reminder.
+I-00298,C-142,documentation,2026-05-09T10:41:00,Sent policy document reminder.
+I-00299,C-097,quote-question,2026-09-25T10:15:00,Customer asked about renewal date.
+I-00300,C-413,escalation,2026-07-22T10:20:00,Requested a comparison of two fictional plans.
+I-00301,C-370,renewal,2026-08-10T10:16:00,Customer unhappy with waiting period; logged for review.
+I-00302,C-208,complaint,2026-01-19T10:45:00,Asked to escalate to supervisor.
+I-00303,C-418,quote-question,2026-06-24T10:45:00,Requested a comparison of two fictional plans.
+I-00304,C-352,escalation,2026-08-22T10:22:00,Asked to escalate to supervisor.
+I-00305,C-154,quote-question,2026-09-06T10:18:00,Customer asked about renewal date.
+I-00306,C-242,quote-question,2026-05-24T10:51:00,Asked to escalate to supervisor.
+I-00307,C-391,quote-question,2026-06-21T10:05:00,Requested a comparison of two fictional plans.
+I-00308,C-182,quote-question,2026-05-14T10:50:00,Sent policy document reminder.
+I-00309,C-191,documentation,2026-10-10T10:29:00,Customer asked about renewal date.
+I-00310,C-241,renewal,2026-10-19T10:39:00,Customer asked about renewal date.
+I-00311,C-242,quote-question,2026-09-04T10:55:00,Customer unhappy with waiting period; logged for review.
+I-00312,C-272,documentation,2026-07-02T10:55:00,Requested a comparison of two fictional plans.
+I-00313,C-071,quote-question,2026-06-14T10:36:00,Customer unhappy with waiting period; logged for review.
+I-00314,C-074,documentation,2026-03-25T10:05:00,Customer unhappy with waiting period; logged for review.
+I-00315,C-171,quote-question,2026-06-21T10:03:00,Customer asked about renewal date.
+I-00316,C-232,documentation,2026-04-25T10:49:00,Requested a comparison of two fictional plans.
+I-00317,C-296,quote-question,2026-08-26T10:48:00,Customer asked about renewal date.
+I-00318,C-067,escalation,2026-07-21T10:27:00,Customer unhappy with waiting period; logged for review.
+I-00319,C-220,complaint,2026-07-01T10:02:00,Asked to escalate to supervisor.
+I-00320,C-103,documentation,2026-01-11T10:48:00,Asked to escalate to supervisor.
+I-00321,C-098,renewal,2026-01-21T10:46:00,Requested a comparison of two fictional plans.
+I-00322,C-116,documentation,2026-05-05T10:06:00,Customer unhappy with waiting period; logged for review.
+I-00323,C-258,escalation,2026-05-06T10:04:00,Customer asked about renewal date.
+I-00324,C-153,documentation,2026-08-24T10:33:00,Asked to escalate to supervisor.
+I-00325,C-269,documentation,2026-07-22T10:08:00,Sent policy document reminder.
+I-00326,C-462,complaint,2026-06-25T10:12:00,Requested a comparison of two fictional plans.
+I-00327,C-486,complaint,2026-01-08T10:14:00,Requested a comparison of two fictional plans.
+I-00328,C-109,renewal,2026-10-17T10:10:00,Customer asked about renewal date.
+I-00329,C-188,renewal,2026-07-21T10:16:00,Asked to escalate to supervisor.
+I-00330,C-320,renewal,2026-10-02T10:42:00,Customer asked about renewal date.
+I-00331,C-335,renewal,2026-01-23T10:07:00,Customer unhappy with waiting period; logged for review.
+I-00332,C-228,complaint,2026-02-18T10:16:00,Customer unhappy with waiting period; logged for review.
+I-00333,C-360,quote-question,2026-04-23T10:43:00,Customer asked about renewal date.
+I-00334,C-155,complaint,2026-02-22T10:33:00,Sent policy document reminder.
+I-00335,C-319,escalation,2026-03-14T10:53:00,Customer asked about renewal date.
+I-00336,C-262,escalation,2026-02-10T10:07:00,Customer asked about renewal date.
+I-00337,C-255,quote-question,2026-10-07T10:49:00,Sent policy document reminder.
+I-00338,C-426,escalation,2026-04-12T10:45:00,Customer unhappy with waiting period; logged for review.
+I-00339,C-152,quote-question,2026-01-18T10:31:00,Requested a comparison of two fictional plans.
+I-00340,C-353,complaint,2026-06-08T10:00:00,Customer asked about renewal date.
+I-00341,C-344,renewal,2026-02-27T10:36:00,Customer unhappy with waiting period; logged for review.
+I-00342,C-077,renewal,2026-09-03T10:46:00,Customer asked about renewal date.
+I-00343,C-464,documentation,2026-04-15T10:18:00,Sent policy document reminder.
+I-00344,C-238,renewal,2026-02-27T10:11:00,Customer asked about renewal date.
+I-00345,C-437,documentation,2026-06-26T10:43:00,Sent policy document reminder.
+I-00346,C-219,renewal,2026-02-28T10:48:00,Customer asked about renewal date.
+I-00347,C-005,quote-question,2026-03-11T10:22:00,Customer unhappy with waiting period; logged for review.
+I-00348,C-490,escalation,2026-05-24T10:05:00,Sent policy document reminder.
+I-00349,C-418,documentation,2026-03-04T10:25:00,Customer unhappy with waiting period; logged for review.
+I-00350,C-493,complaint,2026-05-27T10:24:00,Customer unhappy with waiting period; logged for review.
+I-00351,C-410,complaint,2026-03-04T10:08:00,Customer asked about renewal date.
+I-00352,C-483,quote-question,2026-02-14T10:58:00,Asked to escalate to supervisor.
+I-00353,C-248,escalation,2026-08-06T10:39:00,Customer unhappy with waiting period; logged for review.
+I-00354,C-399,documentation,2026-10-01T10:55:00,Requested a comparison of two fictional plans.
+I-00355,C-248,complaint,2026-02-14T10:28:00,Customer asked about renewal date.
+I-00356,C-033,documentation,2026-06-01T10:45:00,Asked to escalate to supervisor.
+I-00357,C-393,escalation,2026-10-08T10:42:00,Sent policy document reminder.
+I-00358,C-266,escalation,2026-10-04T10:27:00,Requested a comparison of two fictional plans.
+I-00359,C-247,documentation,2026-07-05T10:53:00,Asked to escalate to supervisor.
+I-00360,C-457,escalation,2026-01-01T10:41:00,Requested a comparison of two fictional plans.
+I-00361,C-259,complaint,2026-08-28T10:10:00,Customer asked about renewal date.
+I-00362,C-385,complaint,2026-06-08T10:21:00,Sent policy document reminder.
+I-00363,C-026,escalation,2026-04-18T10:41:00,Customer unhappy with waiting period; logged for review.
+I-00364,C-207,quote-question,2026-02-15T10:28:00,Asked to escalate to supervisor.
+I-00365,C-230,renewal,2026-08-15T10:20:00,Customer asked about renewal date.
+I-00366,C-255,renewal,2026-02-13T10:26:00,Customer asked about renewal date.
+I-00367,C-286,escalation,2026-01-27T10:05:00,Asked to escalate to supervisor.
+I-00368,C-494,escalation,2026-05-17T10:35:00,Requested a comparison of two fictional plans.
+I-00369,C-336,complaint,2026-06-12T10:52:00,Customer asked about renewal date.
+I-00370,C-419,quote-question,2026-08-11T10:35:00,Asked to escalate to supervisor.
+I-00371,C-308,complaint,2026-06-23T10:28:00,Customer asked about renewal date.
+I-00372,C-050,quote-question,2026-01-11T10:22:00,Sent policy document reminder.
+I-00373,C-281,escalation,2026-06-23T10:06:00,Customer asked about renewal date.
+I-00374,C-460,quote-question,2026-08-05T10:52:00,Customer unhappy with waiting period; logged for review.
+I-00375,C-055,documentation,2026-10-07T10:12:00,Customer asked about renewal date.
+I-00376,C-477,complaint,2026-04-15T10:52:00,Requested a comparison of two fictional plans.
+I-00377,C-367,documentation,2026-02-25T10:26:00,Customer asked about renewal date.
+I-00378,C-475,escalation,2026-02-25T10:57:00,Customer unhappy with waiting period; logged for review.
+I-00379,C-235,escalation,2026-09-05T10:31:00,Customer asked about renewal date.
+I-00380,C-272,renewal,2026-09-14T10:53:00,Asked to escalate to supervisor.
+I-00381,C-248,escalation,2026-03-23T10:37:00,Requested a comparison of two fictional plans.
+I-00382,C-375,quote-question,2026-02-13T10:42:00,Asked to escalate to supervisor.
+I-00383,C-311,documentation,2026-09-13T10:26:00,Asked to escalate to supervisor.
+I-00384,C-469,quote-question,2026-05-13T10:21:00,Sent policy document reminder.
+I-00385,C-232,quote-question,2026-03-14T10:38:00,Asked to escalate to supervisor.
+I-00386,C-154,escalation,2026-06-23T10:47:00,Asked to escalate to supervisor.
+I-00387,C-324,quote-question,2026-04-07T10:39:00,Sent policy document reminder.
+I-00388,C-352,documentation,2026-03-23T10:41:00,Requested a comparison of two fictional plans.
+I-00389,C-258,escalation,2026-06-23T10:07:00,Sent policy document reminder.
+I-00390,C-288,complaint,2026-10-19T10:42:00,Customer unhappy with waiting period; logged for review.
+I-00391,C-346,escalation,2026-05-28T10:27:00,Customer asked about renewal date.
+I-00392,C-268,renewal,2026-01-13T10:09:00,Customer asked about renewal date.
+I-00393,C-344,renewal,2026-04-09T10:48:00,Requested a comparison of two fictional plans.
+I-00394,C-147,documentation,2026-03-27T10:03:00,Sent policy document reminder.
+I-00395,C-105,escalation,2026-01-12T10:52:00,Customer unhappy with waiting period; logged for review.
+I-00396,C-053,escalation,2026-09-28T10:14:00,Asked to escalate to supervisor.
+I-00397,C-200,quote-question,2026-09-26T10:50:00,Sent policy document reminder.
+I-00398,C-355,renewal,2026-07-13T10:26:00,Sent policy document reminder.
+I-00399,C-495,escalation,2026-01-01T10:47:00,Sent policy document reminder.
+I-00400,C-104,escalation,2026-08-27T10:14:00,Sent policy document reminder.
+I-00401,C-387,escalation,2026-09-24T10:38:00,Requested a comparison of two fictional plans.
+I-00402,C-398,quote-question,2026-05-15T10:11:00,Customer asked about renewal date.
+I-00403,C-096,quote-question,2026-09-04T10:24:00,Customer asked about renewal date.
+I-00404,C-220,documentation,2026-09-09T10:08:00,Requested a comparison of two fictional plans.
+I-00405,C-300,documentation,2026-01-11T10:29:00,Requested a comparison of two fictional plans.
+I-00406,C-021,quote-question,2026-06-20T10:03:00,Asked to escalate to supervisor.
+I-00407,C-432,documentation,2026-08-26T10:36:00,Asked to escalate to supervisor.
+I-00408,C-184,renewal,2026-06-17T10:14:00,Requested a comparison of two fictional plans.
+I-00409,C-267,renewal,2026-09-06T10:26:00,Asked to escalate to supervisor.
+I-00410,C-275,complaint,2026-02-12T10:14:00,Requested a comparison of two fictional plans.
+I-00411,C-340,documentation,2026-06-12T10:18:00,Requested a comparison of two fictional plans.
+I-00412,C-487,escalation,2026-09-16T10:35:00,Customer asked about renewal date.
+I-00413,C-059,documentation,2026-08-08T10:57:00,Asked to escalate to supervisor.
+I-00414,C-471,escalation,2026-04-02T10:43:00,Sent policy document reminder.
+I-00415,C-196,renewal,2026-07-09T10:34:00,Sent policy document reminder.
+I-00416,C-013,escalation,2026-06-17T10:51:00,Asked to escalate to supervisor.
+I-00417,C-229,complaint,2026-01-10T10:57:00,Requested a comparison of two fictional plans.
+I-00418,C-165,escalation,2026-02-04T10:10:00,Asked to escalate to supervisor.
+I-00419,C-274,renewal,2026-02-07T10:42:00,Requested a comparison of two fictional plans.
+I-00420,C-443,complaint,2026-02-07T10:34:00,Customer unhappy with waiting period; logged for review.
+I-00421,C-332,renewal,2026-03-01T10:29:00,Sent policy document reminder.
+I-00422,C-020,renewal,2026-02-02T10:11:00,Sent policy document reminder.
+I-00423,C-286,renewal,2026-10-27T10:14:00,Sent policy document reminder.
+I-00424,C-209,complaint,2026-08-21T10:25:00,Customer unhappy with waiting period; logged for review.
+I-00425,C-162,renewal,2026-07-22T10:07:00,Asked to escalate to supervisor.
+I-00426,C-004,escalation,2026-02-25T10:47:00,Asked to escalate to supervisor.
+I-00427,C-024,renewal,2026-06-17T10:06:00,Sent policy document reminder.
+I-00428,C-403,documentation,2026-10-03T10:18:00,Customer unhappy with waiting period; logged for review.
+I-00429,C-196,complaint,2026-01-16T10:10:00,Asked to escalate to supervisor.
+I-00430,C-113,quote-question,2026-07-26T10:51:00,Asked to escalate to supervisor.
+I-00431,C-152,quote-question,2026-05-22T10:56:00,Sent policy document reminder.
+I-00432,C-491,renewal,2026-09-28T10:35:00,Requested a comparison of two fictional plans.
+I-00433,C-064,renewal,2026-01-19T10:38:00,Customer unhappy with waiting period; logged for review.
+I-00434,C-276,escalation,2026-02-10T10:13:00,Sent policy document reminder.
+I-00435,C-109,complaint,2026-09-05T10:10:00,Requested a comparison of two fictional plans.
+I-00436,C-114,escalation,2026-05-07T10:07:00,Requested a comparison of two fictional plans.
+I-00437,C-344,escalation,2026-01-28T10:48:00,Asked to escalate to supervisor.
+I-00438,C-237,escalation,2026-02-10T10:42:00,Customer asked about renewal date.
+I-00439,C-129,renewal,2026-04-24T10:37:00,Customer unhappy with waiting period; logged for review.
+I-00440,C-488,documentation,2026-06-05T10:42:00,Requested a comparison of two fictional plans.
+I-00441,C-052,documentation,2026-10-03T10:57:00,Requested a comparison of two fictional plans.
+I-00442,C-163,complaint,2026-08-11T10:39:00,Sent policy document reminder.
+I-00443,C-356,escalation,2026-03-19T10:36:00,Sent policy document reminder.
+I-00444,C-414,documentation,2026-07-06T10:00:00,Sent policy document reminder.
+I-00445,C-127,quote-question,2026-07-09T10:53:00,Sent policy document reminder.
+I-00446,C-069,documentation,2026-08-15T10:28:00,Sent policy document reminder.
+I-00447,C-397,documentation,2026-08-18T10:06:00,Requested a comparison of two fictional plans.
+I-00448,C-331,escalation,2026-02-27T10:17:00,Requested a comparison of two fictional plans.
+I-00449,C-457,escalation,2026-04-09T10:46:00,Customer asked about renewal date.
+I-00450,C-373,renewal,2026-01-28T10:32:00,Customer asked about renewal date.
+I-00451,C-417,escalation,2026-10-13T10:49:00,Asked to escalate to supervisor.
+I-00452,C-109,renewal,2026-09-09T10:34:00,Asked to escalate to supervisor.
+I-00453,C-242,quote-question,2026-06-13T10:14:00,Asked to escalate to supervisor.
+I-00454,C-376,documentation,2026-03-15T10:32:00,Asked to escalate to supervisor.
+I-00455,C-047,complaint,2026-06-17T10:00:00,Requested a comparison of two fictional plans.
+I-00456,C-435,escalation,2026-03-25T10:32:00,Requested a comparison of two fictional plans.
+I-00457,C-229,quote-question,2026-03-19T10:36:00,Requested a comparison of two fictional plans.
+I-00458,C-377,complaint,2026-06-02T10:14:00,Customer unhappy with waiting period; logged for review.
+I-00459,C-119,renewal,2026-05-12T10:14:00,Customer asked about renewal date.
+I-00460,C-343,quote-question,2026-09-26T10:23:00,Customer unhappy with waiting period; logged for review.
+I-00461,C-241,complaint,2026-01-02T10:41:00,Sent policy document reminder.
+I-00462,C-053,escalation,2026-05-27T10:47:00,Sent policy document reminder.
+I-00463,C-297,escalation,2026-10-06T10:24:00,Customer unhappy with waiting period; logged for review.
+I-00464,C-188,escalation,2026-02-17T10:16:00,Customer unhappy with waiting period; logged for review.
+I-00465,C-499,quote-question,2026-09-13T10:22:00,Sent policy document reminder.
+I-00466,C-250,complaint,2026-10-01T10:32:00,Requested a comparison of two fictional plans.
+I-00467,C-226,quote-question,2026-04-03T10:32:00,Sent policy document reminder.
+I-00468,C-109,quote-question,2026-03-06T10:23:00,Asked to escalate to supervisor.
+I-00469,C-368,renewal,2026-04-14T10:51:00,Sent policy document reminder.
+I-00470,C-369,renewal,2026-08-22T10:30:00,Customer unhappy with waiting period; logged for review.
+I-00471,C-108,escalation,2026-03-21T10:53:00,Customer unhappy with waiting period; logged for review.
+I-00472,C-012,quote-question,2026-01-05T10:36:00,Asked to escalate to supervisor.
+I-00473,C-083,quote-question,2026-09-02T10:57:00,Asked to escalate to supervisor.
+I-00474,C-076,renewal,2026-03-09T10:59:00,Requested a comparison of two fictional plans.
+I-00475,C-265,complaint,2026-10-19T10:40:00,Customer asked about renewal date.
+I-00476,C-450,documentation,2026-02-07T10:28:00,Asked to escalate to supervisor.
+I-00477,C-242,complaint,2026-03-08T10:53:00,Customer unhappy with waiting period; logged for review.
+I-00478,C-308,quote-question,2026-10-27T10:49:00,Requested a comparison of two fictional plans.
+I-00479,C-320,escalation,2026-05-06T10:46:00,Sent policy document reminder.
+I-00480,C-473,complaint,2026-10-19T10:04:00,Requested a comparison of two fictional plans.
+I-00481,C-194,complaint,2026-03-04T10:01:00,Requested a comparison of two fictional plans.
+I-00482,C-268,escalation,2026-07-27T10:09:00,Asked to escalate to supervisor.
+I-00483,C-050,quote-question,2026-08-20T10:38:00,Customer asked about renewal date.
+I-00484,C-450,escalation,2026-09-25T10:07:00,Customer asked about renewal date.
+I-00485,C-247,quote-question,2026-10-18T10:52:00,Customer asked about renewal date.
+I-00486,C-460,complaint,2026-09-14T10:23:00,Customer asked about renewal date.
+I-00487,C-358,escalation,2026-07-08T10:51:00,Customer unhappy with waiting period; logged for review.
+I-00488,C-405,complaint,2026-06-19T10:51:00,Asked to escalate to supervisor.
+I-00489,C-051,complaint,2026-03-09T10:30:00,Requested a comparison of two fictional plans.
+I-00490,C-466,renewal,2026-05-20T10:56:00,Asked to escalate to supervisor.
+I-00491,C-210,documentation,2026-04-01T10:45:00,Customer asked about renewal date.
+I-00492,C-296,escalation,2026-02-17T10:00:00,Customer unhappy with waiting period; logged for review.
+I-00493,C-336,quote-question,2026-06-14T10:23:00,Customer asked about renewal date.
+I-00494,C-080,complaint,2026-10-09T10:16:00,Asked to escalate to supervisor.
+I-00495,C-217,escalation,2026-06-20T10:17:00,Customer unhappy with waiting period; logged for review.
+I-00496,C-387,quote-question,2026-07-18T10:50:00,Asked to escalate to supervisor.
+I-00497,C-248,quote-question,2026-06-18T10:35:00,Customer unhappy with waiting period; logged for review.
+I-00498,C-130,documentation,2026-10-12T10:49:00,Customer unhappy with waiting period; logged for review.
+I-00499,C-377,quote-question,2026-02-24T10:14:00,Customer unhappy with waiting period; logged for review.
+I-00500,C-401,quote-question,2026-02-07T10:32:00,Customer unhappy with waiting period; logged for review.
+I-00501,C-403,documentation,2026-09-20T10:44:00,Customer asked about renewal date.
+I-00502,C-083,complaint,2026-01-26T10:05:00,Requested a comparison of two fictional plans.
+I-00503,C-242,escalation,2026-07-03T10:04:00,Sent policy document reminder.
+I-00504,C-114,documentation,2026-02-20T10:02:00,Customer unhappy with waiting period; logged for review.
+I-00505,C-477,complaint,2026-10-21T10:33:00,Sent policy document reminder.
+I-00506,C-365,escalation,2026-01-25T10:52:00,Requested a comparison of two fictional plans.
+I-00507,C-328,complaint,2026-08-01T10:12:00,Asked to escalate to supervisor.
+I-00508,C-147,quote-question,2026-01-26T10:38:00,Asked to escalate to supervisor.
+I-00509,C-265,quote-question,2026-10-06T10:43:00,Customer asked about renewal date.
+I-00510,C-185,quote-question,2026-01-06T10:05:00,Sent policy document reminder.
+I-00511,C-400,complaint,2026-06-22T10:25:00,Customer unhappy with waiting period; logged for review.
+I-00512,C-301,quote-question,2026-09-01T10:47:00,Customer asked about renewal date.
+I-00513,C-471,renewal,2026-09-10T10:46:00,Asked to escalate to supervisor.
+I-00514,C-469,escalation,2026-06-12T10:52:00,Sent policy document reminder.
+I-00515,C-116,escalation,2026-04-15T10:59:00,Customer unhappy with waiting period; logged for review.
+I-00516,C-295,renewal,2026-05-06T10:26:00,Asked to escalate to supervisor.
+I-00517,C-055,escalation,2026-02-17T10:18:00,Sent policy document reminder.
+I-00518,C-485,renewal,2026-09-09T10:56:00,Asked to escalate to supervisor.
+I-00519,C-417,escalation,2026-05-23T10:28:00,Customer unhappy with waiting period; logged for review.
+I-00520,C-289,complaint,2026-04-25T10:21:00,Customer unhappy with waiting period; logged for review.
+I-00521,C-349,complaint,2026-10-28T10:01:00,Customer unhappy with waiting period; logged for review.
+I-00522,C-060,documentation,2026-02-13T10:40:00,Requested a comparison of two fictional plans.
+I-00523,C-347,quote-question,2026-06-14T10:22:00,Asked to escalate to supervisor.
+I-00524,C-275,renewal,2026-05-08T10:18:00,Customer asked about renewal date.
+I-00525,C-205,documentation,2026-02-18T10:59:00,Requested a comparison of two fictional plans.
+I-00526,C-244,documentation,2026-06-07T10:57:00,Asked to escalate to supervisor.
+I-00527,C-138,quote-question,2026-04-16T10:47:00,Requested a comparison of two fictional plans.
+I-00528,C-121,quote-question,2026-05-07T10:14:00,Requested a comparison of two fictional plans.
+I-00529,C-428,quote-question,2026-10-12T10:09:00,Customer asked about renewal date.
+I-00530,C-062,renewal,2026-08-20T10:00:00,Asked to escalate to supervisor.
+I-00531,C-491,renewal,2026-08-12T10:39:00,Sent policy document reminder.
+I-00532,C-253,escalation,2026-05-16T10:11:00,Asked to escalate to supervisor.
+I-00533,C-144,complaint,2026-04-25T10:36:00,Requested a comparison of two fictional plans.
+I-00534,C-028,escalation,2026-07-16T10:34:00,Customer asked about renewal date.
+I-00535,C-258,documentation,2026-07-28T10:43:00,Requested a comparison of two fictional plans.
+I-00536,C-235,renewal,2026-09-15T10:20:00,Customer asked about renewal date.
+I-00537,C-007,quote-question,2026-07-19T10:06:00,Sent policy document reminder.
+I-00538,C-186,escalation,2026-05-06T10:35:00,Sent policy document reminder.
+I-00539,C-122,documentation,2026-08-20T10:21:00,Sent policy document reminder.
+I-00540,C-095,complaint,2026-07-07T10:26:00,Sent policy document reminder.
+I-00541,C-187,complaint,2026-05-15T10:11:00,Asked to escalate to supervisor.
+I-00542,C-068,escalation,2026-04-27T10:06:00,Sent policy document reminder.
+I-00543,C-412,quote-question,2026-09-14T10:54:00,Customer unhappy with waiting period; logged for review.
+I-00544,C-101,quote-question,2026-03-16T10:51:00,Customer asked about renewal date.
+I-00545,C-091,complaint,2026-08-05T10:57:00,Asked to escalate to supervisor.
+I-00546,C-274,documentation,2026-08-10T10:16:00,Asked to escalate to supervisor.
+I-00547,C-440,escalation,2026-01-13T10:06:00,Requested a comparison of two fictional plans.
+I-00548,C-031,quote-question,2026-05-16T10:53:00,Customer asked about renewal date.
+I-00549,C-231,documentation,2026-05-12T10:23:00,Asked to escalate to supervisor.
+I-00550,C-286,documentation,2026-06-01T10:26:00,Customer asked about renewal date.
+I-00551,C-180,escalation,2026-04-19T10:36:00,Asked to escalate to supervisor.
+I-00552,C-090,documentation,2026-06-11T10:43:00,Asked to escalate to supervisor.
+I-00553,C-250,complaint,2026-02-13T10:39:00,Sent policy document reminder.
+I-00554,C-238,quote-question,2026-03-21T10:51:00,Sent policy document reminder.
+I-00555,C-216,escalation,2026-10-13T10:54:00,Customer asked about renewal date.
+I-00556,C-041,quote-question,2026-06-08T10:20:00,Sent policy document reminder.
+I-00557,C-335,documentation,2026-05-20T10:41:00,Customer unhappy with waiting period; logged for review.
+I-00558,C-139,complaint,2026-06-24T10:37:00,Asked to escalate to supervisor.
+I-00559,C-495,complaint,2026-07-06T10:11:00,Customer asked about renewal date.
+I-00560,C-065,quote-question,2026-05-24T10:44:00,Customer asked about renewal date.
+I-00561,C-108,quote-question,2026-07-04T10:06:00,Customer asked about renewal date.
+I-00562,C-480,complaint,2026-09-02T10:01:00,Customer unhappy with waiting period; logged for review.
+I-00563,C-269,renewal,2026-02-09T10:39:00,Requested a comparison of two fictional plans.
+I-00564,C-044,complaint,2026-05-08T10:15:00,Sent policy document reminder.
+I-00565,C-227,quote-question,2026-03-17T10:53:00,Requested a comparison of two fictional plans.
+I-00566,C-015,renewal,2026-06-28T10:58:00,Sent policy document reminder.
+I-00567,C-443,complaint,2026-08-28T10:34:00,Sent policy document reminder.
+I-00568,C-281,complaint,2026-03-23T10:34:00,Requested a comparison of two fictional plans.
+I-00569,C-303,escalation,2026-08-21T10:47:00,Asked to escalate to supervisor.
+I-00570,C-223,escalation,2026-09-10T10:58:00,Sent policy document reminder.
+I-00571,C-247,escalation,2026-04-26T10:05:00,Customer unhappy with waiting period; logged for review.
+I-00572,C-158,documentation,2026-07-09T10:09:00,Sent policy document reminder.
+I-00573,C-006,renewal,2026-09-27T10:48:00,Requested a comparison of two fictional plans.
+I-00574,C-177,documentation,2026-08-18T10:00:00,Customer unhappy with waiting period; logged for review.
+I-00575,C-485,complaint,2026-05-01T10:49:00,Customer unhappy with waiting period; logged for review.
+I-00576,C-409,documentation,2026-10-08T10:50:00,Customer asked about renewal date.
+I-00577,C-281,documentation,2026-04-14T10:56:00,Asked to escalate to supervisor.
+I-00578,C-224,complaint,2026-04-06T10:45:00,Customer unhappy with waiting period; logged for review.
+I-00579,C-425,complaint,2026-04-09T10:05:00,Customer unhappy with waiting period; logged for review.
+I-00580,C-321,quote-question,2026-09-25T10:51:00,Asked to escalate to supervisor.
+I-00581,C-414,documentation,2026-05-21T10:47:00,Asked to escalate to supervisor.
+I-00582,C-415,documentation,2026-07-07T10:54:00,Customer asked about renewal date.
+I-00583,C-094,quote-question,2026-05-04T10:40:00,Customer unhappy with waiting period; logged for review.
+I-00584,C-317,complaint,2026-05-23T10:39:00,Customer unhappy with waiting period; logged for review.
+I-00585,C-097,documentation,2026-01-05T10:03:00,Asked to escalate to supervisor.
+I-00586,C-012,quote-question,2026-02-10T10:17:00,Requested a comparison of two fictional plans.
+I-00587,C-367,complaint,2026-01-08T10:05:00,Requested a comparison of two fictional plans.
+I-00588,C-008,complaint,2026-04-11T10:26:00,Sent policy document reminder.
+I-00589,C-403,complaint,2026-06-15T10:44:00,Customer asked about renewal date.
+I-00590,C-170,renewal,2026-03-02T10:17:00,Customer unhappy with waiting period; logged for review.
+I-00591,C-037,escalation,2026-08-06T10:12:00,Sent policy document reminder.
+I-00592,C-419,complaint,2026-01-04T10:49:00,Requested a comparison of two fictional plans.
+I-00593,C-198,complaint,2026-04-24T10:02:00,Requested a comparison of two fictional plans.
+I-00594,C-236,renewal,2026-09-22T10:13:00,Customer unhappy with waiting period; logged for review.
+I-00595,C-200,documentation,2026-06-06T10:40:00,Customer asked about renewal date.
+I-00596,C-382,escalation,2026-09-04T10:16:00,Customer unhappy with waiting period; logged for review.
+I-00597,C-327,documentation,2026-04-12T10:56:00,Customer asked about renewal date.
+I-00598,C-443,quote-question,2026-02-08T10:40:00,Customer unhappy with waiting period; logged for review.
+I-00599,C-167,renewal,2026-03-26T10:17:00,Asked to escalate to supervisor.
+I-00600,C-062,complaint,2026-04-01T10:02:00,Asked to escalate to supervisor.
+I-00601,C-402,complaint,2026-10-05T10:23:00,Customer asked about renewal date.
+I-00602,C-128,quote-question,2026-08-03T10:43:00,Asked to escalate to supervisor.
+I-00603,C-174,renewal,2026-01-12T10:41:00,Requested a comparison of two fictional plans.
+I-00604,C-360,escalation,2026-02-05T10:31:00,Requested a comparison of two fictional plans.
+I-00605,C-163,escalation,2026-06-26T10:57:00,Customer unhappy with waiting period; logged for review.
+I-00606,C-376,quote-question,2026-01-23T10:24:00,Sent policy document reminder.
+I-00607,C-371,quote-question,2026-05-02T10:31:00,Customer unhappy with waiting period; logged for review.
+I-00608,C-287,documentation,2026-09-23T10:31:00,Requested a comparison of two fictional plans.
+I-00609,C-291,quote-question,2026-09-12T10:20:00,Customer unhappy with waiting period; logged for review.
+I-00610,C-141,escalation,2026-09-06T10:04:00,Asked to escalate to supervisor.
+I-00611,C-080,complaint,2026-05-27T10:16:00,Asked to escalate to supervisor.
+I-00612,C-188,complaint,2026-01-25T10:40:00,Asked to escalate to supervisor.
+I-00613,C-195,quote-question,2026-01-20T10:54:00,Sent policy document reminder.
+I-00614,C-398,escalation,2026-04-11T10:46:00,Customer asked about renewal date.
+I-00615,C-338,escalation,2026-07-07T10:33:00,Customer unhappy with waiting period; logged for review.
+I-00616,C-393,escalation,2026-03-20T10:18:00,Sent policy document reminder.
+I-00617,C-210,documentation,2026-02-04T10:33:00,Customer asked about renewal date.
+I-00618,C-023,quote-question,2026-03-28T10:02:00,Requested a comparison of two fictional plans.
+I-00619,C-055,complaint,2026-04-04T10:02:00,Asked to escalate to supervisor.
+I-00620,C-329,complaint,2026-08-17T10:39:00,Asked to escalate to supervisor.
+I-00621,C-132,renewal,2026-06-08T10:38:00,Customer asked about renewal date.
+I-00622,C-007,quote-question,2026-08-27T10:05:00,Customer unhappy with waiting period; logged for review.
+I-00623,C-411,renewal,2026-06-18T10:47:00,Customer unhappy with waiting period; logged for review.
+I-00624,C-421,documentation,2026-01-27T10:39:00,Sent policy document reminder.
+I-00625,C-271,renewal,2026-02-27T10:19:00,Customer asked about renewal date.
+I-00626,C-484,quote-question,2026-09-04T10:06:00,Requested a comparison of two fictional plans.
+I-00627,C-273,complaint,2026-04-07T10:33:00,Requested a comparison of two fictional plans.
+I-00628,C-292,quote-question,2026-09-24T10:35:00,Customer unhappy with waiting period; logged for review.
+I-00629,C-383,renewal,2026-10-12T10:43:00,Customer unhappy with waiting period; logged for review.
+I-00630,C-360,complaint,2026-02-06T10:50:00,Requested a comparison of two fictional plans.
+I-00631,C-282,complaint,2026-09-11T10:42:00,Requested a comparison of two fictional plans.
+I-00632,C-274,escalation,2026-08-12T10:57:00,Sent policy document reminder.
+I-00633,C-282,documentation,2026-06-14T10:48:00,Customer unhappy with waiting period; logged for review.
+I-00634,C-423,documentation,2026-10-08T10:36:00,Asked to escalate to supervisor.
+I-00635,C-110,complaint,2026-09-24T10:16:00,Sent policy document reminder.
+I-00636,C-493,complaint,2026-08-13T10:00:00,Customer asked about renewal date.
+I-00637,C-146,escalation,2026-01-17T10:08:00,Sent policy document reminder.
+I-00638,C-004,documentation,2026-04-07T10:54:00,Sent policy document reminder.
+I-00639,C-012,documentation,2026-09-17T10:35:00,Asked to escalate to supervisor.
+I-00640,C-475,escalation,2026-03-04T10:02:00,Customer unhappy with waiting period; logged for review.
+I-00641,C-183,quote-question,2026-03-09T10:23:00,Asked to escalate to supervisor.
+I-00642,C-128,quote-question,2026-05-26T10:19:00,Customer asked about renewal date.
+I-00643,C-293,complaint,2026-10-07T10:46:00,Customer asked about renewal date.
+I-00644,C-371,documentation,2026-08-06T10:31:00,Asked to escalate to supervisor.
+I-00645,C-420,renewal,2026-10-21T10:19:00,Customer asked about renewal date.
+I-00646,C-375,escalation,2026-07-03T10:49:00,Customer asked about renewal date.
+I-00647,C-472,documentation,2026-06-27T10:27:00,Customer unhappy with waiting period; logged for review.
+I-00648,C-477,renewal,2026-04-24T10:41:00,Asked to escalate to supervisor.
+I-00649,C-476,renewal,2026-07-02T10:19:00,Asked to escalate to supervisor.
+I-00650,C-022,documentation,2026-09-19T10:09:00,Sent policy document reminder.
+I-00651,C-258,quote-question,2026-03-02T10:43:00,Customer unhappy with waiting period; logged for review.
+I-00652,C-498,complaint,2026-10-19T10:32:00,Customer asked about renewal date.
+I-00653,C-114,complaint,2026-05-26T10:25:00,Requested a comparison of two fictional plans.
+I-00654,C-068,documentation,2026-02-16T10:36:00,Customer asked about renewal date.
+I-00655,C-281,complaint,2026-05-03T10:25:00,Asked to escalate to supervisor.
+I-00656,C-223,quote-question,2026-03-16T10:35:00,Requested a comparison of two fictional plans.
+I-00657,C-250,complaint,2026-10-07T10:35:00,Asked to escalate to supervisor.
+I-00658,C-377,escalation,2026-04-08T10:04:00,Sent policy document reminder.
+I-00659,C-398,complaint,2026-06-22T10:59:00,Asked to escalate to supervisor.
+I-00660,C-046,renewal,2026-07-14T10:23:00,Sent policy document reminder.
+I-00661,C-098,documentation,2026-06-20T10:41:00,Customer asked about renewal date.
+I-00662,C-395,documentation,2026-03-12T10:39:00,Customer unhappy with waiting period; logged for review.
+I-00663,C-320,quote-question,2026-08-02T10:59:00,Requested a comparison of two fictional plans.
+I-00664,C-103,documentation,2026-03-25T10:46:00,Customer asked about renewal date.
+I-00665,C-058,renewal,2026-04-20T10:59:00,Requested a comparison of two fictional plans.
+I-00666,C-445,documentation,2026-01-11T10:44:00,Customer asked about renewal date.
+I-00667,C-157,complaint,2026-08-01T10:21:00,Requested a comparison of two fictional plans.
+I-00668,C-379,escalation,2026-04-07T10:34:00,Asked to escalate to supervisor.
+I-00669,C-385,documentation,2026-09-16T10:39:00,Requested a comparison of two fictional plans.
+I-00670,C-356,renewal,2026-07-19T10:57:00,Asked to escalate to supervisor.
+I-00671,C-023,documentation,2026-03-02T10:18:00,Requested a comparison of two fictional plans.
+I-00672,C-405,escalation,2026-05-02T10:29:00,Customer asked about renewal date.
+I-00673,C-035,complaint,2026-05-22T10:54:00,Sent policy document reminder.
+I-00674,C-443,renewal,2026-01-10T10:55:00,Customer unhappy with waiting period; logged for review.
+I-00675,C-119,complaint,2026-09-23T10:06:00,Sent policy document reminder.
+I-00676,C-249,escalation,2026-09-03T10:11:00,Requested a comparison of two fictional plans.
+I-00677,C-257,complaint,2026-09-23T10:01:00,Customer asked about renewal date.
+I-00678,C-127,escalation,2026-05-11T10:31:00,Customer unhappy with waiting period; logged for review.
+I-00679,C-382,quote-question,2026-01-12T10:43:00,Sent policy document reminder.
+I-00680,C-182,documentation,2026-04-17T10:17:00,Customer asked about renewal date.
+I-00681,C-321,documentation,2026-07-27T10:01:00,Asked to escalate to supervisor.
+I-00682,C-486,documentation,2026-04-05T10:21:00,Customer unhappy with waiting period; logged for review.
+I-00683,C-337,quote-question,2026-02-24T10:24:00,Asked to escalate to supervisor.
+I-00684,C-492,escalation,2026-04-14T10:15:00,Asked to escalate to supervisor.
+I-00685,C-079,complaint,2026-05-20T10:21:00,Customer unhappy with waiting period; logged for review.
+I-00686,C-278,quote-question,2026-04-21T10:08:00,Asked to escalate to supervisor.
+I-00687,C-278,quote-question,2026-03-10T10:44:00,Asked to escalate to supervisor.
+I-00688,C-466,quote-question,2026-07-25T10:09:00,Asked to escalate to supervisor.
+I-00689,C-470,quote-question,2026-06-03T10:35:00,Asked to escalate to supervisor.
+I-00690,C-486,renewal,2026-03-11T10:53:00,Requested a comparison of two fictional plans.
+I-00691,C-373,renewal,2026-06-14T10:26:00,Sent policy document reminder.
+I-00692,C-227,documentation,2026-03-25T10:12:00,Customer asked about renewal date.
+I-00693,C-068,quote-question,2026-01-25T10:39:00,Asked to escalate to supervisor.
+I-00694,C-137,escalation,2026-10-20T10:14:00,Asked to escalate to supervisor.
+I-00695,C-119,quote-question,2026-01-12T10:05:00,Customer unhappy with waiting period; logged for review.
+I-00696,C-069,escalation,2026-10-16T10:45:00,Sent policy document reminder.
+I-00697,C-095,complaint,2026-08-16T10:08:00,Requested a comparison of two fictional plans.
+I-00698,C-099,quote-question,2026-01-14T10:48:00,Customer asked about renewal date.
+I-00699,C-474,documentation,2026-07-08T10:47:00,Requested a comparison of two fictional plans.
+I-00700,C-388,quote-question,2026-02-06T10:59:00,Customer unhappy with waiting period; logged for review.
+I-00701,C-444,escalation,2026-08-23T10:20:00,Customer unhappy with waiting period; logged for review.
+I-00702,C-455,quote-question,2026-07-13T10:49:00,Customer asked about renewal date.
+I-00703,C-312,complaint,2026-06-13T10:39:00,Asked to escalate to supervisor.
+I-00704,C-305,escalation,2026-09-21T10:56:00,Customer asked about renewal date.
+I-00705,C-267,renewal,2026-08-15T10:52:00,Customer asked about renewal date.
+I-00706,C-450,quote-question,2026-09-18T10:25:00,Customer asked about renewal date.
+I-00707,C-286,complaint,2026-09-25T10:40:00,Customer asked about renewal date.
+I-00708,C-098,documentation,2026-08-13T10:56:00,Sent policy document reminder.
+I-00709,C-397,documentation,2026-08-06T10:27:00,Sent policy document reminder.
+I-00710,C-314,renewal,2026-09-05T10:29:00,Customer unhappy with waiting period; logged for review.
+I-00711,C-047,escalation,2026-02-06T10:49:00,Asked to escalate to supervisor.
+I-00712,C-481,escalation,2026-03-13T10:26:00,Sent policy document reminder.
+I-00713,C-231,renewal,2026-03-15T10:37:00,Requested a comparison of two fictional plans.
+I-00714,C-452,complaint,2026-02-09T10:20:00,Requested a comparison of two fictional plans.
+I-00715,C-368,renewal,2026-02-04T10:45:00,Customer unhappy with waiting period; logged for review.
+I-00716,C-325,documentation,2026-02-17T10:45:00,Customer unhappy with waiting period; logged for review.
+I-00717,C-373,escalation,2026-10-06T10:24:00,Asked to escalate to supervisor.
+I-00718,C-195,renewal,2026-03-11T10:36:00,Requested a comparison of two fictional plans.
+I-00719,C-084,quote-question,2026-03-25T10:45:00,Customer asked about renewal date.
+I-00720,C-215,documentation,2026-05-24T10:49:00,Customer unhappy with waiting period; logged for review.
+I-00721,C-148,quote-question,2026-02-05T10:12:00,Customer asked about renewal date.
+I-00722,C-319,documentation,2026-01-15T10:31:00,Customer unhappy with waiting period; logged for review.
+I-00723,C-279,renewal,2026-10-16T10:15:00,Requested a comparison of two fictional plans.
+I-00724,C-302,complaint,2026-08-14T10:28:00,Customer asked about renewal date.
+I-00725,C-308,escalation,2026-01-08T10:56:00,Asked to escalate to supervisor.
+I-00726,C-143,escalation,2026-09-27T10:52:00,Requested a comparison of two fictional plans.
+I-00727,C-026,quote-question,2026-03-02T10:41:00,Sent policy document reminder.
+I-00728,C-019,quote-question,2026-01-22T10:36:00,Asked to escalate to supervisor.
+I-00729,C-153,documentation,2026-02-02T10:06:00,Customer unhappy with waiting period; logged for review.
+I-00730,C-092,quote-question,2026-05-20T10:42:00,Asked to escalate to supervisor.
+I-00731,C-294,escalation,2026-03-15T10:47:00,Asked to escalate to supervisor.
+I-00732,C-185,renewal,2026-02-25T10:19:00,Sent policy document reminder.
+I-00733,C-189,complaint,2026-02-25T10:27:00,Asked to escalate to supervisor.
+I-00734,C-034,documentation,2026-08-05T10:07:00,Sent policy document reminder.
+I-00735,C-169,escalation,2026-07-17T10:13:00,Requested a comparison of two fictional plans.
+I-00736,C-314,renewal,2026-02-19T10:46:00,Asked to escalate to supervisor.
+I-00737,C-045,complaint,2026-10-26T10:45:00,Sent policy document reminder.
+I-00738,C-219,escalation,2026-06-09T10:33:00,Asked to escalate to supervisor.
+I-00739,C-320,documentation,2026-03-20T10:36:00,Customer unhappy with waiting period; logged for review.
+I-00740,C-267,complaint,2026-08-26T10:11:00,Asked to escalate to supervisor.
+I-00741,C-120,documentation,2026-04-01T10:07:00,Customer asked about renewal date.
+I-00742,C-239,renewal,2026-04-26T10:39:00,Customer unhappy with waiting period; logged for review.
+I-00743,C-212,renewal,2026-06-12T10:35:00,Requested a comparison of two fictional plans.
+I-00744,C-006,quote-question,2026-05-09T10:50:00,Customer asked about renewal date.
+I-00745,C-158,documentation,2026-09-18T10:20:00,Customer asked about renewal date.
+I-00746,C-059,documentation,2026-06-13T10:46:00,Asked to escalate to supervisor.
+I-00747,C-316,renewal,2026-03-07T10:21:00,Sent policy document reminder.
+I-00748,C-473,complaint,2026-08-26T10:02:00,Requested a comparison of two fictional plans.
+I-00749,C-247,quote-question,2026-08-28T10:34:00,Sent policy document reminder.
+I-00750,C-237,complaint,2026-01-27T10:33:00,Sent policy document reminder.
+I-00751,C-290,documentation,2026-09-18T10:01:00,Requested a comparison of two fictional plans.
+I-00752,C-296,documentation,2026-06-03T10:09:00,Sent policy document reminder.
+I-00753,C-431,renewal,2026-06-13T10:40:00,Asked to escalate to supervisor.
+I-00754,C-432,quote-question,2026-10-20T10:24:00,Requested a comparison of two fictional plans.
+I-00755,C-305,renewal,2026-05-23T10:54:00,Sent policy document reminder.
+I-00756,C-364,renewal,2026-05-14T10:05:00,Customer unhappy with waiting period; logged for review.
+I-00757,C-450,quote-question,2026-06-15T10:53:00,Sent policy document reminder.
+I-00758,C-111,escalation,2026-05-06T10:07:00,Sent policy document reminder.
+I-00759,C-402,renewal,2026-04-03T10:28:00,Asked to escalate to supervisor.
+I-00760,C-013,complaint,2026-09-05T10:12:00,Sent policy document reminder.
+I-00761,C-473,complaint,2026-09-10T10:49:00,Sent policy document reminder.
+I-00762,C-074,renewal,2026-09-22T10:08:00,Requested a comparison of two fictional plans.
+I-00763,C-371,renewal,2026-08-13T10:45:00,Asked to escalate to supervisor.
+I-00764,C-060,renewal,2026-05-02T10:43:00,Asked to escalate to supervisor.
+I-00765,C-447,renewal,2026-06-15T10:56:00,Customer asked about renewal date.
+I-00766,C-053,escalation,2026-05-01T10:36:00,Sent policy document reminder.
+I-00767,C-328,quote-question,2026-06-07T10:12:00,Sent policy document reminder.
+I-00768,C-142,escalation,2026-06-25T10:28:00,Customer asked about renewal date.
+I-00769,C-140,quote-question,2026-03-09T10:07:00,Customer asked about renewal date.
+I-00770,C-491,escalation,2026-09-17T10:06:00,Requested a comparison of two fictional plans.
+I-00771,C-278,documentation,2026-09-11T10:17:00,Requested a comparison of two fictional plans.
+I-00772,C-483,documentation,2026-10-08T10:10:00,Customer asked about renewal date.
+I-00773,C-160,escalation,2026-06-18T10:28:00,Customer asked about renewal date.
+I-00774,C-067,renewal,2026-08-22T10:03:00,Customer asked about renewal date.
+I-00775,C-197,renewal,2026-02-14T10:25:00,Requested a comparison of two fictional plans.
+I-00776,C-361,escalation,2026-10-21T10:53:00,Customer unhappy with waiting period; logged for review.
+I-00777,C-316,documentation,2026-05-11T10:52:00,Requested a comparison of two fictional plans.
+I-00778,C-366,escalation,2026-02-25T10:48:00,Customer unhappy with waiting period; logged for review.
+I-00779,C-291,quote-question,2026-02-27T10:51:00,Customer unhappy with waiting period; logged for review.
+I-00780,C-050,complaint,2026-05-22T10:41:00,Customer unhappy with waiting period; logged for review.
+I-00781,C-241,quote-question,2026-04-05T10:55:00,Asked to escalate to supervisor.
+I-00782,C-133,documentation,2026-07-06T10:44:00,Sent policy document reminder.
+I-00783,C-404,documentation,2026-08-16T10:01:00,Customer asked about renewal date.
+I-00784,C-244,renewal,2026-06-16T10:29:00,Requested a comparison of two fictional plans.
+I-00785,C-145,documentation,2026-10-19T10:08:00,Asked to escalate to supervisor.
+I-00786,C-053,complaint,2026-02-11T10:35:00,Customer asked about renewal date.
+I-00787,C-406,documentation,2026-09-15T10:25:00,Asked to escalate to supervisor.
+I-00788,C-212,quote-question,2026-10-08T10:35:00,Requested a comparison of two fictional plans.
+I-00789,C-499,complaint,2026-07-03T10:21:00,Requested a comparison of two fictional plans.
+I-00790,C-417,escalation,2026-07-26T10:27:00,Asked to escalate to supervisor.
+I-00791,C-404,documentation,2026-09-23T10:15:00,Requested a comparison of two fictional plans.
+I-00792,C-340,renewal,2026-10-27T10:31:00,Customer asked about renewal date.
+I-00793,C-304,escalation,2026-08-11T10:35:00,Customer asked about renewal date.
+I-00794,C-421,complaint,2026-03-10T10:25:00,Customer asked about renewal date.
+I-00795,C-307,renewal,2026-10-25T10:52:00,Customer unhappy with waiting period; logged for review.
+I-00796,C-168,complaint,2026-01-03T10:13:00,Requested a comparison of two fictional plans.
+I-00797,C-455,escalation,2026-01-25T10:09:00,Requested a comparison of two fictional plans.
+I-00798,C-232,escalation,2026-05-13T10:39:00,Asked to escalate to supervisor.
+I-00799,C-229,quote-question,2026-04-22T10:56:00,Sent policy document reminder.
+I-00800,C-154,escalation,2026-05-14T10:45:00,Sent policy document reminder.
+I-00801,C-046,escalation,2026-01-20T10:32:00,Customer unhappy with waiting period; logged for review.
+I-00802,C-434,quote-question,2026-05-02T10:23:00,Asked to escalate to supervisor.
+I-00803,C-496,renewal,2026-01-23T10:35:00,Sent policy document reminder.
+I-00804,C-057,documentation,2026-01-08T10:27:00,Asked to escalate to supervisor.
+I-00805,C-202,documentation,2026-07-13T10:24:00,Customer unhappy with waiting period; logged for review.
+I-00806,C-280,quote-question,2026-03-16T10:08:00,Requested a comparison of two fictional plans.
+I-00807,C-285,complaint,2026-06-27T10:26:00,Requested a comparison of two fictional plans.
+I-00808,C-148,quote-question,2026-03-01T10:04:00,Customer asked about renewal date.
+I-00809,C-074,complaint,2026-07-05T10:05:00,Requested a comparison of two fictional plans.
+I-00810,C-329,complaint,2026-08-26T10:44:00,Asked to escalate to supervisor.
+I-00811,C-477,complaint,2026-10-06T10:29:00,Asked to escalate to supervisor.
+I-00812,C-218,escalation,2026-08-13T10:22:00,Requested a comparison of two fictional plans.
+I-00813,C-096,complaint,2026-10-01T10:36:00,Customer unhappy with waiting period; logged for review.
+I-00814,C-434,quote-question,2026-09-09T10:26:00,Asked to escalate to supervisor.
+I-00815,C-296,documentation,2026-01-02T10:36:00,Customer unhappy with waiting period; logged for review.
+I-00816,C-361,documentation,2026-02-19T10:30:00,Customer asked about renewal date.
+I-00817,C-073,escalation,2026-05-15T10:33:00,Customer asked about renewal date.
+I-00818,C-268,escalation,2026-02-08T10:30:00,Customer asked about renewal date.
+I-00819,C-351,escalation,2026-10-10T10:39:00,Customer asked about renewal date.
+I-00820,C-463,documentation,2026-09-25T10:00:00,Customer unhappy with waiting period; logged for review.
+I-00821,C-233,escalation,2026-08-19T10:46:00,Sent policy document reminder.
+I-00822,C-216,documentation,2026-05-10T10:10:00,Customer asked about renewal date.
+I-00823,C-356,escalation,2026-05-24T10:50:00,Asked to escalate to supervisor.
+I-00824,C-134,renewal,2026-08-19T10:10:00,Asked to escalate to supervisor.
+I-00825,C-027,documentation,2026-10-01T10:18:00,Customer unhappy with waiting period; logged for review.
+I-00826,C-043,quote-question,2026-09-03T10:54:00,Sent policy document reminder.
+I-00827,C-130,quote-question,2026-10-09T10:17:00,Sent policy document reminder.
+I-00828,C-008,renewal,2026-10-06T10:58:00,Asked to escalate to supervisor.
+I-00829,C-379,quote-question,2026-08-12T10:51:00,Requested a comparison of two fictional plans.
+I-00830,C-134,quote-question,2026-08-06T10:51:00,Asked to escalate to supervisor.
+I-00831,C-442,renewal,2026-06-03T10:09:00,Asked to escalate to supervisor.
+I-00832,C-479,quote-question,2026-08-25T10:26:00,Customer unhappy with waiting period; logged for review.
+I-00833,C-122,complaint,2026-03-07T10:36:00,Sent policy document reminder.
+I-00834,C-028,documentation,2026-02-02T10:10:00,Customer unhappy with waiting period; logged for review.
+I-00835,C-205,complaint,2026-05-16T10:47:00,Asked to escalate to supervisor.
+I-00836,C-120,complaint,2026-07-16T10:16:00,Requested a comparison of two fictional plans.
+I-00837,C-272,complaint,2026-01-10T10:59:00,Customer unhappy with waiting period; logged for review.
+I-00838,C-196,documentation,2026-09-22T10:02:00,Customer asked about renewal date.
+I-00839,C-470,escalation,2026-06-28T10:27:00,Asked to escalate to supervisor.
+I-00840,C-471,documentation,2026-06-09T10:17:00,Customer asked about renewal date.
+I-00841,C-131,escalation,2026-07-15T10:49:00,Requested a comparison of two fictional plans.
+I-00842,C-376,escalation,2026-04-17T10:21:00,Requested a comparison of two fictional plans.
+I-00843,C-161,escalation,2026-01-22T10:00:00,Customer asked about renewal date.
+I-00844,C-007,complaint,2026-02-17T10:06:00,Customer unhappy with waiting period; logged for review.
+I-00845,C-180,quote-question,2026-05-09T10:12:00,Customer asked about renewal date.
+I-00846,C-013,escalation,2026-02-02T10:38:00,Requested a comparison of two fictional plans.
+I-00847,C-487,escalation,2026-02-23T10:07:00,Customer asked about renewal date.
+I-00848,C-439,escalation,2026-03-13T10:42:00,Asked to escalate to supervisor.
+I-00849,C-412,quote-question,2026-02-23T10:11:00,Sent policy document reminder.
+I-00850,C-151,complaint,2026-02-21T10:29:00,Sent policy document reminder.
+I-00851,C-394,complaint,2026-06-09T10:10:00,Customer asked about renewal date.
+I-00852,C-142,renewal,2026-07-13T10:21:00,Customer asked about renewal date.
+I-00853,C-133,documentation,2026-03-15T10:04:00,Customer unhappy with waiting period; logged for review.
+I-00854,C-476,quote-question,2026-10-13T10:11:00,Customer unhappy with waiting period; logged for review.
+I-00855,C-056,quote-question,2026-09-25T10:27:00,Requested a comparison of two fictional plans.
+I-00856,C-315,renewal,2026-08-23T10:16:00,Customer asked about renewal date.
+I-00857,C-018,renewal,2026-02-19T10:46:00,Sent policy document reminder.
+I-00858,C-398,complaint,2026-01-16T10:09:00,Customer asked about renewal date.
+I-00859,C-478,renewal,2026-07-09T10:09:00,Sent policy document reminder.
+I-00860,C-464,complaint,2026-10-01T10:32:00,Customer unhappy with waiting period; logged for review.
+I-00861,C-245,complaint,2026-07-28T10:46:00,Customer asked about renewal date.
+I-00862,C-277,quote-question,2026-01-13T10:44:00,Customer unhappy with waiting period; logged for review.
+I-00863,C-063,escalation,2026-09-12T10:21:00,Sent policy document reminder.
+I-00864,C-206,renewal,2026-02-12T10:34:00,Sent policy document reminder.
+I-00865,C-042,complaint,2026-05-21T10:12:00,Requested a comparison of two fictional plans.
+I-00866,C-284,renewal,2026-07-22T10:12:00,Sent policy document reminder.
+I-00867,C-357,complaint,2026-02-21T10:44:00,Sent policy document reminder.
+I-00868,C-250,renewal,2026-08-24T10:12:00,Requested a comparison of two fictional plans.
+I-00869,C-019,quote-question,2026-01-24T10:37:00,Requested a comparison of two fictional plans.
+I-00870,C-251,complaint,2026-02-26T10:34:00,Sent policy document reminder.
+I-00871,C-256,escalation,2026-08-01T10:02:00,Sent policy document reminder.
+I-00872,C-029,documentation,2026-01-13T10:07:00,Requested a comparison of two fictional plans.
+I-00873,C-414,escalation,2026-08-22T10:55:00,Asked to escalate to supervisor.
+I-00874,C-077,escalation,2026-04-03T10:02:00,Requested a comparison of two fictional plans.
+I-00875,C-251,renewal,2026-08-20T10:02:00,Requested a comparison of two fictional plans.
+I-00876,C-360,quote-question,2026-01-06T10:40:00,Customer asked about renewal date.
+I-00877,C-464,documentation,2026-02-15T10:39:00,Requested a comparison of two fictional plans.
+I-00878,C-428,escalation,2026-02-27T10:52:00,Customer asked about renewal date.
+I-00879,C-059,complaint,2026-10-26T10:39:00,Requested a comparison of two fictional plans.
+I-00880,C-033,quote-question,2026-07-11T10:51:00,Customer unhappy with waiting period; logged for review.
+I-00881,C-167,renewal,2026-10-18T10:08:00,Sent policy document reminder.
+I-00882,C-429,quote-question,2026-01-19T10:11:00,Sent policy document reminder.
+I-00883,C-033,renewal,2026-05-05T10:48:00,Customer unhappy with waiting period; logged for review.
+I-00884,C-087,documentation,2026-09-06T10:28:00,Requested a comparison of two fictional plans.
+I-00885,C-474,escalation,2026-01-05T10:06:00,Asked to escalate to supervisor.
+I-00886,C-193,quote-question,2026-01-16T10:05:00,Customer asked about renewal date.
+I-00887,C-004,quote-question,2026-02-23T10:41:00,Asked to escalate to supervisor.
+I-00888,C-455,documentation,2026-07-23T10:51:00,Customer unhappy with waiting period; logged for review.
+I-00889,C-355,quote-question,2026-04-05T10:40:00,Sent policy document reminder.
+I-00890,C-268,complaint,2026-07-08T10:11:00,Asked to escalate to supervisor.
+I-00891,C-355,renewal,2026-10-06T10:45:00,Customer unhappy with waiting period; logged for review.
+I-00892,C-314,renewal,2026-05-12T10:26:00,Customer asked about renewal date.
+I-00893,C-286,quote-question,2026-04-04T10:33:00,Customer asked about renewal date.
+I-00894,C-317,documentation,2026-09-17T10:14:00,Customer unhappy with waiting period; logged for review.
+I-00895,C-395,quote-question,2026-05-02T10:12:00,Customer asked about renewal date.
+I-00896,C-408,quote-question,2026-08-16T10:11:00,Requested a comparison of two fictional plans.
+I-00897,C-344,renewal,2026-01-21T10:23:00,Sent policy document reminder.
+I-00898,C-108,complaint,2026-05-11T10:39:00,Customer unhappy with waiting period; logged for review.
+I-00899,C-023,renewal,2026-01-18T10:11:00,Requested a comparison of two fictional plans.
+I-00900,C-403,renewal,2026-08-17T10:07:00,Customer asked about renewal date.
+I-00901,C-459,quote-question,2026-08-19T10:37:00,Sent policy document reminder.
+I-00902,C-215,quote-question,2026-06-08T10:49:00,Customer asked about renewal date.
+I-00903,C-167,quote-question,2026-02-08T10:47:00,Customer unhappy with waiting period; logged for review.
+I-00904,C-446,quote-question,2026-07-08T10:04:00,Customer unhappy with waiting period; logged for review.
+I-00905,C-300,complaint,2026-01-14T10:09:00,Requested a comparison of two fictional plans.
+I-00906,C-476,escalation,2026-08-06T10:24:00,Sent policy document reminder.
+I-00907,C-070,complaint,2026-04-21T10:22:00,Sent policy document reminder.
+I-00908,C-104,documentation,2026-03-02T10:44:00,Asked to escalate to supervisor.
+I-00909,C-031,documentation,2026-03-04T10:54:00,Customer unhappy with waiting period; logged for review.
+I-00910,C-235,complaint,2026-03-25T10:21:00,Requested a comparison of two fictional plans.
+I-00911,C-454,documentation,2026-10-06T10:50:00,Asked to escalate to supervisor.
+I-00912,C-464,quote-question,2026-10-18T10:54:00,Requested a comparison of two fictional plans.
+I-00913,C-045,complaint,2026-09-16T10:55:00,Requested a comparison of two fictional plans.
+I-00914,C-303,complaint,2026-08-09T10:00:00,Customer unhappy with waiting period; logged for review.
+I-00915,C-377,quote-question,2026-04-11T10:27:00,Asked to escalate to supervisor.
+I-00916,C-114,escalation,2026-03-19T10:57:00,Customer asked about renewal date.
+I-00917,C-214,renewal,2026-01-16T10:46:00,Asked to escalate to supervisor.
+I-00918,C-018,complaint,2026-09-13T10:30:00,Customer asked about renewal date.
+I-00919,C-232,complaint,2026-04-03T10:35:00,Customer asked about renewal date.
+I-00920,C-355,complaint,2026-04-05T10:22:00,Sent policy document reminder.
+I-00921,C-123,renewal,2026-01-16T10:42:00,Sent policy document reminder.
+I-00922,C-083,complaint,2026-10-24T10:37:00,Customer asked about renewal date.
+I-00923,C-500,complaint,2026-08-25T10:08:00,Customer unhappy with waiting period; logged for review.
+I-00924,C-095,documentation,2026-08-23T10:40:00,Customer asked about renewal date.
+I-00925,C-441,renewal,2026-07-23T10:21:00,Asked to escalate to supervisor.
+I-00926,C-017,documentation,2026-07-25T10:17:00,Asked to escalate to supervisor.
+I-00927,C-278,escalation,2026-04-26T10:43:00,Customer asked about renewal date.
+I-00928,C-318,documentation,2026-01-17T10:58:00,Sent policy document reminder.
+I-00929,C-455,renewal,2026-02-13T10:23:00,Customer unhappy with waiting period; logged for review.
+I-00930,C-317,renewal,2026-06-12T10:11:00,Asked to escalate to supervisor.
+I-00931,C-361,renewal,2026-09-23T10:49:00,Requested a comparison of two fictional plans.
+I-00932,C-071,documentation,2026-04-18T10:07:00,Customer unhappy with waiting period; logged for review.
+I-00933,C-378,escalation,2026-04-25T10:47:00,Requested a comparison of two fictional plans.
+I-00934,C-165,documentation,2026-05-17T10:43:00,Customer unhappy with waiting period; logged for review.
+I-00935,C-142,renewal,2026-02-12T10:22:00,Customer unhappy with waiting period; logged for review.
+I-00936,C-249,escalation,2026-09-27T10:07:00,Customer unhappy with waiting period; logged for review.
+I-00937,C-364,escalation,2026-09-10T10:28:00,Asked to escalate to supervisor.
+I-00938,C-189,renewal,2026-04-15T10:05:00,Customer asked about renewal date.
+I-00939,C-201,quote-question,2026-05-03T10:06:00,Requested a comparison of two fictional plans.
+I-00940,C-142,renewal,2026-03-16T10:09:00,Requested a comparison of two fictional plans.
+I-00941,C-267,renewal,2026-05-14T10:43:00,Asked to escalate to supervisor.
+I-00942,C-478,quote-question,2026-08-12T10:26:00,Customer unhappy with waiting period; logged for review.
+I-00943,C-378,renewal,2026-05-07T10:04:00,Customer asked about renewal date.
+I-00944,C-447,quote-question,2026-09-21T10:21:00,Customer unhappy with waiting period; logged for review.
+I-00945,C-297,documentation,2026-06-16T10:37:00,Asked to escalate to supervisor.
+I-00946,C-432,escalation,2026-08-15T10:19:00,Asked to escalate to supervisor.
+I-00947,C-068,documentation,2026-03-26T10:16:00,Requested a comparison of two fictional plans.
+I-00948,C-248,documentation,2026-05-25T10:54:00,Customer asked about renewal date.
+I-00949,C-076,documentation,2026-05-15T10:10:00,Asked to escalate to supervisor.
+I-00950,C-474,quote-question,2026-09-10T10:11:00,Requested a comparison of two fictional plans.
+I-00951,C-430,quote-question,2026-03-08T10:07:00,Customer asked about renewal date.
+I-00952,C-163,escalation,2026-03-15T10:16:00,Sent policy document reminder.
+I-00953,C-095,quote-question,2026-09-23T10:02:00,Sent policy document reminder.
+I-00954,C-177,quote-question,2026-06-15T10:34:00,Requested a comparison of two fictional plans.
+I-00955,C-274,documentation,2026-02-01T10:25:00,Customer unhappy with waiting period; logged for review.
+I-00956,C-394,quote-question,2026-08-11T10:09:00,Customer asked about renewal date.
+I-00957,C-497,escalation,2026-09-11T10:41:00,Sent policy document reminder.
+I-00958,C-243,documentation,2026-10-22T10:09:00,Asked to escalate to supervisor.
+I-00959,C-374,complaint,2026-06-23T10:07:00,Customer unhappy with waiting period; logged for review.
+I-00960,C-461,renewal,2026-03-22T10:35:00,Customer asked about renewal date.
+I-00961,C-158,renewal,2026-07-20T10:53:00,Requested a comparison of two fictional plans.
+I-00962,C-229,documentation,2026-02-11T10:03:00,Asked to escalate to supervisor.
+I-00963,C-329,quote-question,2026-10-17T10:14:00,Sent policy document reminder.
+I-00964,C-101,renewal,2026-02-18T10:54:00,Customer unhappy with waiting period; logged for review.
+I-00965,C-347,renewal,2026-09-13T10:12:00,Customer unhappy with waiting period; logged for review.
+I-00966,C-163,escalation,2026-10-17T10:03:00,Sent policy document reminder.
+I-00967,C-204,quote-question,2026-07-12T10:24:00,Sent policy document reminder.
+I-00968,C-007,documentation,2026-06-12T10:19:00,Customer unhappy with waiting period; logged for review.
+I-00969,C-448,escalation,2026-02-07T10:46:00,Customer unhappy with waiting period; logged for review.
+I-00970,C-380,complaint,2026-08-10T10:10:00,Customer unhappy with waiting period; logged for review.
+I-00971,C-374,complaint,2026-03-27T10:37:00,Asked to escalate to supervisor.
+I-00972,C-045,quote-question,2026-04-10T10:30:00,Asked to escalate to supervisor.
+I-00973,C-172,renewal,2026-10-25T10:24:00,Customer asked about renewal date.
+I-00974,C-004,complaint,2026-05-14T10:11:00,Asked to escalate to supervisor.
+I-00975,C-237,escalation,2026-03-07T10:11:00,Customer unhappy with waiting period; logged for review.
+I-00976,C-149,escalation,2026-08-02T10:52:00,Sent policy document reminder.
+I-00977,C-428,escalation,2026-05-16T10:35:00,Customer unhappy with waiting period; logged for review.
+I-00978,C-115,renewal,2026-01-05T10:16:00,Sent policy document reminder.
+I-00979,C-490,complaint,2026-02-21T10:42:00,Sent policy document reminder.
+I-00980,C-214,quote-question,2026-08-23T10:41:00,Requested a comparison of two fictional plans.
+I-00981,C-015,renewal,2026-05-16T10:04:00,Asked to escalate to supervisor.
+I-00982,C-382,documentation,2026-10-16T10:36:00,Customer unhappy with waiting period; logged for review.
+I-00983,C-445,documentation,2026-08-23T10:52:00,Customer asked about renewal date.
+I-00984,C-192,escalation,2026-10-01T10:54:00,Sent policy document reminder.
+I-00985,C-084,escalation,2026-01-05T10:20:00,Customer unhappy with waiting period; logged for review.
+I-00986,C-450,quote-question,2026-06-06T10:03:00,Sent policy document reminder.
+I-00987,C-185,complaint,2026-06-02T10:18:00,Sent policy document reminder.
+I-00988,C-272,renewal,2026-09-07T10:49:00,Requested a comparison of two fictional plans.
+I-00989,C-392,renewal,2026-10-25T10:10:00,Asked to escalate to supervisor.
+I-00990,C-166,documentation,2026-05-09T10:43:00,Sent policy document reminder.
+I-00991,C-050,escalation,2026-10-12T10:52:00,Requested a comparison of two fictional plans.
+I-00992,C-007,quote-question,2026-09-10T10:23:00,Customer unhappy with waiting period; logged for review.
+I-00993,C-211,documentation,2026-03-04T10:13:00,Requested a comparison of two fictional plans.
+I-00994,C-258,quote-question,2026-04-26T10:57:00,Asked to escalate to supervisor.
+I-00995,C-315,escalation,2026-09-23T10:35:00,Customer asked about renewal date.
+I-00996,C-214,complaint,2026-02-04T10:52:00,Requested a comparison of two fictional plans.
+I-00997,C-473,renewal,2026-08-12T10:19:00,Sent policy document reminder.
+I-00998,C-072,complaint,2026-10-17T10:48:00,Sent policy document reminder.
+I-00999,C-089,documentation,2026-01-24T10:52:00,Customer asked about renewal date.
+I-01000,C-114,quote-question,2026-03-23T10:14:00,Sent policy document reminder.
+I-01001,C-065,quote-question,2026-03-03T10:27:00,Customer asked about renewal date.
+I-01002,C-040,renewal,2026-08-25T10:27:00,Customer asked about renewal date.
+I-01003,C-101,renewal,2026-01-26T10:42:00,Asked to escalate to supervisor.
+I-01004,C-304,renewal,2026-08-04T10:58:00,Sent policy document reminder.
+I-01005,C-023,renewal,2026-05-22T10:00:00,Customer asked about renewal date.
+I-01006,C-401,renewal,2026-10-07T10:37:00,Requested a comparison of two fictional plans.
+I-01007,C-095,documentation,2026-01-03T10:09:00,Sent policy document reminder.
+I-01008,C-486,escalation,2026-06-12T10:10:00,Asked to escalate to supervisor.
+I-01009,C-400,escalation,2026-04-17T10:36:00,Customer asked about renewal date.
+I-01010,C-051,escalation,2026-01-17T10:13:00,Requested a comparison of two fictional plans.
+I-01011,C-494,documentation,2026-03-25T10:34:00,Customer asked about renewal date.
+I-01012,C-499,renewal,2026-04-17T10:54:00,Customer unhappy with waiting period; logged for review.
+I-01013,C-188,escalation,2026-03-15T10:43:00,Customer asked about renewal date.
+I-01014,C-093,documentation,2026-07-14T10:13:00,Asked to escalate to supervisor.
+I-01015,C-117,complaint,2026-02-25T10:20:00,Customer asked about renewal date.
+I-01016,C-239,renewal,2026-09-05T10:31:00,Sent policy document reminder.
+I-01017,C-361,documentation,2026-09-24T10:02:00,Customer asked about renewal date.
+I-01018,C-168,complaint,2026-02-13T10:18:00,Customer unhappy with waiting period; logged for review.
+I-01019,C-308,documentation,2026-08-08T10:35:00,Customer unhappy with waiting period; logged for review.
+I-01020,C-149,complaint,2026-04-28T10:04:00,Customer unhappy with waiting period; logged for review.
+I-01021,C-481,documentation,2026-03-01T10:43:00,Customer unhappy with waiting period; logged for review.
+I-01022,C-345,renewal,2026-07-15T10:33:00,Customer asked about renewal date.
+I-01023,C-062,quote-question,2026-07-13T10:44:00,Asked to escalate to supervisor.
+I-01024,C-053,quote-question,2026-02-12T10:12:00,Sent policy document reminder.
+I-01025,C-103,escalation,2026-07-04T10:14:00,Customer unhappy with waiting period; logged for review.
+I-01026,C-372,complaint,2026-05-25T10:45:00,Asked to escalate to supervisor.
+I-01027,C-304,documentation,2026-07-12T10:30:00,Asked to escalate to supervisor.
+I-01028,C-487,complaint,2026-08-17T10:17:00,Requested a comparison of two fictional plans.
+I-01029,C-394,complaint,2026-02-04T10:16:00,Customer unhappy with waiting period; logged for review.
+I-01030,C-255,quote-question,2026-03-01T10:06:00,Customer asked about renewal date.
+I-01031,C-426,renewal,2026-08-22T10:01:00,Requested a comparison of two fictional plans.
+I-01032,C-196,escalation,2026-06-05T10:19:00,Asked to escalate to supervisor.
+I-01033,C-320,renewal,2026-02-22T10:48:00,Asked to escalate to supervisor.
+I-01034,C-393,complaint,2026-08-07T10:18:00,Customer unhappy with waiting period; logged for review.
+I-01035,C-252,escalation,2026-05-18T10:21:00,Asked to escalate to supervisor.
+I-01036,C-280,renewal,2026-01-14T10:56:00,Customer asked about renewal date.
+I-01037,C-197,complaint,2026-06-28T10:24:00,Customer unhappy with waiting period; logged for review.
+I-01038,C-236,renewal,2026-01-06T10:35:00,Sent policy document reminder.
+I-01039,C-453,quote-question,2026-08-14T10:08:00,Sent policy document reminder.
+I-01040,C-367,complaint,2026-08-25T10:07:00,Asked to escalate to supervisor.
+I-01041,C-346,complaint,2026-09-22T10:34:00,Asked to escalate to supervisor.
+I-01042,C-241,complaint,2026-09-28T10:10:00,Asked to escalate to supervisor.
+I-01043,C-029,complaint,2026-05-16T10:37:00,Customer unhappy with waiting period; logged for review.
+I-01044,C-316,documentation,2026-05-11T10:03:00,Customer asked about renewal date.
+I-01045,C-303,renewal,2026-03-27T10:23:00,Sent policy document reminder.
+I-01046,C-415,escalation,2026-01-25T10:57:00,Sent policy document reminder.
+I-01047,C-195,renewal,2026-07-12T10:22:00,Customer unhappy with waiting period; logged for review.
+I-01048,C-180,renewal,2026-04-08T10:15:00,Sent policy document reminder.
+I-01049,C-304,renewal,2026-02-28T10:19:00,Customer asked about renewal date.
+I-01050,C-173,quote-question,2026-01-18T10:20:00,Customer asked about renewal date.
+I-01051,C-236,complaint,2026-10-17T10:57:00,Customer unhappy with waiting period; logged for review.
+I-01052,C-137,renewal,2026-08-19T10:01:00,Sent policy document reminder.
+I-01053,C-194,escalation,2026-07-11T10:36:00,Customer asked about renewal date.
+I-01054,C-414,complaint,2026-02-23T10:43:00,Requested a comparison of two fictional plans.
+I-01055,C-173,complaint,2026-09-26T10:48:00,Sent policy document reminder.
+I-01056,C-086,escalation,2026-05-12T10:27:00,Requested a comparison of two fictional plans.
+I-01057,C-255,renewal,2026-09-07T10:18:00,Sent policy document reminder.
+I-01058,C-025,documentation,2026-10-13T10:51:00,Requested a comparison of two fictional plans.
+I-01059,C-320,renewal,2026-10-04T10:37:00,Sent policy document reminder.
+I-01060,C-140,renewal,2026-10-26T10:33:00,Customer unhappy with waiting period; logged for review.
+I-01061,C-219,quote-question,2026-06-26T10:04:00,Sent policy document reminder.
+I-01062,C-259,documentation,2026-07-22T10:34:00,Sent policy document reminder.
+I-01063,C-103,complaint,2026-07-09T10:39:00,Asked to escalate to supervisor.
+I-01064,C-233,escalation,2026-03-01T10:40:00,Asked to escalate to supervisor.
+I-01065,C-442,quote-question,2026-10-16T10:13:00,Customer unhappy with waiting period; logged for review.
+I-01066,C-138,escalation,2026-10-28T10:49:00,Customer unhappy with waiting period; logged for review.
+I-01067,C-479,escalation,2026-01-17T10:12:00,Sent policy document reminder.
+I-01068,C-237,quote-question,2026-04-05T10:47:00,Sent policy document reminder.
+I-01069,C-433,complaint,2026-07-11T10:55:00,Customer asked about renewal date.
+I-01070,C-325,quote-question,2026-07-09T10:52:00,Sent policy document reminder.
+I-01071,C-331,quote-question,2026-05-22T10:38:00,Requested a comparison of two fictional plans.
+I-01072,C-208,quote-question,2026-02-05T10:12:00,Customer asked about renewal date.
+I-01073,C-126,documentation,2026-08-16T10:35:00,Customer unhappy with waiting period; logged for review.
+I-01074,C-217,renewal,2026-04-06T10:17:00,Requested a comparison of two fictional plans.
+I-01075,C-015,documentation,2026-05-22T10:35:00,Requested a comparison of two fictional plans.
+I-01076,C-330,renewal,2026-08-26T10:01:00,Customer asked about renewal date.
+I-01077,C-441,renewal,2026-06-20T10:19:00,Customer asked about renewal date.
+I-01078,C-462,complaint,2026-06-22T10:42:00,Customer asked about renewal date.
+I-01079,C-204,quote-question,2026-04-04T10:36:00,Asked to escalate to supervisor.
+I-01080,C-478,renewal,2026-09-22T10:53:00,Asked to escalate to supervisor.
+I-01081,C-487,escalation,2026-05-16T10:56:00,Customer asked about renewal date.
+I-01082,C-122,escalation,2026-02-25T10:51:00,Sent policy document reminder.
+I-01083,C-169,escalation,2026-07-26T10:47:00,Requested a comparison of two fictional plans.
+I-01084,C-479,complaint,2026-04-05T10:06:00,Requested a comparison of two fictional plans.
+I-01085,C-110,documentation,2026-08-14T10:16:00,Asked to escalate to supervisor.
+I-01086,C-029,complaint,2026-09-12T10:44:00,Customer asked about renewal date.
+I-01087,C-163,escalation,2026-07-16T10:43:00,Requested a comparison of two fictional plans.
+I-01088,C-494,documentation,2026-03-12T10:30:00,Sent policy document reminder.
+I-01089,C-421,documentation,2026-01-21T10:57:00,Asked to escalate to supervisor.
+I-01090,C-018,renewal,2026-04-09T10:35:00,Customer unhappy with waiting period; logged for review.
+I-01091,C-159,documentation,2026-02-18T10:55:00,Requested a comparison of two fictional plans.
+I-01092,C-440,complaint,2026-07-01T10:58:00,Customer unhappy with waiting period; logged for review.
+I-01093,C-475,documentation,2026-05-03T10:59:00,Requested a comparison of two fictional plans.
+I-01094,C-153,quote-question,2026-03-15T10:40:00,Sent policy document reminder.
+I-01095,C-451,complaint,2026-01-09T10:55:00,Customer asked about renewal date.
+I-01096,C-422,complaint,2026-08-24T10:26:00,Sent policy document reminder.
+I-01097,C-368,complaint,2026-02-27T10:10:00,Sent policy document reminder.
+I-01098,C-260,renewal,2026-06-14T10:38:00,Asked to escalate to supervisor.
+I-01099,C-378,documentation,2026-08-23T10:01:00,Customer asked about renewal date.
+I-01100,C-329,quote-question,2026-08-26T10:41:00,Requested a comparison of two fictional plans.
+I-01101,C-002,complaint,2026-04-21T10:19:00,Sent policy document reminder.
+I-01102,C-295,renewal,2026-02-06T10:15:00,Asked to escalate to supervisor.
+I-01103,C-366,quote-question,2026-10-22T10:26:00,Sent policy document reminder.
+I-01104,C-232,complaint,2026-03-09T10:11:00,Asked to escalate to supervisor.
+I-01105,C-424,documentation,2026-05-07T10:05:00,Customer unhappy with waiting period; logged for review.
+I-01106,C-189,quote-question,2026-07-13T10:53:00,Asked to escalate to supervisor.
+I-01107,C-115,renewal,2026-01-18T10:41:00,Asked to escalate to supervisor.
+I-01108,C-321,quote-question,2026-02-15T10:12:00,Sent policy document reminder.
+I-01109,C-360,quote-question,2026-01-13T10:39:00,Customer unhappy with waiting period; logged for review.
+I-01110,C-308,documentation,2026-03-03T10:23:00,Requested a comparison of two fictional plans.
+I-01111,C-485,escalation,2026-02-01T10:45:00,Asked to escalate to supervisor.
+I-01112,C-223,complaint,2026-08-04T10:14:00,Requested a comparison of two fictional plans.
+I-01113,C-098,documentation,2026-05-24T10:31:00,Customer unhappy with waiting period; logged for review.
+I-01114,C-067,complaint,2026-04-20T10:13:00,Sent policy document reminder.
+I-01115,C-373,quote-question,2026-07-06T10:26:00,Requested a comparison of two fictional plans.
+I-01116,C-015,documentation,2026-05-08T10:39:00,Customer unhappy with waiting period; logged for review.
+I-01117,C-465,quote-question,2026-06-19T10:43:00,Customer unhappy with waiting period; logged for review.
+I-01118,C-044,renewal,2026-08-05T10:55:00,Sent policy document reminder.
+I-01119,C-499,complaint,2026-04-23T10:24:00,Customer unhappy with waiting period; logged for review.
+I-01120,C-377,escalation,2026-05-03T10:06:00,Asked to escalate to supervisor.
+I-01121,C-031,renewal,2026-06-08T10:30:00,Sent policy document reminder.
+I-01122,C-311,escalation,2026-01-01T10:16:00,Asked to escalate to supervisor.
+I-01123,C-318,complaint,2026-05-13T10:42:00,Sent policy document reminder.
+I-01124,C-068,escalation,2026-01-19T10:11:00,Sent policy document reminder.
+I-01125,C-087,escalation,2026-08-11T10:56:00,Customer unhappy with waiting period; logged for review.
+I-01126,C-068,renewal,2026-06-23T10:33:00,Customer unhappy with waiting period; logged for review.
+I-01127,C-073,documentation,2026-02-11T10:02:00,Requested a comparison of two fictional plans.
+I-01128,C-256,documentation,2026-06-14T10:18:00,Sent policy document reminder.
+I-01129,C-314,documentation,2026-09-11T10:27:00,Requested a comparison of two fictional plans.
+I-01130,C-162,complaint,2026-03-18T10:54:00,Customer unhappy with waiting period; logged for review.
+I-01131,C-028,quote-question,2026-03-02T10:14:00,Requested a comparison of two fictional plans.
+I-01132,C-019,complaint,2026-05-06T10:45:00,Customer unhappy with waiting period; logged for review.
+I-01133,C-224,renewal,2026-08-02T10:28:00,Sent policy document reminder.
+I-01134,C-364,escalation,2026-08-15T10:31:00,Customer asked about renewal date.
+I-01135,C-434,quote-question,2026-02-12T10:05:00,Requested a comparison of two fictional plans.
+I-01136,C-445,documentation,2026-03-27T10:10:00,Asked to escalate to supervisor.
+I-01137,C-422,documentation,2026-10-22T10:37:00,Requested a comparison of two fictional plans.
+I-01138,C-299,renewal,2026-09-25T10:36:00,Requested a comparison of two fictional plans.
+I-01139,C-214,renewal,2026-04-25T10:31:00,Customer asked about renewal date.
+I-01140,C-455,documentation,2026-01-10T10:43:00,Customer asked about renewal date.
+I-01141,C-202,documentation,2026-10-04T10:53:00,Sent policy document reminder.
+I-01142,C-079,renewal,2026-02-15T10:53:00,Customer unhappy with waiting period; logged for review.
+I-01143,C-233,documentation,2026-10-22T10:00:00,Sent policy document reminder.
+I-01144,C-497,renewal,2026-10-15T10:20:00,Asked to escalate to supervisor.
+I-01145,C-067,quote-question,2026-01-26T10:41:00,Sent policy document reminder.
+I-01146,C-166,renewal,2026-02-18T10:38:00,Customer unhappy with waiting period; logged for review.
+I-01147,C-048,complaint,2026-05-06T10:15:00,Customer unhappy with waiting period; logged for review.
+I-01148,C-046,renewal,2026-04-06T10:24:00,Customer unhappy with waiting period; logged for review.
+I-01149,C-146,quote-question,2026-02-10T10:31:00,Customer unhappy with waiting period; logged for review.
+I-01150,C-377,documentation,2026-10-05T10:22:00,Customer asked about renewal date.
+I-01151,C-427,documentation,2026-09-07T10:31:00,Customer unhappy with waiting period; logged for review.
+I-01152,C-454,complaint,2026-08-09T10:36:00,Asked to escalate to supervisor.
+I-01153,C-217,renewal,2026-07-26T10:23:00,Asked to escalate to supervisor.
+I-01154,C-096,complaint,2026-07-03T10:02:00,Asked to escalate to supervisor.
+I-01155,C-175,complaint,2026-04-21T10:43:00,Requested a comparison of two fictional plans.
+I-01156,C-477,complaint,2026-09-21T10:41:00,Asked to escalate to supervisor.
+I-01157,C-043,documentation,2026-08-14T10:05:00,Customer unhappy with waiting period; logged for review.
+I-01158,C-154,quote-question,2026-03-22T10:57:00,Sent policy document reminder.
+I-01159,C-431,quote-question,2026-09-14T10:18:00,Asked to escalate to supervisor.
+I-01160,C-025,escalation,2026-02-02T10:32:00,Customer asked about renewal date.
+I-01161,C-262,complaint,2026-07-04T10:29:00,Asked to escalate to supervisor.
+I-01162,C-417,documentation,2026-06-09T10:37:00,Customer asked about renewal date.
+I-01163,C-394,escalation,2026-01-04T10:47:00,Customer unhappy with waiting period; logged for review.
+I-01164,C-092,quote-question,2026-07-02T10:05:00,Customer unhappy with waiting period; logged for review.
+I-01165,C-449,documentation,2026-06-19T10:46:00,Customer unhappy with waiting period; logged for review.
+I-01166,C-388,complaint,2026-10-26T10:16:00,Sent policy document reminder.
+I-01167,C-495,quote-question,2026-04-06T10:05:00,Asked to escalate to supervisor.
+I-01168,C-133,renewal,2026-07-18T10:01:00,Customer asked about renewal date.
+I-01169,C-203,renewal,2026-01-06T10:41:00,Customer unhappy with waiting period; logged for review.
+I-01170,C-236,complaint,2026-10-24T10:31:00,Sent policy document reminder.
+I-01171,C-317,escalation,2026-06-23T10:43:00,Customer unhappy with waiting period; logged for review.
+I-01172,C-412,documentation,2026-02-05T10:08:00,Customer asked about renewal date.
+I-01173,C-098,renewal,2026-01-23T10:12:00,Customer asked about renewal date.
+I-01174,C-108,complaint,2026-03-21T10:15:00,Customer unhappy with waiting period; logged for review.
+I-01175,C-432,escalation,2026-04-03T10:19:00,Customer unhappy with waiting period; logged for review.
+I-01176,C-076,complaint,2026-07-01T10:07:00,Requested a comparison of two fictional plans.
+I-01177,C-463,quote-question,2026-08-16T10:30:00,Customer asked about renewal date.
+I-01178,C-441,complaint,2026-10-08T10:12:00,Sent policy document reminder.
+I-01179,C-292,complaint,2026-01-11T10:00:00,Customer asked about renewal date.
+I-01180,C-323,complaint,2026-07-28T10:31:00,Asked to escalate to supervisor.
+I-01181,C-306,escalation,2026-05-02T10:31:00,Customer unhappy with waiting period; logged for review.
+I-01182,C-249,escalation,2026-10-24T10:39:00,Customer unhappy with waiting period; logged for review.
+I-01183,C-119,renewal,2026-09-01T10:27:00,Asked to escalate to supervisor.
+I-01184,C-162,escalation,2026-02-09T10:57:00,Customer unhappy with waiting period; logged for review.
+I-01185,C-456,complaint,2026-02-16T10:39:00,Sent policy document reminder.
+I-01186,C-230,complaint,2026-01-06T10:18:00,Requested a comparison of two fictional plans.
+I-01187,C-241,documentation,2026-08-08T10:32:00,Requested a comparison of two fictional plans.
+I-01188,C-301,documentation,2026-10-28T10:53:00,Customer unhappy with waiting period; logged for review.
+I-01189,C-068,documentation,2026-07-14T10:53:00,Sent policy document reminder.
+I-01190,C-408,complaint,2026-03-20T10:13:00,Sent policy document reminder.
+I-01191,C-354,renewal,2026-08-05T10:11:00,Requested a comparison of two fictional plans.
+I-01192,C-081,escalation,2026-08-04T10:50:00,Customer unhappy with waiting period; logged for review.
+I-01193,C-483,complaint,2026-05-08T10:13:00,Asked to escalate to supervisor.
+I-01194,C-025,renewal,2026-06-09T10:22:00,Requested a comparison of two fictional plans.
+I-01195,C-090,escalation,2026-01-26T10:04:00,Sent policy document reminder.
+I-01196,C-221,renewal,2026-10-08T10:07:00,Asked to escalate to supervisor.
+I-01197,C-115,complaint,2026-05-11T10:50:00,Sent policy document reminder.
+I-01198,C-394,renewal,2026-09-09T10:57:00,Requested a comparison of two fictional plans.
+I-01199,C-437,escalation,2026-10-22T10:06:00,Customer asked about renewal date.
+I-01200,C-475,complaint,2026-08-27T10:48:00,Customer asked about renewal date.
