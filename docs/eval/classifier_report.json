@@ -1,0 +1,49 @@
+{
+  "n_test": 100,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "labels": [
+    "renewal",
+    "quote-question",
+    "documentation",
+    "complaint",
+    "escalation"
+  ],
+  "confusion_matrix": [
+    [
+      16,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      21,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      22,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      24,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      17
+    ]
+  ]
+}
