@@ -96,6 +96,64 @@ BROCHURE_DOCS = [
 ]
 
 
+# Labelled agent tasks for the classifier. Phrasings are synthetic templates with noise,
+# including deliberately ambiguous wording between complaint and escalation.
+TASK_TEMPLATES = {
+    "renewal": [
+        "When does {c} renew?",
+        "Prepare the renewal reminder for {c}",
+        "Customer {c} policy is due soon, draft a reminder",
+        "Renewal date check for {c} please",
+        "Send a renewal nudge to {c} next week",
+    ],
+    "quote-question": [
+        "What is the difference between Silver and Gold for {c}?",
+        "Does Platinum cover day-care procedures?",
+        "Compare the two plans {c} is considering",
+        "Is there a waiting period on Gold care?",
+        "What exclusions apply to Silver Shield?",
+    ],
+    "documentation": [
+        "Please attach the policy document for {c}",
+        "Log the call note about the brochure for {c}",
+        "Update the interaction record for {c}",
+        "Save the KYC copy in the file for {c}",
+        "File the signed acknowledgement from {c}",
+    ],
+    "complaint": [
+        "Customer is unhappy with the claim delay for {c}",
+        "I want to complain about the service {c} received",
+        "{c} is angry about a rejected reimbursement",
+        "Refund not received, {c} is very frustrated",
+        "Customer says the agent was rude, {c} wants this on record",
+    ],
+    "escalation": [
+        "Customer {c} asked for a supervisor",
+        "Escalate this case for {c} to the manager",
+        "Need senior review for {c}",
+        "Please route the {c} file to the escalation desk",
+        "{c} wants a callback from a team lead",
+    ],
+}
+FILLERS = ["", "urgent: ", "follow-up: ", "please ", "note: "]
+
+
+def build_labelled_tasks(rng: random.Random, per_label: int = 100) -> list[dict]:
+    rows = []
+    for label, templates in TASK_TEMPLATES.items():
+        for _ in range(per_label):
+            cid = f"C-{rng.randint(1, N_CUSTOMERS):03d}"
+            text = rng.choice(templates).format(c=cid)
+            rows.append({"text": rng.choice(FILLERS) + text, "label": label})
+    rng.shuffle(rows)
+    # Fixed split BEFORE any training. The test rows are never used to fit the model.
+    cut = int(len(rows) * 0.8)
+    for i, row in enumerate(rows):
+        row["id"] = f"T-{i + 1:04d}"
+        row["split"] = "train" if i < cut else "test"
+    return rows
+
+
 def _write_csv(path: Path, rows: list[dict], fields: list[str]) -> None:
     with path.open("w", newline="", encoding="utf-8") as fh:
         writer = csv.DictWriter(fh, fieldnames=fields)
@@ -171,6 +229,7 @@ def generate(out_dir: Path) -> None:
     _write_jsonl(out_dir / "product_catalog.jsonl", catalog)
     _write_jsonl(out_dir / "approved_templates.jsonl", TEMPLATES)
     _write_jsonl(out_dir / "brochures.jsonl", BROCHURE_DOCS)
+    _write_jsonl(out_dir / "labelled_tasks.jsonl", build_labelled_tasks(random.Random(SEED)))
 
 
 if __name__ == "__main__":
