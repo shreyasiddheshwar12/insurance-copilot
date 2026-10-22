@@ -1,0 +1,50 @@
+{"id": "H-001", "text": "pls check expiry for C-118, due next month?", "label": "renewal", "kind": "paraphrase"}
+{"id": "H-002", "text": "policy lapses soon for this client, need the nudge ready", "label": "renewal", "kind": "paraphrase"}
+{"id": "H-003", "text": "what's the due date on C-309", "label": "renewal", "kind": "terse"}
+{"id": "H-004", "text": "time to ping C-077 before the grace period ends", "label": "renewal", "kind": "paraphrase"}
+{"id": "H-005", "text": "renwal remindr for C-012", "label": "renewal", "kind": "typo"}
+{"id": "H-006", "text": "his cover ends in November, set up the message", "label": "renewal", "kind": "indirect"}
+{"id": "H-007", "text": "do we need to contact C-450 about continuing the plan", "label": "renewal", "kind": "indirect"}
+{"id": "H-008", "text": "anniversary date for the policy of C-255?", "label": "renewal", "kind": "paraphrase"}
+{"id": "H-009", "text": "prep the yearly continuation note for C-333", "label": "renewal", "kind": "paraphrase"}
+{"id": "H-010", "text": "C-401 expires shortly, what do we send", "label": "renewal", "kind": "paraphrase"}
+{"id": "H-011", "text": "client wants to know if the top plan pays for second opinions", "label": "quote-question", "kind": "indirect"}
+{"id": "H-012", "text": "any difference in the limit between the two tiers", "label": "quote-question", "kind": "paraphrase"}
+{"id": "H-013", "text": "is cosmetic surgery payable under Silver", "label": "quote-question", "kind": "paraphrase"}
+{"id": "H-014", "text": "how much is the sum insured on the mid tier", "label": "quote-question", "kind": "indirect"}
+{"id": "H-015", "text": "does the entry level plan have a cooling off for existing illness", "label": "quote-question", "kind": "indirect"}
+{"id": "H-016", "text": "whats not covered in Platinum", "label": "quote-question", "kind": "terse"}
+{"id": "H-017", "text": "explain the adventure sports clause to me", "label": "quote-question", "kind": "paraphrase"}
+{"id": "H-018", "text": "which one has day care, the 6 lakh or the 3 lakh", "label": "quote-question", "kind": "indirect"}
+{"id": "H-019", "text": "customer asking about the coverage ceiling on Gold", "label": "quote-question", "kind": "paraphrase"}
+{"id": "H-020", "text": "comparison sheet needed for the two options", "label": "quote-question", "kind": "terse"}
+{"id": "H-021", "text": "put the signed form on file for C-144", "label": "documentation", "kind": "paraphrase"}
+{"id": "H-022", "text": "need to record what was discussed on the call", "label": "documentation", "kind": "paraphrase"}
+{"id": "H-023", "text": "upload id proof against C-288", "label": "documentation", "kind": "terse"}
+{"id": "H-024", "text": "note down that the brochure was emailed", "label": "documentation", "kind": "paraphrase"}
+{"id": "H-025", "text": "add this to the customer history please", "label": "documentation", "kind": "indirect"}
+{"id": "H-026", "text": "where do i store the consent copy for C-401", "label": "documentation", "kind": "indirect"}
+{"id": "H-027", "text": "paperwork for C-019 needs filing", "label": "documentation", "kind": "terse"}
+{"id": "H-028", "text": "make an entry for todays conversation", "label": "documentation", "kind": "paraphrase"}
+{"id": "H-029", "text": "attach the welcome kit acknowledgement", "label": "documentation", "kind": "paraphrase"}
+{"id": "H-030", "text": "document the follow up from last week", "label": "documentation", "kind": "paraphrase"}
+{"id": "H-031", "text": "he is fed up with how long settlement is taking", "label": "complaint", "kind": "paraphrase"}
+{"id": "H-032", "text": "poor experience reported by C-262", "label": "complaint", "kind": "terse"}
+{"id": "H-033", "text": "client not happy at all, says we misled him", "label": "complaint", "kind": "paraphrase"}
+{"id": "H-034", "text": "C-055 is upset the money hasnt come through", "label": "complaint", "kind": "typo"}
+{"id": "H-035", "text": "grievance about rude behaviour on the helpline", "label": "complaint", "kind": "paraphrase"}
+{"id": "H-036", "text": "customer feels cheated by the exclusions", "label": "complaint", "kind": "ambiguous"}
+{"id": "H-037", "text": "dissatisfied with the response time", "label": "complaint", "kind": "terse"}
+{"id": "H-038", "text": "theyre annoyed nobody called back", "label": "complaint", "kind": "typo"}
+{"id": "H-039", "text": "bad feedback about the claim process", "label": "complaint", "kind": "terse"}
+{"id": "H-040", "text": "C-190 raised an issue with service quality", "label": "complaint", "kind": "paraphrase"}
+{"id": "H-041", "text": "can someone senior look at this", "label": "escalation", "kind": "indirect"}
+{"id": "H-042", "text": "pass this up the chain for C-321", "label": "escalation", "kind": "paraphrase"}
+{"id": "H-043", "text": "needs the team lead to take over", "label": "escalation", "kind": "paraphrase"}
+{"id": "H-044", "text": "C-088 is demanding to speak to someone higher", "label": "escalation", "kind": "ambiguous"}
+{"id": "H-045", "text": "transfer to the grievance cell", "label": "escalation", "kind": "ambiguous"}
+{"id": "H-046", "text": "this is beyond my authority, forward it", "label": "escalation", "kind": "indirect"}
+{"id": "H-047", "text": "flag for manager attention", "label": "escalation", "kind": "terse"}
+{"id": "H-048", "text": "please involve the supervisor on C-412", "label": "escalation", "kind": "paraphrase"}
+{"id": "H-049", "text": "route to the senior desk", "label": "escalation", "kind": "terse"}
+{"id": "H-050", "text": "i cant resolve this, who handles it next", "label": "escalation", "kind": "indirect"}
