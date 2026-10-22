@@ -9,6 +9,7 @@ from __future__ import annotations
 import re
 from typing import Any
 
+from .classifier import UNCLEAR
 from .rag import BM25Index, tokenize
 from .store import NotFoundError, PolicyError, Store
 from .tools import lookup_synthetic_customer, save_draft
@@ -38,7 +39,20 @@ def _term_matches(term: str, text_tokens: set[str]) -> bool:
     return len(term) >= 5 and any(tok.startswith(term[:5]) for tok in text_tokens)
 
 
-def handle(store: Store, index: BM25Index, message: str, customer_id: str | None = None) -> dict[str, Any]:
+def handle(
+    store: Store,
+    index: BM25Index,
+    message: str,
+    customer_id: str | None = None,
+    classifier: Any | None = None,
+) -> dict[str, Any]:
+    """Route one agent message.
+
+    `classifier` is optional and only ever *informs* routing: it supplies an intent when the
+    deterministic rules match nothing, instead of the old blind fallback to `documentation`.
+    Safety controls below (unsafe-send detection, consent and approval gates) stay rule-based
+    on purpose, so no model confidence score can unlock a send.
+    """
     out: dict[str, Any] = {
         "intents": [],
         "answer_parts": [],
@@ -48,7 +62,14 @@ def handle(store: Store, index: BM25Index, message: str, customer_id: str | None
         "escalated": False,
         "draft_id": None,
         "safety_flags": [],
+        "predicted_intent": None,
+        "intent_confidence": None,
     }
+
+    if classifier is not None:
+        predicted, confidence = classifier.predict_with_threshold(message)
+        out["predicted_intent"] = predicted
+        out["intent_confidence"] = confidence
 
     if UNSAFE_SEND.search(message):
         out["safety_flags"].append("unsafe_send_request")
@@ -76,11 +97,46 @@ def handle(store: Store, index: BM25Index, message: str, customer_id: str | None
         out["intents"].append("quote_question")
         out["missing_inputs"].append("which plan (Silver, Gold or Platinum) the question is about")
     if not out["intents"]:
-        out["intents"].append("documentation")
-        _handle_docs(index, message, out)
+        _handle_unmatched(index, message, out)
 
-    store.log("ask", intents=out["intents"], escalated=out["escalated"], safety_flags=out["safety_flags"])
+    store.log(
+        "ask",
+        intents=out["intents"],
+        escalated=out["escalated"],
+        safety_flags=out["safety_flags"],
+        predicted_intent=out["predicted_intent"],
+        intent_confidence=out["intent_confidence"],
+    )
     return out
+
+
+def _handle_unmatched(index: BM25Index, message: str, out: dict[str, Any]) -> None:
+    """No rule matched. Use the classifier's intent if it was confident, else ask.
+
+    Previously this defaulted to `documentation` for everything, which silently mislabelled
+    complaints and escalations.
+    """
+    predicted = out["predicted_intent"]
+
+    if predicted in ("complaint", "escalation"):
+        out["intents"].append(predicted)
+        out["escalated"] = True
+        out["answer_parts"].append("This needs a human supervisor. No automated reply is prepared.")
+        return
+
+    if predicted == "renewal":
+        out["intents"].append("renewal")
+        out["missing_inputs"].append("customer_id (for example C-204)")
+        return
+
+    if predicted in (None, UNCLEAR):
+        # Name the missing input rather than guess, per the prompt standard.
+        out["intents"].append("unclear")
+        out["missing_inputs"].append("what the task is: a renewal, a product question, or filing")
+        return
+
+    out["intents"].append("documentation")
+    _handle_docs(index, message, out)
 
 
 def _handle_renewal(store: Store, cid: str | None, out: dict[str, Any]) -> None:

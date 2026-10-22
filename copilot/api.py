@@ -13,6 +13,7 @@ from typing import Any
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 
+from .classifier import TaskClassifier, load_split
 from .rag import BM25Index, chunks_from_catalog
 from .router import handle
 from .store import NotFoundError, PolicyError, Store
@@ -36,6 +37,8 @@ class AskResponse(BaseModel):
     escalated: bool
     draft_id: str | None
     safety_flags: list[str]
+    predicted_intent: str | None = None
+    intent_confidence: float | None = None
 
 
 class AgentAction(BaseModel):
@@ -46,6 +49,8 @@ def create_app(data_dir: Path | None = None) -> FastAPI:
     data_dir = data_dir or Path(os.environ.get("COPILOT_DATA_DIR", DEFAULT_DATA_DIR))
     store = Store.load(data_dir)
     index = BM25Index(chunks_from_catalog(store.catalog, store.brochures))
+    # Trained once at startup from the train split only (a few seconds on CPU).
+    classifier = TaskClassifier.train(load_split(data_dir)[0])
 
     app = FastAPI(
         title="Insurance Agent Copilot (synthetic)",
@@ -54,6 +59,7 @@ def create_app(data_dir: Path | None = None) -> FastAPI:
     )
     app.state.store = store
     app.state.index = index
+    app.state.classifier = classifier
 
     @app.get("/health")
     def health() -> dict[str, Any]:
@@ -73,7 +79,7 @@ def create_app(data_dir: Path | None = None) -> FastAPI:
     @app.post("/ask", response_model=AskResponse)
     def ask(body: AskRequest) -> AskResponse:
         # Asking never sends anything. Sending is a separate, approved step below.
-        result = handle(store, index, body.message, body.customer_id)
+        result = handle(store, index, body.message, body.customer_id, classifier=classifier)
         return AskResponse(
             intents=result["intents"],
             answer_parts=result["answer_parts"],
@@ -83,6 +89,8 @@ def create_app(data_dir: Path | None = None) -> FastAPI:
             escalated=result["escalated"],
             draft_id=result["draft_id"],
             safety_flags=result["safety_flags"],
+            predicted_intent=result["predicted_intent"],
+            intent_confidence=result["intent_confidence"],
         )
 
     @app.get("/drafts/{draft_id}")
