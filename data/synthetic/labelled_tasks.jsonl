@@ -1,500 +1,500 @@
-{"text": "please Renewal date check for C-086 please", "label": "renewal", "id": "T-0001", "split": "train"}
-{"text": "please What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0002", "split": "train"}
+{"text": "please Cover for C-086 lapses unless we act", "label": "renewal", "id": "T-0001", "split": "train"}
+{"text": "please Ceiling on the mid plan for C-026?", "label": "quote-question", "id": "T-0002", "split": "train"}
 {"text": "follow-up: Customer C-485 asked for a supervisor", "label": "escalation", "id": "T-0003", "split": "train"}
-{"text": "Refund not received, C-237 is very frustrated", "label": "complaint", "id": "T-0004", "split": "train"}
-{"text": "urgent: Send a renewal nudge to C-014 next week", "label": "renewal", "id": "T-0005", "split": "train"}
-{"text": "urgent: Save the KYC copy in the file for C-326", "label": "documentation", "id": "T-0006", "split": "train"}
-{"text": "Escalate this case for C-129 to the manager", "label": "escalation", "id": "T-0007", "split": "train"}
-{"text": "urgent: Log the call note about the brochure for C-079", "label": "documentation", "id": "T-0008", "split": "train"}
-{"text": "urgent: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0009", "split": "train"}
-{"text": "urgent: Prepare the renewal reminder for C-143", "label": "renewal", "id": "T-0010", "split": "train"}
-{"text": "please Need senior review for C-466", "label": "escalation", "id": "T-0011", "split": "train"}
-{"text": "follow-up: Renewal date check for C-358 please", "label": "renewal", "id": "T-0012", "split": "train"}
-{"text": "please Please attach the policy document for C-470", "label": "documentation", "id": "T-0013", "split": "train"}
-{"text": "Customer C-351 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0014", "split": "train"}
+{"text": "Service quality issue raised by C-237", "label": "complaint", "id": "T-0004", "split": "train"}
+{"text": "urgent: C-014 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0005", "split": "train"}
+{"text": "urgent: Upload the verification copy for C-326", "label": "documentation", "id": "T-0006", "split": "train"}
+{"text": "Need senior review for C-129", "label": "escalation", "id": "T-0007", "split": "train"}
+{"text": "urgent: Save the KYC copy in the file for C-079", "label": "documentation", "id": "T-0008", "split": "train"}
+{"text": "urgent: Explain the sum insured options to C-262", "label": "quote-question", "id": "T-0009", "split": "train"}
+{"text": "urgent: Customer C-143 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0010", "split": "train"}
+{"text": "please C-466 wants a callback from a team lead", "label": "escalation", "id": "T-0011", "split": "train"}
+{"text": "follow-up: Cover for C-358 lapses unless we act", "label": "renewal", "id": "T-0012", "split": "train"}
+{"text": "please Log the call note about the brochure for C-470", "label": "documentation", "id": "T-0013", "split": "train"}
+{"text": "The plan for C-351 expires at the end of this quarter", "label": "renewal", "id": "T-0014", "split": "train"}
 {"text": "Customer C-498 asked for a supervisor", "label": "escalation", "id": "T-0015", "split": "train"}
-{"text": "urgent: Customer says the agent was rude, C-306 wants this on record", "label": "complaint", "id": "T-0016", "split": "train"}
-{"text": "urgent: Need senior review for C-311", "label": "escalation", "id": "T-0017", "split": "train"}
-{"text": "urgent: Prepare the renewal reminder for C-136", "label": "renewal", "id": "T-0018", "split": "train"}
-{"text": "please Customer says the agent was rude, C-391 wants this on record", "label": "complaint", "id": "T-0019", "split": "train"}
-{"text": "When does C-328 renew?", "label": "renewal", "id": "T-0020", "split": "train"}
-{"text": "please Refund not received, C-300 is very frustrated", "label": "complaint", "id": "T-0021", "split": "train"}
-{"text": "C-447 wants a callback from a team lead", "label": "escalation", "id": "T-0022", "split": "train"}
-{"text": "urgent: Renewal date check for C-151 please", "label": "renewal", "id": "T-0023", "split": "train"}
-{"text": "I want to complain about the service C-446 received", "label": "complaint", "id": "T-0024", "split": "train"}
-{"text": "Renewal date check for C-261 please", "label": "renewal", "id": "T-0025", "split": "train"}
-{"text": "please Compare the two plans C-344 is considering", "label": "quote-question", "id": "T-0026", "split": "train"}
-{"text": "note: Compare the two plans C-352 is considering", "label": "quote-question", "id": "T-0027", "split": "train"}
-{"text": "please Customer C-304 asked for a supervisor", "label": "escalation", "id": "T-0028", "split": "train"}
-{"text": "please Customer C-383 asked for a supervisor", "label": "escalation", "id": "T-0029", "split": "train"}
-{"text": "Need senior review for C-090", "label": "escalation", "id": "T-0030", "split": "train"}
-{"text": "Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0031", "split": "train"}
-{"text": "File the signed acknowledgement from C-319", "label": "documentation", "id": "T-0032", "split": "train"}
-{"text": "Prepare the renewal reminder for C-115", "label": "renewal", "id": "T-0033", "split": "train"}
-{"text": "please Send a renewal nudge to C-367 next week", "label": "renewal", "id": "T-0034", "split": "train"}
-{"text": "note: Prepare the renewal reminder for C-277", "label": "renewal", "id": "T-0035", "split": "train"}
-{"text": "please What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0036", "split": "train"}
-{"text": "note: Please attach the policy document for C-162", "label": "documentation", "id": "T-0037", "split": "train"}
-{"text": "note: Log the call note about the brochure for C-223", "label": "documentation", "id": "T-0038", "split": "train"}
-{"text": "urgent: Compare the two plans C-156 is considering", "label": "quote-question", "id": "T-0039", "split": "train"}
-{"text": "What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0040", "split": "train"}
-{"text": "follow-up: C-496 wants a callback from a team lead", "label": "escalation", "id": "T-0041", "split": "train"}
-{"text": "Need senior review for C-236", "label": "escalation", "id": "T-0042", "split": "train"}
+{"text": "urgent: C-306 is upset that nobody responded", "label": "complaint", "id": "T-0016", "split": "train"}
+{"text": "urgent: This needs someone with more authority than me for C-311", "label": "escalation", "id": "T-0017", "split": "train"}
+{"text": "urgent: Customer C-136 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0018", "split": "train"}
+{"text": "please Poor feedback received from C-391 about the delay", "label": "complaint", "id": "T-0019", "split": "train"}
+{"text": "Prepare the renewal reminder for C-328", "label": "renewal", "id": "T-0020", "split": "train"}
+{"text": "please Service quality issue raised by C-300", "label": "complaint", "id": "T-0021", "split": "train"}
+{"text": "Beyond what I can approve, pass C-447 onward", "label": "escalation", "id": "T-0022", "split": "train"}
+{"text": "urgent: Cover for C-151 lapses unless we act", "label": "renewal", "id": "T-0023", "split": "train"}
+{"text": "C-446 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0024", "split": "train"}
+{"text": "Check the policy anniversary for C-261", "label": "renewal", "id": "T-0025", "split": "train"}
+{"text": "please What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0026", "split": "train"}
+{"text": "note: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0027", "split": "train"}
+{"text": "please Escalate this case for C-304 to the manager", "label": "escalation", "id": "T-0028", "split": "train"}
+{"text": "please Escalate this case for C-383 to the manager", "label": "escalation", "id": "T-0029", "split": "train"}
+{"text": "C-090 wants a callback from a team lead", "label": "escalation", "id": "T-0030", "split": "train"}
+{"text": "Compare the two plans C-137 is considering", "label": "quote-question", "id": "T-0031", "split": "train"}
+{"text": "Filing is pending for C-319, add it to the record", "label": "documentation", "id": "T-0032", "split": "train"}
+{"text": "Customer C-115 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0033", "split": "train"}
+{"text": "please C-367 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0034", "split": "train"}
+{"text": "note: Customer C-277 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0035", "split": "train"}
+{"text": "please Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0036", "split": "train"}
+{"text": "note: Log the call note about the brochure for C-162", "label": "documentation", "id": "T-0037", "split": "train"}
+{"text": "note: Update the interaction record for C-223", "label": "documentation", "id": "T-0038", "split": "train"}
+{"text": "urgent: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0039", "split": "train"}
+{"text": "Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0040", "split": "train"}
+{"text": "follow-up: Beyond what I can approve, pass C-496 onward", "label": "escalation", "id": "T-0041", "split": "train"}
+{"text": "C-236 wants a callback from a team lead", "label": "escalation", "id": "T-0042", "split": "train"}
 {"text": "note: Please attach the policy document for C-155", "label": "documentation", "id": "T-0043", "split": "train"}
-{"text": "urgent: Send a renewal nudge to C-390 next week", "label": "renewal", "id": "T-0044", "split": "train"}
-{"text": "Refund not received, C-019 is very frustrated", "label": "complaint", "id": "T-0045", "split": "train"}
-{"text": "follow-up: Save the KYC copy in the file for C-015", "label": "documentation", "id": "T-0046", "split": "train"}
-{"text": "please Save the KYC copy in the file for C-295", "label": "documentation", "id": "T-0047", "split": "train"}
-{"text": "note: I want to complain about the service C-123 received", "label": "complaint", "id": "T-0048", "split": "train"}
-{"text": "urgent: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0049", "split": "train"}
-{"text": "urgent: Customer C-380 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0050", "split": "train"}
-{"text": "Prepare the renewal reminder for C-041", "label": "renewal", "id": "T-0051", "split": "train"}
+{"text": "urgent: C-390 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0044", "split": "train"}
+{"text": "C-019 says the process felt unfair", "label": "complaint", "id": "T-0045", "split": "train"}
+{"text": "follow-up: Upload the verification copy for C-015", "label": "documentation", "id": "T-0046", "split": "train"}
+{"text": "please Record of today's discussion with C-295 needs an entry", "label": "documentation", "id": "T-0047", "split": "train"}
+{"text": "note: C-123 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0048", "split": "train"}
+{"text": "urgent: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0049", "split": "train"}
+{"text": "urgent: Send a renewal nudge to C-380 next week", "label": "renewal", "id": "T-0050", "split": "train"}
+{"text": "Renewal date check for C-041 please", "label": "renewal", "id": "T-0051", "split": "train"}
 {"text": "note: Please attach the policy document for C-103", "label": "documentation", "id": "T-0052", "split": "train"}
-{"text": "note: Please attach the policy document for C-413", "label": "documentation", "id": "T-0053", "split": "train"}
-{"text": "follow-up: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0054", "split": "train"}
-{"text": "note: Prepare the renewal reminder for C-312", "label": "renewal", "id": "T-0055", "split": "train"}
-{"text": "urgent: File the signed acknowledgement from C-026", "label": "documentation", "id": "T-0056", "split": "train"}
-{"text": "urgent: Customer is unhappy with the claim delay for C-165", "label": "complaint", "id": "T-0057", "split": "train"}
-{"text": "please Customer C-205 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0058", "split": "train"}
-{"text": "please Refund not received, C-428 is very frustrated", "label": "complaint", "id": "T-0059", "split": "train"}
-{"text": "I want to complain about the service C-424 received", "label": "complaint", "id": "T-0060", "split": "train"}
-{"text": "follow-up: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0061", "split": "train"}
-{"text": "please Escalate this case for C-350 to the manager", "label": "escalation", "id": "T-0062", "split": "train"}
-{"text": "please Log the call note about the brochure for C-151", "label": "documentation", "id": "T-0063", "split": "train"}
-{"text": "note: Update the interaction record for C-431", "label": "documentation", "id": "T-0064", "split": "train"}
-{"text": "follow-up: Need senior review for C-047", "label": "escalation", "id": "T-0065", "split": "train"}
-{"text": "urgent: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0066", "split": "train"}
-{"text": "note: Customer says the agent was rude, C-157 wants this on record", "label": "complaint", "id": "T-0067", "split": "train"}
-{"text": "note: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0068", "split": "train"}
-{"text": "please Renewal date check for C-402 please", "label": "renewal", "id": "T-0069", "split": "train"}
-{"text": "I want to complain about the service C-039 received", "label": "complaint", "id": "T-0070", "split": "train"}
-{"text": "note: Send a renewal nudge to C-120 next week", "label": "renewal", "id": "T-0071", "split": "train"}
-{"text": "please File the signed acknowledgement from C-426", "label": "documentation", "id": "T-0072", "split": "train"}
-{"text": "urgent: Update the interaction record for C-488", "label": "documentation", "id": "T-0073", "split": "train"}
-{"text": "follow-up: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0074", "split": "train"}
-{"text": "What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0075", "split": "train"}
-{"text": "note: Please route the C-122 file to the escalation desk", "label": "escalation", "id": "T-0076", "split": "train"}
-{"text": "File the signed acknowledgement from C-010", "label": "documentation", "id": "T-0077", "split": "train"}
-{"text": "please Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0078", "split": "train"}
-{"text": "urgent: What is the difference between Silver and Gold for C-305?", "label": "quote-question", "id": "T-0079", "split": "train"}
-{"text": "please Prepare the renewal reminder for C-230", "label": "renewal", "id": "T-0080", "split": "train"}
-{"text": "please Customer C-307 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0081", "split": "train"}
-{"text": "urgent: C-168 wants a callback from a team lead", "label": "escalation", "id": "T-0082", "split": "train"}
+{"text": "note: Log the call note about the brochure for C-413", "label": "documentation", "id": "T-0053", "split": "train"}
+{"text": "follow-up: Is dental treatment payable under the entry plan?", "label": "quote-question", "id": "T-0054", "split": "train"}
+{"text": "note: Customer C-312 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0055", "split": "train"}
+{"text": "urgent: Filing is pending for C-026, add it to the record", "label": "documentation", "id": "T-0056", "split": "train"}
+{"text": "urgent: I want to complain about the service C-165 received", "label": "complaint", "id": "T-0057", "split": "train"}
+{"text": "please The plan for C-205 expires at the end of this quarter", "label": "renewal", "id": "T-0058", "split": "train"}
+{"text": "please C-428 says the process felt unfair", "label": "complaint", "id": "T-0059", "split": "train"}
+{"text": "C-424 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0060", "split": "train"}
+{"text": "follow-up: Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0061", "split": "train"}
+{"text": "please Please route the C-350 file to the escalation desk", "label": "escalation", "id": "T-0062", "split": "train"}
+{"text": "please Save the KYC copy in the file for C-151", "label": "documentation", "id": "T-0063", "split": "train"}
+{"text": "note: File the signed acknowledgement from C-431", "label": "documentation", "id": "T-0064", "split": "train"}
+{"text": "follow-up: C-047 wants a callback from a team lead", "label": "escalation", "id": "T-0065", "split": "train"}
+{"text": "urgent: Is dental treatment payable under the entry plan?", "label": "quote-question", "id": "T-0066", "split": "train"}
+{"text": "note: C-157 is upset that nobody responded", "label": "complaint", "id": "T-0067", "split": "train"}
+{"text": "note: Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0068", "split": "train"}
+{"text": "please Check the policy anniversary for C-402", "label": "renewal", "id": "T-0069", "split": "train"}
+{"text": "C-039 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0070", "split": "train"}
+{"text": "note: C-120 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0071", "split": "train"}
+{"text": "please Filing is pending for C-426, add it to the record", "label": "documentation", "id": "T-0072", "split": "train"}
+{"text": "urgent: Store the completed form for C-488", "label": "documentation", "id": "T-0073", "split": "train"}
+{"text": "follow-up: Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0074", "split": "train"}
+{"text": "Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0075", "split": "train"}
+{"text": "note: Forward the C-122 matter to the next level", "label": "escalation", "id": "T-0076", "split": "train"}
+{"text": "Filing is pending for C-010, add it to the record", "label": "documentation", "id": "T-0077", "split": "train"}
+{"text": "please Compare the two plans C-146 is considering", "label": "quote-question", "id": "T-0078", "split": "train"}
+{"text": "urgent: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0079", "split": "train"}
+{"text": "please Customer C-230 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0080", "split": "train"}
+{"text": "please The plan for C-307 expires at the end of this quarter", "label": "renewal", "id": "T-0081", "split": "train"}
+{"text": "urgent: Higher approval is needed on C-168", "label": "escalation", "id": "T-0082", "split": "train"}
 {"text": "follow-up: Please attach the policy document for C-245", "label": "documentation", "id": "T-0083", "split": "train"}
-{"text": "please Escalate this case for C-056 to the manager", "label": "escalation", "id": "T-0084", "split": "train"}
-{"text": "urgent: C-468 wants a callback from a team lead", "label": "escalation", "id": "T-0085", "split": "train"}
-{"text": "follow-up: When does C-010 renew?", "label": "renewal", "id": "T-0086", "split": "train"}
+{"text": "please Please route the C-056 file to the escalation desk", "label": "escalation", "id": "T-0084", "split": "train"}
+{"text": "urgent: Higher approval is needed on C-468", "label": "escalation", "id": "T-0085", "split": "train"}
+{"text": "follow-up: Prepare the renewal reminder for C-010", "label": "renewal", "id": "T-0086", "split": "train"}
 {"text": "note: Please attach the policy document for C-285", "label": "documentation", "id": "T-0087", "split": "train"}
-{"text": "note: What is the difference between Silver and Gold for C-052?", "label": "quote-question", "id": "T-0088", "split": "train"}
-{"text": "please Send a renewal nudge to C-447 next week", "label": "renewal", "id": "T-0089", "split": "train"}
-{"text": "follow-up: Renewal date check for C-237 please", "label": "renewal", "id": "T-0090", "split": "train"}
-{"text": "urgent: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0091", "split": "train"}
-{"text": "follow-up: Customer says the agent was rude, C-258 wants this on record", "label": "complaint", "id": "T-0092", "split": "train"}
-{"text": "follow-up: File the signed acknowledgement from C-036", "label": "documentation", "id": "T-0093", "split": "train"}
-{"text": "urgent: Customer is unhappy with the claim delay for C-136", "label": "complaint", "id": "T-0094", "split": "train"}
-{"text": "follow-up: Please route the C-132 file to the escalation desk", "label": "escalation", "id": "T-0095", "split": "train"}
-{"text": "follow-up: Customer says the agent was rude, C-097 wants this on record", "label": "complaint", "id": "T-0096", "split": "train"}
-{"text": "Compare the two plans C-320 is considering", "label": "quote-question", "id": "T-0097", "split": "train"}
-{"text": "follow-up: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0098", "split": "train"}
-{"text": "note: Update the interaction record for C-495", "label": "documentation", "id": "T-0099", "split": "train"}
-{"text": "urgent: When does C-016 renew?", "label": "renewal", "id": "T-0100", "split": "train"}
-{"text": "note: I want to complain about the service C-047 received", "label": "complaint", "id": "T-0101", "split": "train"}
-{"text": "please Customer is unhappy with the claim delay for C-497", "label": "complaint", "id": "T-0102", "split": "train"}
-{"text": "urgent: Save the KYC copy in the file for C-444", "label": "documentation", "id": "T-0103", "split": "train"}
-{"text": "follow-up: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0104", "split": "train"}
-{"text": "follow-up: Please route the C-461 file to the escalation desk", "label": "escalation", "id": "T-0105", "split": "train"}
+{"text": "note: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0088", "split": "train"}
+{"text": "please Grace period for C-447 is closing, prepare the message", "label": "renewal", "id": "T-0089", "split": "train"}
+{"text": "follow-up: Cover for C-237 lapses unless we act", "label": "renewal", "id": "T-0090", "split": "train"}
+{"text": "urgent: Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0091", "split": "train"}
+{"text": "follow-up: C-258 is upset that nobody responded", "label": "complaint", "id": "T-0092", "split": "train"}
+{"text": "follow-up: Filing is pending for C-036, add it to the record", "label": "documentation", "id": "T-0093", "split": "train"}
+{"text": "urgent: I want to complain about the service C-136 received", "label": "complaint", "id": "T-0094", "split": "train"}
+{"text": "follow-up: C-132 should go to the senior handling desk", "label": "escalation", "id": "T-0095", "split": "train"}
+{"text": "follow-up: Poor feedback received from C-097 about the delay", "label": "complaint", "id": "T-0096", "split": "train"}
+{"text": "What is the limit on the higher tier for C-320?", "label": "quote-question", "id": "T-0097", "split": "train"}
+{"text": "follow-up: Is dental treatment payable under the entry plan?", "label": "quote-question", "id": "T-0098", "split": "train"}
+{"text": "note: File the signed acknowledgement from C-495", "label": "documentation", "id": "T-0099", "split": "train"}
+{"text": "urgent: Prepare the renewal reminder for C-016", "label": "renewal", "id": "T-0100", "split": "train"}
+{"text": "note: Refund not received, C-047 is very frustrated", "label": "complaint", "id": "T-0101", "split": "train"}
+{"text": "please I want to complain about the service C-497 received", "label": "complaint", "id": "T-0102", "split": "train"}
+{"text": "urgent: Upload the verification copy for C-444", "label": "documentation", "id": "T-0103", "split": "train"}
+{"text": "follow-up: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0104", "split": "train"}
+{"text": "follow-up: C-461 should go to the senior handling desk", "label": "escalation", "id": "T-0105", "split": "train"}
 {"text": "What is the difference between Silver and Gold for C-336?", "label": "quote-question", "id": "T-0106", "split": "train"}
-{"text": "follow-up: Refund not received, C-231 is very frustrated", "label": "complaint", "id": "T-0107", "split": "train"}
-{"text": "follow-up: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0108", "split": "train"}
-{"text": "Update the interaction record for C-494", "label": "documentation", "id": "T-0109", "split": "train"}
-{"text": "please Log the call note about the brochure for C-285", "label": "documentation", "id": "T-0110", "split": "train"}
-{"text": "urgent: Please route the C-228 file to the escalation desk", "label": "escalation", "id": "T-0111", "split": "train"}
-{"text": "note: Need senior review for C-352", "label": "escalation", "id": "T-0112", "split": "train"}
-{"text": "Prepare the renewal reminder for C-302", "label": "renewal", "id": "T-0113", "split": "train"}
-{"text": "urgent: Please route the C-383 file to the escalation desk", "label": "escalation", "id": "T-0114", "split": "train"}
+{"text": "follow-up: C-231 says the process felt unfair", "label": "complaint", "id": "T-0107", "split": "train"}
+{"text": "follow-up: Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0108", "split": "train"}
+{"text": "File the signed acknowledgement from C-494", "label": "documentation", "id": "T-0109", "split": "train"}
+{"text": "please Save the KYC copy in the file for C-285", "label": "documentation", "id": "T-0110", "split": "train"}
+{"text": "urgent: C-228 should go to the senior handling desk", "label": "escalation", "id": "T-0111", "split": "train"}
+{"text": "note: This needs someone with more authority than me for C-352", "label": "escalation", "id": "T-0112", "split": "train"}
+{"text": "Renewal date check for C-302 please", "label": "renewal", "id": "T-0113", "split": "train"}
+{"text": "urgent: Forward the C-383 matter to the next level", "label": "escalation", "id": "T-0114", "split": "train"}
 {"text": "follow-up: What is the difference between Silver and Gold for C-023?", "label": "quote-question", "id": "T-0115", "split": "train"}
-{"text": "follow-up: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0116", "split": "train"}
+{"text": "follow-up: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0116", "split": "train"}
 {"text": "note: Customer is unhappy with the claim delay for C-283", "label": "complaint", "id": "T-0117", "split": "train"}
-{"text": "urgent: Customer says the agent was rude, C-015 wants this on record", "label": "complaint", "id": "T-0118", "split": "train"}
-{"text": "C-005 wants a callback from a team lead", "label": "escalation", "id": "T-0119", "split": "train"}
-{"text": "note: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0120", "split": "train"}
-{"text": "note: Customer C-085 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0121", "split": "train"}
-{"text": "please Please attach the policy document for C-428", "label": "documentation", "id": "T-0122", "split": "train"}
-{"text": "note: File the signed acknowledgement from C-276", "label": "documentation", "id": "T-0123", "split": "train"}
-{"text": "Compare the two plans C-383 is considering", "label": "quote-question", "id": "T-0124", "split": "train"}
-{"text": "note: Prepare the renewal reminder for C-494", "label": "renewal", "id": "T-0125", "split": "train"}
-{"text": "urgent: Please attach the policy document for C-494", "label": "documentation", "id": "T-0126", "split": "train"}
-{"text": "follow-up: C-162 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0127", "split": "train"}
-{"text": "please Refund not received, C-319 is very frustrated", "label": "complaint", "id": "T-0128", "split": "train"}
-{"text": "note: Save the KYC copy in the file for C-239", "label": "documentation", "id": "T-0129", "split": "train"}
-{"text": "urgent: C-347 wants a callback from a team lead", "label": "escalation", "id": "T-0130", "split": "train"}
-{"text": "follow-up: Update the interaction record for C-182", "label": "documentation", "id": "T-0131", "split": "train"}
-{"text": "urgent: Refund not received, C-297 is very frustrated", "label": "complaint", "id": "T-0132", "split": "train"}
-{"text": "note: Prepare the renewal reminder for C-391", "label": "renewal", "id": "T-0133", "split": "train"}
+{"text": "urgent: C-015 is upset that nobody responded", "label": "complaint", "id": "T-0118", "split": "train"}
+{"text": "Higher approval is needed on C-005", "label": "escalation", "id": "T-0119", "split": "train"}
+{"text": "note: Explain the sum insured options to C-083", "label": "quote-question", "id": "T-0120", "split": "train"}
+{"text": "note: Send a renewal nudge to C-085 next week", "label": "renewal", "id": "T-0121", "split": "train"}
+{"text": "please Log the call note about the brochure for C-428", "label": "documentation", "id": "T-0122", "split": "train"}
+{"text": "note: Filing is pending for C-276, add it to the record", "label": "documentation", "id": "T-0123", "split": "train"}
+{"text": "What is the limit on the higher tier for C-383?", "label": "quote-question", "id": "T-0124", "split": "train"}
+{"text": "note: Renewal date check for C-494 please", "label": "renewal", "id": "T-0125", "split": "train"}
+{"text": "urgent: Log the call note about the brochure for C-494", "label": "documentation", "id": "T-0126", "split": "train"}
+{"text": "follow-up: Customer says the agent was rude, C-162 wants this on record", "label": "complaint", "id": "T-0127", "split": "train"}
+{"text": "please C-319 says the process felt unfair", "label": "complaint", "id": "T-0128", "split": "train"}
+{"text": "note: Record of today's discussion with C-239 needs an entry", "label": "documentation", "id": "T-0129", "split": "train"}
+{"text": "urgent: Beyond what I can approve, pass C-347 onward", "label": "escalation", "id": "T-0130", "split": "train"}
+{"text": "follow-up: File the signed acknowledgement from C-182", "label": "documentation", "id": "T-0131", "split": "train"}
+{"text": "urgent: C-297 says the process felt unfair", "label": "complaint", "id": "T-0132", "split": "train"}
+{"text": "note: Customer C-391 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0133", "split": "train"}
 {"text": "urgent: Customer C-339 asked for a supervisor", "label": "escalation", "id": "T-0134", "split": "train"}
-{"text": "note: Refund not received, C-286 is very frustrated", "label": "complaint", "id": "T-0135", "split": "train"}
-{"text": "Escalate this case for C-312 to the manager", "label": "escalation", "id": "T-0136", "split": "train"}
-{"text": "note: Need senior review for C-230", "label": "escalation", "id": "T-0137", "split": "train"}
-{"text": "follow-up: Refund not received, C-142 is very frustrated", "label": "complaint", "id": "T-0138", "split": "train"}
-{"text": "please Customer C-352 asked for a supervisor", "label": "escalation", "id": "T-0139", "split": "train"}
-{"text": "note: Escalate this case for C-047 to the manager", "label": "escalation", "id": "T-0140", "split": "train"}
-{"text": "Renewal date check for C-303 please", "label": "renewal", "id": "T-0141", "split": "train"}
-{"text": "note: I want to complain about the service C-358 received", "label": "complaint", "id": "T-0142", "split": "train"}
-{"text": "follow-up: C-119 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0143", "split": "train"}
-{"text": "follow-up: I want to complain about the service C-352 received", "label": "complaint", "id": "T-0144", "split": "train"}
-{"text": "please I want to complain about the service C-150 received", "label": "complaint", "id": "T-0145", "split": "train"}
-{"text": "note: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0146", "split": "train"}
+{"text": "note: Service quality issue raised by C-286", "label": "complaint", "id": "T-0135", "split": "train"}
+{"text": "Need senior review for C-312", "label": "escalation", "id": "T-0136", "split": "train"}
+{"text": "note: This needs someone with more authority than me for C-230", "label": "escalation", "id": "T-0137", "split": "train"}
+{"text": "follow-up: Service quality issue raised by C-142", "label": "complaint", "id": "T-0138", "split": "train"}
+{"text": "please Escalate this case for C-352 to the manager", "label": "escalation", "id": "T-0139", "split": "train"}
+{"text": "note: Please route the C-047 file to the escalation desk", "label": "escalation", "id": "T-0140", "split": "train"}
+{"text": "Cover for C-303 lapses unless we act", "label": "renewal", "id": "T-0141", "split": "train"}
+{"text": "note: Refund not received, C-358 is very frustrated", "label": "complaint", "id": "T-0142", "split": "train"}
+{"text": "follow-up: Customer says the agent was rude, C-119 wants this on record", "label": "complaint", "id": "T-0143", "split": "train"}
+{"text": "follow-up: Refund not received, C-352 is very frustrated", "label": "complaint", "id": "T-0144", "split": "train"}
+{"text": "please C-150 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0145", "split": "train"}
+{"text": "note: Ceiling on the mid plan for C-221?", "label": "quote-question", "id": "T-0146", "split": "train"}
 {"text": "follow-up: When does C-118 renew?", "label": "renewal", "id": "T-0147", "split": "train"}
-{"text": "note: Refund not received, C-210 is very frustrated", "label": "complaint", "id": "T-0148", "split": "train"}
-{"text": "urgent: When does C-497 renew?", "label": "renewal", "id": "T-0149", "split": "train"}
-{"text": "note: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0150", "split": "train"}
+{"text": "note: C-210 says the process felt unfair", "label": "complaint", "id": "T-0148", "split": "train"}
+{"text": "urgent: Prepare the renewal reminder for C-497", "label": "renewal", "id": "T-0149", "split": "train"}
+{"text": "note: Compare the two plans C-484 is considering", "label": "quote-question", "id": "T-0150", "split": "train"}
 {"text": "please What is the difference between Silver and Gold for C-131?", "label": "quote-question", "id": "T-0151", "split": "train"}
-{"text": "What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0152", "split": "train"}
-{"text": "Customer C-206 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0153", "split": "train"}
+{"text": "Ceiling on the mid plan for C-244?", "label": "quote-question", "id": "T-0152", "split": "train"}
+{"text": "Send a renewal nudge to C-206 next week", "label": "renewal", "id": "T-0153", "split": "train"}
 {"text": "please What is the difference between Silver and Gold for C-195?", "label": "quote-question", "id": "T-0154", "split": "train"}
-{"text": "Log the call note about the brochure for C-304", "label": "documentation", "id": "T-0155", "split": "train"}
-{"text": "please Customer C-051 asked for a supervisor", "label": "escalation", "id": "T-0156", "split": "train"}
-{"text": "please Refund not received, C-169 is very frustrated", "label": "complaint", "id": "T-0157", "split": "train"}
-{"text": "please What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0158", "split": "train"}
-{"text": "Prepare the renewal reminder for C-296", "label": "renewal", "id": "T-0159", "split": "train"}
-{"text": "What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0160", "split": "train"}
-{"text": "please What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0161", "split": "train"}
-{"text": "Please route the C-404 file to the escalation desk", "label": "escalation", "id": "T-0162", "split": "train"}
-{"text": "Renewal date check for C-375 please", "label": "renewal", "id": "T-0163", "split": "train"}
-{"text": "please Refund not received, C-277 is very frustrated", "label": "complaint", "id": "T-0164", "split": "train"}
-{"text": "note: Refund not received, C-125 is very frustrated", "label": "complaint", "id": "T-0165", "split": "train"}
-{"text": "urgent: Escalate this case for C-350 to the manager", "label": "escalation", "id": "T-0166", "split": "train"}
-{"text": "urgent: Customer C-326 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0167", "split": "train"}
-{"text": "When does C-098 renew?", "label": "renewal", "id": "T-0168", "split": "train"}
+{"text": "Save the KYC copy in the file for C-304", "label": "documentation", "id": "T-0155", "split": "train"}
+{"text": "please Escalate this case for C-051 to the manager", "label": "escalation", "id": "T-0156", "split": "train"}
+{"text": "please Service quality issue raised by C-169", "label": "complaint", "id": "T-0157", "split": "train"}
+{"text": "please Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0158", "split": "train"}
+{"text": "Renewal date check for C-296 please", "label": "renewal", "id": "T-0159", "split": "train"}
+{"text": "Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0160", "split": "train"}
+{"text": "please Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0161", "split": "train"}
+{"text": "C-404 should go to the senior handling desk", "label": "escalation", "id": "T-0162", "split": "train"}
+{"text": "Check the policy anniversary for C-375", "label": "renewal", "id": "T-0163", "split": "train"}
+{"text": "please C-277 says the process felt unfair", "label": "complaint", "id": "T-0164", "split": "train"}
+{"text": "note: C-125 says the process felt unfair", "label": "complaint", "id": "T-0165", "split": "train"}
+{"text": "urgent: Need senior review for C-350", "label": "escalation", "id": "T-0166", "split": "train"}
+{"text": "urgent: The plan for C-326 expires at the end of this quarter", "label": "renewal", "id": "T-0167", "split": "train"}
+{"text": "Prepare the renewal reminder for C-098", "label": "renewal", "id": "T-0168", "split": "train"}
 {"text": "please When does C-136 renew?", "label": "renewal", "id": "T-0169", "split": "train"}
-{"text": "follow-up: Renewal date check for C-338 please", "label": "renewal", "id": "T-0170", "split": "train"}
-{"text": "urgent: C-121 wants a callback from a team lead", "label": "escalation", "id": "T-0171", "split": "train"}
-{"text": "follow-up: Save the KYC copy in the file for C-143", "label": "documentation", "id": "T-0172", "split": "train"}
-{"text": "please C-195 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0173", "split": "train"}
-{"text": "follow-up: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0174", "split": "train"}
-{"text": "please Save the KYC copy in the file for C-124", "label": "documentation", "id": "T-0175", "split": "train"}
-{"text": "follow-up: File the signed acknowledgement from C-144", "label": "documentation", "id": "T-0176", "split": "train"}
-{"text": "urgent: Customer C-317 asked for a supervisor", "label": "escalation", "id": "T-0177", "split": "train"}
-{"text": "urgent: Save the KYC copy in the file for C-452", "label": "documentation", "id": "T-0178", "split": "train"}
-{"text": "note: C-372 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0179", "split": "train"}
-{"text": "Send a renewal nudge to C-026 next week", "label": "renewal", "id": "T-0180", "split": "train"}
-{"text": "please When does C-128 renew?", "label": "renewal", "id": "T-0181", "split": "train"}
-{"text": "follow-up: C-067 wants a callback from a team lead", "label": "escalation", "id": "T-0182", "split": "train"}
+{"text": "follow-up: Cover for C-338 lapses unless we act", "label": "renewal", "id": "T-0170", "split": "train"}
+{"text": "urgent: Beyond what I can approve, pass C-121 onward", "label": "escalation", "id": "T-0171", "split": "train"}
+{"text": "follow-up: Record of today's discussion with C-143 needs an entry", "label": "documentation", "id": "T-0172", "split": "train"}
+{"text": "please C-195 is dissatisfied with how the case was handled", "label": "complaint", "id": "T-0173", "split": "train"}
+{"text": "follow-up: Compare the two plans C-013 is considering", "label": "quote-question", "id": "T-0174", "split": "train"}
+{"text": "please Record of today's discussion with C-124 needs an entry", "label": "documentation", "id": "T-0175", "split": "train"}
+{"text": "follow-up: Keep a copy of the sent brochure against C-144", "label": "documentation", "id": "T-0176", "split": "train"}
+{"text": "urgent: Escalate this case for C-317 to the manager", "label": "escalation", "id": "T-0177", "split": "train"}
+{"text": "urgent: Upload the verification copy for C-452", "label": "documentation", "id": "T-0178", "split": "train"}
+{"text": "note: Customer says the agent was rude, C-372 wants this on record", "label": "complaint", "id": "T-0179", "split": "train"}
+{"text": "C-026 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0180", "split": "train"}
+{"text": "please Prepare the renewal reminder for C-128", "label": "renewal", "id": "T-0181", "split": "train"}
+{"text": "follow-up: Beyond what I can approve, pass C-067 onward", "label": "escalation", "id": "T-0182", "split": "train"}
 {"text": "please What is the difference between Silver and Gold for C-196?", "label": "quote-question", "id": "T-0183", "split": "train"}
-{"text": "note: Compare the two plans C-140 is considering", "label": "quote-question", "id": "T-0184", "split": "train"}
-{"text": "urgent: Compare the two plans C-108 is considering", "label": "quote-question", "id": "T-0185", "split": "train"}
-{"text": "urgent: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0186", "split": "train"}
-{"text": "Escalate this case for C-060 to the manager", "label": "escalation", "id": "T-0187", "split": "train"}
-{"text": "note: C-437 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0188", "split": "train"}
-{"text": "When does C-485 renew?", "label": "renewal", "id": "T-0189", "split": "train"}
-{"text": "urgent: Update the interaction record for C-231", "label": "documentation", "id": "T-0190", "split": "train"}
-{"text": "please Prepare the renewal reminder for C-079", "label": "renewal", "id": "T-0191", "split": "train"}
-{"text": "urgent: I want to complain about the service C-486 received", "label": "complaint", "id": "T-0192", "split": "train"}
-{"text": "urgent: Log the call note about the brochure for C-197", "label": "documentation", "id": "T-0193", "split": "train"}
-{"text": "note: Customer is unhappy with the claim delay for C-252", "label": "complaint", "id": "T-0194", "split": "train"}
-{"text": "What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0195", "split": "train"}
-{"text": "urgent: Log the call note about the brochure for C-487", "label": "documentation", "id": "T-0196", "split": "train"}
-{"text": "Refund not received, C-451 is very frustrated", "label": "complaint", "id": "T-0197", "split": "train"}
-{"text": "urgent: Need senior review for C-204", "label": "escalation", "id": "T-0198", "split": "train"}
-{"text": "follow-up: Customer says the agent was rude, C-479 wants this on record", "label": "complaint", "id": "T-0199", "split": "train"}
+{"text": "note: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0184", "split": "train"}
+{"text": "urgent: What is the limit on the higher tier for C-108?", "label": "quote-question", "id": "T-0185", "split": "train"}
+{"text": "urgent: Explain the sum insured options to C-227", "label": "quote-question", "id": "T-0186", "split": "train"}
+{"text": "Need senior review for C-060", "label": "escalation", "id": "T-0187", "split": "train"}
+{"text": "note: C-437 is dissatisfied with how the case was handled", "label": "complaint", "id": "T-0188", "split": "train"}
+{"text": "Prepare the renewal reminder for C-485", "label": "renewal", "id": "T-0189", "split": "train"}
+{"text": "urgent: File the signed acknowledgement from C-231", "label": "documentation", "id": "T-0190", "split": "train"}
+{"text": "please Customer C-079 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0191", "split": "train"}
+{"text": "urgent: Refund not received, C-486 is very frustrated", "label": "complaint", "id": "T-0192", "split": "train"}
+{"text": "urgent: Update the interaction record for C-197", "label": "documentation", "id": "T-0193", "split": "train"}
+{"text": "note: I want to complain about the service C-252 received", "label": "complaint", "id": "T-0194", "split": "train"}
+{"text": "Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0195", "split": "train"}
+{"text": "urgent: Update the interaction record for C-487", "label": "documentation", "id": "T-0196", "split": "train"}
+{"text": "C-451 says the process felt unfair", "label": "complaint", "id": "T-0197", "split": "train"}
+{"text": "urgent: C-204 wants a callback from a team lead", "label": "escalation", "id": "T-0198", "split": "train"}
+{"text": "follow-up: Poor feedback received from C-479 about the delay", "label": "complaint", "id": "T-0199", "split": "train"}
 {"text": "urgent: Please attach the policy document for C-387", "label": "documentation", "id": "T-0200", "split": "train"}
-{"text": "What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0201", "split": "train"}
-{"text": "note: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0202", "split": "train"}
-{"text": "urgent: Customer says the agent was rude, C-404 wants this on record", "label": "complaint", "id": "T-0203", "split": "train"}
-{"text": "please Log the call note about the brochure for C-486", "label": "documentation", "id": "T-0204", "split": "train"}
-{"text": "urgent: Need senior review for C-017", "label": "escalation", "id": "T-0205", "split": "train"}
-{"text": "urgent: Need senior review for C-257", "label": "escalation", "id": "T-0206", "split": "train"}
+{"text": "Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0201", "split": "train"}
+{"text": "note: Ceiling on the mid plan for C-235?", "label": "quote-question", "id": "T-0202", "split": "train"}
+{"text": "urgent: C-404 is upset that nobody responded", "label": "complaint", "id": "T-0203", "split": "train"}
+{"text": "please Save the KYC copy in the file for C-486", "label": "documentation", "id": "T-0204", "split": "train"}
+{"text": "urgent: This needs someone with more authority than me for C-017", "label": "escalation", "id": "T-0205", "split": "train"}
+{"text": "urgent: C-257 wants a callback from a team lead", "label": "escalation", "id": "T-0206", "split": "train"}
 {"text": "follow-up: What is the difference between Silver and Gold for C-066?", "label": "quote-question", "id": "T-0207", "split": "train"}
 {"text": "please Please attach the policy document for C-249", "label": "documentation", "id": "T-0208", "split": "train"}
 {"text": "note: Customer is unhappy with the claim delay for C-053", "label": "complaint", "id": "T-0209", "split": "train"}
-{"text": "urgent: Customer is unhappy with the claim delay for C-485", "label": "complaint", "id": "T-0210", "split": "train"}
-{"text": "please Save the KYC copy in the file for C-331", "label": "documentation", "id": "T-0211", "split": "train"}
-{"text": "note: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0212", "split": "train"}
-{"text": "urgent: Update the interaction record for C-117", "label": "documentation", "id": "T-0213", "split": "train"}
-{"text": "urgent: Save the KYC copy in the file for C-173", "label": "documentation", "id": "T-0214", "split": "train"}
-{"text": "please Prepare the renewal reminder for C-247", "label": "renewal", "id": "T-0215", "split": "train"}
-{"text": "urgent: C-065 wants a callback from a team lead", "label": "escalation", "id": "T-0216", "split": "train"}
-{"text": "please Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0217", "split": "train"}
-{"text": "note: C-177 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0218", "split": "train"}
-{"text": "Need senior review for C-302", "label": "escalation", "id": "T-0219", "split": "train"}
-{"text": "please Customer C-336 asked for a supervisor", "label": "escalation", "id": "T-0220", "split": "train"}
-{"text": "urgent: Compare the two plans C-450 is considering", "label": "quote-question", "id": "T-0221", "split": "train"}
-{"text": "follow-up: Send a renewal nudge to C-425 next week", "label": "renewal", "id": "T-0222", "split": "train"}
-{"text": "note: Escalate this case for C-326 to the manager", "label": "escalation", "id": "T-0223", "split": "train"}
-{"text": "follow-up: Refund not received, C-179 is very frustrated", "label": "complaint", "id": "T-0224", "split": "train"}
-{"text": "Send a renewal nudge to C-414 next week", "label": "renewal", "id": "T-0225", "split": "train"}
-{"text": "urgent: Save the KYC copy in the file for C-330", "label": "documentation", "id": "T-0226", "split": "train"}
-{"text": "follow-up: I want to complain about the service C-031 received", "label": "complaint", "id": "T-0227", "split": "train"}
-{"text": "urgent: Escalate this case for C-221 to the manager", "label": "escalation", "id": "T-0228", "split": "train"}
-{"text": "urgent: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0229", "split": "train"}
-{"text": "please C-475 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0230", "split": "train"}
-{"text": "follow-up: Send a renewal nudge to C-041 next week", "label": "renewal", "id": "T-0231", "split": "train"}
-{"text": "follow-up: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0232", "split": "train"}
+{"text": "urgent: I want to complain about the service C-485 received", "label": "complaint", "id": "T-0210", "split": "train"}
+{"text": "please Upload the verification copy for C-331", "label": "documentation", "id": "T-0211", "split": "train"}
+{"text": "note: Is dental treatment payable under the entry plan?", "label": "quote-question", "id": "T-0212", "split": "train"}
+{"text": "urgent: Store the completed form for C-117", "label": "documentation", "id": "T-0213", "split": "train"}
+{"text": "urgent: Record of today's discussion with C-173 needs an entry", "label": "documentation", "id": "T-0214", "split": "train"}
+{"text": "please Renewal date check for C-247 please", "label": "renewal", "id": "T-0215", "split": "train"}
+{"text": "urgent: Higher approval is needed on C-065", "label": "escalation", "id": "T-0216", "split": "train"}
+{"text": "please Compare the two plans C-500 is considering", "label": "quote-question", "id": "T-0217", "split": "train"}
+{"text": "note: C-177 is dissatisfied with how the case was handled", "label": "complaint", "id": "T-0218", "split": "train"}
+{"text": "This needs someone with more authority than me for C-302", "label": "escalation", "id": "T-0219", "split": "train"}
+{"text": "please Escalate this case for C-336 to the manager", "label": "escalation", "id": "T-0220", "split": "train"}
+{"text": "urgent: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0221", "split": "train"}
+{"text": "follow-up: Grace period for C-425 is closing, prepare the message", "label": "renewal", "id": "T-0222", "split": "train"}
+{"text": "note: Please route the C-326 file to the escalation desk", "label": "escalation", "id": "T-0223", "split": "train"}
+{"text": "follow-up: Service quality issue raised by C-179", "label": "complaint", "id": "T-0224", "split": "train"}
+{"text": "C-414 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0225", "split": "train"}
+{"text": "urgent: Record of today's discussion with C-330 needs an entry", "label": "documentation", "id": "T-0226", "split": "train"}
+{"text": "follow-up: C-031 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0227", "split": "train"}
+{"text": "urgent: Need senior review for C-221", "label": "escalation", "id": "T-0228", "split": "train"}
+{"text": "urgent: Is dental treatment payable under the entry plan?", "label": "quote-question", "id": "T-0229", "split": "train"}
+{"text": "please Customer says the agent was rude, C-475 wants this on record", "label": "complaint", "id": "T-0230", "split": "train"}
+{"text": "follow-up: C-041 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0231", "split": "train"}
+{"text": "follow-up: Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0232", "split": "train"}
 {"text": "Customer C-235 asked for a supervisor", "label": "escalation", "id": "T-0233", "split": "train"}
-{"text": "please I want to complain about the service C-008 received", "label": "complaint", "id": "T-0234", "split": "train"}
-{"text": "urgent: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0235", "split": "train"}
-{"text": "Refund not received, C-360 is very frustrated", "label": "complaint", "id": "T-0236", "split": "train"}
-{"text": "follow-up: C-023 wants a callback from a team lead", "label": "escalation", "id": "T-0237", "split": "train"}
+{"text": "please C-008 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0234", "split": "train"}
+{"text": "urgent: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0235", "split": "train"}
+{"text": "C-360 says the process felt unfair", "label": "complaint", "id": "T-0236", "split": "train"}
+{"text": "follow-up: Beyond what I can approve, pass C-023 onward", "label": "escalation", "id": "T-0237", "split": "train"}
 {"text": "urgent: When does C-037 renew?", "label": "renewal", "id": "T-0238", "split": "train"}
-{"text": "follow-up: What is the difference between Silver and Gold for C-443?", "label": "quote-question", "id": "T-0239", "split": "train"}
-{"text": "Log the call note about the brochure for C-486", "label": "documentation", "id": "T-0240", "split": "train"}
-{"text": "please File the signed acknowledgement from C-414", "label": "documentation", "id": "T-0241", "split": "train"}
-{"text": "please When does C-275 renew?", "label": "renewal", "id": "T-0242", "split": "train"}
-{"text": "please Customer is unhappy with the claim delay for C-225", "label": "complaint", "id": "T-0243", "split": "train"}
-{"text": "urgent: Need senior review for C-433", "label": "escalation", "id": "T-0244", "split": "train"}
-{"text": "urgent: Customer says the agent was rude, C-137 wants this on record", "label": "complaint", "id": "T-0245", "split": "train"}
-{"text": "follow-up: Refund not received, C-456 is very frustrated", "label": "complaint", "id": "T-0246", "split": "train"}
-{"text": "follow-up: Please route the C-300 file to the escalation desk", "label": "escalation", "id": "T-0247", "split": "train"}
-{"text": "urgent: Renewal date check for C-296 please", "label": "renewal", "id": "T-0248", "split": "train"}
-{"text": "please Customer is unhappy with the claim delay for C-431", "label": "complaint", "id": "T-0249", "split": "train"}
-{"text": "please What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0250", "split": "train"}
+{"text": "follow-up: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0239", "split": "train"}
+{"text": "Save the KYC copy in the file for C-486", "label": "documentation", "id": "T-0240", "split": "train"}
+{"text": "please Filing is pending for C-414, add it to the record", "label": "documentation", "id": "T-0241", "split": "train"}
+{"text": "please Prepare the renewal reminder for C-275", "label": "renewal", "id": "T-0242", "split": "train"}
+{"text": "please I want to complain about the service C-225 received", "label": "complaint", "id": "T-0243", "split": "train"}
+{"text": "urgent: C-433 wants a callback from a team lead", "label": "escalation", "id": "T-0244", "split": "train"}
+{"text": "urgent: Poor feedback received from C-137 about the delay", "label": "complaint", "id": "T-0245", "split": "train"}
+{"text": "follow-up: Service quality issue raised by C-456", "label": "complaint", "id": "T-0246", "split": "train"}
+{"text": "follow-up: Forward the C-300 matter to the next level", "label": "escalation", "id": "T-0247", "split": "train"}
+{"text": "urgent: Check the policy anniversary for C-296", "label": "renewal", "id": "T-0248", "split": "train"}
+{"text": "please I want to complain about the service C-431 received", "label": "complaint", "id": "T-0249", "split": "train"}
+{"text": "please Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0250", "split": "train"}
 {"text": "What is the difference between Silver and Gold for C-481?", "label": "quote-question", "id": "T-0251", "split": "train"}
-{"text": "note: Compare the two plans C-019 is considering", "label": "quote-question", "id": "T-0252", "split": "train"}
-{"text": "please Log the call note about the brochure for C-460", "label": "documentation", "id": "T-0253", "split": "train"}
-{"text": "please Log the call note about the brochure for C-168", "label": "documentation", "id": "T-0254", "split": "train"}
-{"text": "please C-362 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0255", "split": "train"}
-{"text": "urgent: Save the KYC copy in the file for C-431", "label": "documentation", "id": "T-0256", "split": "train"}
-{"text": "please Update the interaction record for C-168", "label": "documentation", "id": "T-0257", "split": "train"}
+{"text": "note: What is the limit on the higher tier for C-019?", "label": "quote-question", "id": "T-0252", "split": "train"}
+{"text": "please Save the KYC copy in the file for C-460", "label": "documentation", "id": "T-0253", "split": "train"}
+{"text": "please Save the KYC copy in the file for C-168", "label": "documentation", "id": "T-0254", "split": "train"}
+{"text": "please Customer says the agent was rude, C-362 wants this on record", "label": "complaint", "id": "T-0255", "split": "train"}
+{"text": "urgent: Upload the verification copy for C-431", "label": "documentation", "id": "T-0256", "split": "train"}
+{"text": "please Store the completed form for C-168", "label": "documentation", "id": "T-0257", "split": "train"}
 {"text": "follow-up: Please attach the policy document for C-297", "label": "documentation", "id": "T-0258", "split": "train"}
-{"text": "note: Prepare the renewal reminder for C-099", "label": "renewal", "id": "T-0259", "split": "train"}
-{"text": "note: Send a renewal nudge to C-382 next week", "label": "renewal", "id": "T-0260", "split": "train"}
-{"text": "Customer C-253 asked for a supervisor", "label": "escalation", "id": "T-0261", "split": "train"}
-{"text": "follow-up: Renewal date check for C-032 please", "label": "renewal", "id": "T-0262", "split": "train"}
-{"text": "follow-up: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0263", "split": "train"}
-{"text": "What is the difference between Silver and Gold for C-136?", "label": "quote-question", "id": "T-0264", "split": "train"}
-{"text": "Customer C-033 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0265", "split": "train"}
+{"text": "note: Renewal date check for C-099 please", "label": "renewal", "id": "T-0259", "split": "train"}
+{"text": "note: C-382 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0260", "split": "train"}
+{"text": "Escalate this case for C-253 to the manager", "label": "escalation", "id": "T-0261", "split": "train"}
+{"text": "follow-up: Cover for C-032 lapses unless we act", "label": "renewal", "id": "T-0262", "split": "train"}
+{"text": "follow-up: Explain the sum insured options to C-136", "label": "quote-question", "id": "T-0263", "split": "train"}
+{"text": "Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0264", "split": "train"}
+{"text": "The plan for C-033 expires at the end of this quarter", "label": "renewal", "id": "T-0265", "split": "train"}
 {"text": "follow-up: When does C-233 renew?", "label": "renewal", "id": "T-0266", "split": "train"}
-{"text": "What is the difference between Silver and Gold for C-162?", "label": "quote-question", "id": "T-0267", "split": "train"}
-{"text": "urgent: Send a renewal nudge to C-302 next week", "label": "renewal", "id": "T-0268", "split": "train"}
-{"text": "please C-023 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0269", "split": "train"}
-{"text": "note: Compare the two plans C-207 is considering", "label": "quote-question", "id": "T-0270", "split": "train"}
+{"text": "Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0267", "split": "train"}
+{"text": "urgent: C-302 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0268", "split": "train"}
+{"text": "please C-023 is dissatisfied with how the case was handled", "label": "complaint", "id": "T-0269", "split": "train"}
+{"text": "note: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0270", "split": "train"}
 {"text": "urgent: When does C-463 renew?", "label": "renewal", "id": "T-0271", "split": "train"}
-{"text": "urgent: Save the KYC copy in the file for C-094", "label": "documentation", "id": "T-0272", "split": "train"}
-{"text": "I want to complain about the service C-383 received", "label": "complaint", "id": "T-0273", "split": "train"}
-{"text": "follow-up: Log the call note about the brochure for C-427", "label": "documentation", "id": "T-0274", "split": "train"}
-{"text": "please Save the KYC copy in the file for C-007", "label": "documentation", "id": "T-0275", "split": "train"}
-{"text": "urgent: C-226 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0276", "split": "train"}
-{"text": "please Renewal date check for C-217 please", "label": "renewal", "id": "T-0277", "split": "train"}
-{"text": "urgent: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0278", "split": "train"}
-{"text": "note: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0279", "split": "train"}
-{"text": "please Refund not received, C-362 is very frustrated", "label": "complaint", "id": "T-0280", "split": "train"}
-{"text": "please I want to complain about the service C-340 received", "label": "complaint", "id": "T-0281", "split": "train"}
-{"text": "urgent: Need senior review for C-008", "label": "escalation", "id": "T-0282", "split": "train"}
-{"text": "please Send a renewal nudge to C-460 next week", "label": "renewal", "id": "T-0283", "split": "train"}
-{"text": "urgent: Update the interaction record for C-138", "label": "documentation", "id": "T-0284", "split": "train"}
-{"text": "C-136 wants a callback from a team lead", "label": "escalation", "id": "T-0285", "split": "train"}
-{"text": "please Update the interaction record for C-170", "label": "documentation", "id": "T-0286", "split": "train"}
-{"text": "Compare the two plans C-068 is considering", "label": "quote-question", "id": "T-0287", "split": "train"}
-{"text": "follow-up: When does C-260 renew?", "label": "renewal", "id": "T-0288", "split": "train"}
-{"text": "follow-up: Please route the C-425 file to the escalation desk", "label": "escalation", "id": "T-0289", "split": "train"}
-{"text": "please When does C-306 renew?", "label": "renewal", "id": "T-0290", "split": "train"}
-{"text": "please Compare the two plans C-336 is considering", "label": "quote-question", "id": "T-0291", "split": "train"}
-{"text": "note: C-325 wants a callback from a team lead", "label": "escalation", "id": "T-0292", "split": "train"}
+{"text": "urgent: Upload the verification copy for C-094", "label": "documentation", "id": "T-0272", "split": "train"}
+{"text": "C-383 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0273", "split": "train"}
+{"text": "follow-up: Save the KYC copy in the file for C-427", "label": "documentation", "id": "T-0274", "split": "train"}
+{"text": "please Record of today's discussion with C-007 needs an entry", "label": "documentation", "id": "T-0275", "split": "train"}
+{"text": "urgent: C-226 is dissatisfied with how the case was handled", "label": "complaint", "id": "T-0276", "split": "train"}
+{"text": "please Cover for C-217 lapses unless we act", "label": "renewal", "id": "T-0277", "split": "train"}
+{"text": "urgent: Ceiling on the mid plan for C-198?", "label": "quote-question", "id": "T-0278", "split": "train"}
+{"text": "note: Ceiling on the mid plan for C-127?", "label": "quote-question", "id": "T-0279", "split": "train"}
+{"text": "please Service quality issue raised by C-362", "label": "complaint", "id": "T-0280", "split": "train"}
+{"text": "please C-340 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0281", "split": "train"}
+{"text": "urgent: This needs someone with more authority than me for C-008", "label": "escalation", "id": "T-0282", "split": "train"}
+{"text": "please Grace period for C-460 is closing, prepare the message", "label": "renewal", "id": "T-0283", "split": "train"}
+{"text": "urgent: Store the completed form for C-138", "label": "documentation", "id": "T-0284", "split": "train"}
+{"text": "Beyond what I can approve, pass C-136 onward", "label": "escalation", "id": "T-0285", "split": "train"}
+{"text": "please Store the completed form for C-170", "label": "documentation", "id": "T-0286", "split": "train"}
+{"text": "What is the limit on the higher tier for C-068?", "label": "quote-question", "id": "T-0287", "split": "train"}
+{"text": "follow-up: Prepare the renewal reminder for C-260", "label": "renewal", "id": "T-0288", "split": "train"}
+{"text": "follow-up: Forward the C-425 matter to the next level", "label": "escalation", "id": "T-0289", "split": "train"}
+{"text": "please Prepare the renewal reminder for C-306", "label": "renewal", "id": "T-0290", "split": "train"}
+{"text": "please What is the limit on the higher tier for C-336?", "label": "quote-question", "id": "T-0291", "split": "train"}
+{"text": "note: Higher approval is needed on C-325", "label": "escalation", "id": "T-0292", "split": "train"}
 {"text": "When does C-443 renew?", "label": "renewal", "id": "T-0293", "split": "train"}
-{"text": "urgent: Customer is unhappy with the claim delay for C-209", "label": "complaint", "id": "T-0294", "split": "train"}
+{"text": "urgent: I want to complain about the service C-209 received", "label": "complaint", "id": "T-0294", "split": "train"}
 {"text": "urgent: When does C-143 renew?", "label": "renewal", "id": "T-0295", "split": "train"}
-{"text": "Update the interaction record for C-065", "label": "documentation", "id": "T-0296", "split": "train"}
-{"text": "please Customer says the agent was rude, C-241 wants this on record", "label": "complaint", "id": "T-0297", "split": "train"}
-{"text": "Please route the C-047 file to the escalation desk", "label": "escalation", "id": "T-0298", "split": "train"}
-{"text": "File the signed acknowledgement from C-164", "label": "documentation", "id": "T-0299", "split": "train"}
-{"text": "please Log the call note about the brochure for C-460", "label": "documentation", "id": "T-0300", "split": "train"}
-{"text": "note: Please route the C-272 file to the escalation desk", "label": "escalation", "id": "T-0301", "split": "train"}
-{"text": "follow-up: Need senior review for C-151", "label": "escalation", "id": "T-0302", "split": "train"}
-{"text": "note: File the signed acknowledgement from C-371", "label": "documentation", "id": "T-0303", "split": "train"}
-{"text": "please Escalate this case for C-301 to the manager", "label": "escalation", "id": "T-0304", "split": "train"}
-{"text": "please Send a renewal nudge to C-135 next week", "label": "renewal", "id": "T-0305", "split": "train"}
-{"text": "please Update the interaction record for C-026", "label": "documentation", "id": "T-0306", "split": "train"}
-{"text": "note: Renewal date check for C-113 please", "label": "renewal", "id": "T-0307", "split": "train"}
-{"text": "please Save the KYC copy in the file for C-153", "label": "documentation", "id": "T-0308", "split": "train"}
-{"text": "follow-up: Prepare the renewal reminder for C-024", "label": "renewal", "id": "T-0309", "split": "train"}
-{"text": "follow-up: File the signed acknowledgement from C-287", "label": "documentation", "id": "T-0310", "split": "train"}
-{"text": "urgent: Renewal date check for C-453 please", "label": "renewal", "id": "T-0311", "split": "train"}
+{"text": "File the signed acknowledgement from C-065", "label": "documentation", "id": "T-0296", "split": "train"}
+{"text": "please Poor feedback received from C-241 about the delay", "label": "complaint", "id": "T-0297", "split": "train"}
+{"text": "Forward the C-047 matter to the next level", "label": "escalation", "id": "T-0298", "split": "train"}
+{"text": "Filing is pending for C-164, add it to the record", "label": "documentation", "id": "T-0299", "split": "train"}
+{"text": "please Update the interaction record for C-460", "label": "documentation", "id": "T-0300", "split": "train"}
+{"text": "note: Forward the C-272 matter to the next level", "label": "escalation", "id": "T-0301", "split": "train"}
+{"text": "follow-up: This needs someone with more authority than me for C-151", "label": "escalation", "id": "T-0302", "split": "train"}
+{"text": "note: Keep a copy of the sent brochure against C-371", "label": "documentation", "id": "T-0303", "split": "train"}
+{"text": "please Need senior review for C-301", "label": "escalation", "id": "T-0304", "split": "train"}
+{"text": "please Grace period for C-135 is closing, prepare the message", "label": "renewal", "id": "T-0305", "split": "train"}
+{"text": "please File the signed acknowledgement from C-026", "label": "documentation", "id": "T-0306", "split": "train"}
+{"text": "note: Check the policy anniversary for C-113", "label": "renewal", "id": "T-0307", "split": "train"}
+{"text": "please Record of today's discussion with C-153 needs an entry", "label": "documentation", "id": "T-0308", "split": "train"}
+{"text": "follow-up: Renewal date check for C-024 please", "label": "renewal", "id": "T-0309", "split": "train"}
+{"text": "follow-up: Keep a copy of the sent brochure against C-287", "label": "documentation", "id": "T-0310", "split": "train"}
+{"text": "urgent: Check the policy anniversary for C-453", "label": "renewal", "id": "T-0311", "split": "train"}
 {"text": "follow-up: Customer C-463 asked for a supervisor", "label": "escalation", "id": "T-0312", "split": "train"}
-{"text": "note: File the signed acknowledgement from C-243", "label": "documentation", "id": "T-0313", "split": "train"}
-{"text": "note: Update the interaction record for C-357", "label": "documentation", "id": "T-0314", "split": "train"}
-{"text": "urgent: Compare the two plans C-105 is considering", "label": "quote-question", "id": "T-0315", "split": "train"}
-{"text": "follow-up: Save the KYC copy in the file for C-313", "label": "documentation", "id": "T-0316", "split": "train"}
-{"text": "note: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0317", "split": "train"}
-{"text": "urgent: Customer C-240 asked for a supervisor", "label": "escalation", "id": "T-0318", "split": "train"}
-{"text": "urgent: When does C-410 renew?", "label": "renewal", "id": "T-0319", "split": "train"}
+{"text": "note: Filing is pending for C-243, add it to the record", "label": "documentation", "id": "T-0313", "split": "train"}
+{"text": "note: File the signed acknowledgement from C-357", "label": "documentation", "id": "T-0314", "split": "train"}
+{"text": "urgent: What is the limit on the higher tier for C-105?", "label": "quote-question", "id": "T-0315", "split": "train"}
+{"text": "follow-up: Record of today's discussion with C-313 needs an entry", "label": "documentation", "id": "T-0316", "split": "train"}
+{"text": "note: Is dental treatment payable under the entry plan?", "label": "quote-question", "id": "T-0317", "split": "train"}
+{"text": "urgent: Escalate this case for C-240 to the manager", "label": "escalation", "id": "T-0318", "split": "train"}
+{"text": "urgent: Prepare the renewal reminder for C-410", "label": "renewal", "id": "T-0319", "split": "train"}
 {"text": "follow-up: Customer is unhappy with the claim delay for C-301", "label": "complaint", "id": "T-0320", "split": "train"}
-{"text": "Log the call note about the brochure for C-483", "label": "documentation", "id": "T-0321", "split": "train"}
-{"text": "follow-up: I want to complain about the service C-116 received", "label": "complaint", "id": "T-0322", "split": "train"}
-{"text": "urgent: Customer C-450 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0323", "split": "train"}
-{"text": "please What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0324", "split": "train"}
-{"text": "Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0325", "split": "train"}
-{"text": "follow-up: Please route the C-199 file to the escalation desk", "label": "escalation", "id": "T-0326", "split": "train"}
-{"text": "follow-up: Prepare the renewal reminder for C-387", "label": "renewal", "id": "T-0327", "split": "train"}
-{"text": "please Need senior review for C-354", "label": "escalation", "id": "T-0328", "split": "train"}
-{"text": "urgent: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0329", "split": "train"}
+{"text": "Save the KYC copy in the file for C-483", "label": "documentation", "id": "T-0321", "split": "train"}
+{"text": "follow-up: C-116 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0322", "split": "train"}
+{"text": "urgent: Send a renewal nudge to C-450 next week", "label": "renewal", "id": "T-0323", "split": "train"}
+{"text": "please Ceiling on the mid plan for C-056?", "label": "quote-question", "id": "T-0324", "split": "train"}
+{"text": "Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0325", "split": "train"}
+{"text": "follow-up: C-199 should go to the senior handling desk", "label": "escalation", "id": "T-0326", "split": "train"}
+{"text": "follow-up: Renewal date check for C-387 please", "label": "renewal", "id": "T-0327", "split": "train"}
+{"text": "please C-354 wants a callback from a team lead", "label": "escalation", "id": "T-0328", "split": "train"}
+{"text": "urgent: Is dental treatment payable under the entry plan?", "label": "quote-question", "id": "T-0329", "split": "train"}
 {"text": "note: What is the difference between Silver and Gold for C-112?", "label": "quote-question", "id": "T-0330", "split": "train"}
-{"text": "please I want to complain about the service C-197 received", "label": "complaint", "id": "T-0331", "split": "train"}
-{"text": "urgent: Prepare the renewal reminder for C-374", "label": "renewal", "id": "T-0332", "split": "train"}
-{"text": "Refund not received, C-482 is very frustrated", "label": "complaint", "id": "T-0333", "split": "train"}
-{"text": "note: Save the KYC copy in the file for C-069", "label": "documentation", "id": "T-0334", "split": "train"}
-{"text": "note: What is the difference between Silver and Gold for C-207?", "label": "quote-question", "id": "T-0335", "split": "train"}
-{"text": "please Customer C-195 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0336", "split": "train"}
-{"text": "please Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0337", "split": "train"}
-{"text": "follow-up: Please attach the policy document for C-426", "label": "documentation", "id": "T-0338", "split": "train"}
-{"text": "note: File the signed acknowledgement from C-086", "label": "documentation", "id": "T-0339", "split": "train"}
-{"text": "please Refund not received, C-146 is very frustrated", "label": "complaint", "id": "T-0340", "split": "train"}
-{"text": "please Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0341", "split": "train"}
-{"text": "follow-up: Prepare the renewal reminder for C-102", "label": "renewal", "id": "T-0342", "split": "train"}
-{"text": "urgent: C-036 wants a callback from a team lead", "label": "escalation", "id": "T-0343", "split": "train"}
-{"text": "note: Compare the two plans C-369 is considering", "label": "quote-question", "id": "T-0344", "split": "train"}
-{"text": "note: Please route the C-446 file to the escalation desk", "label": "escalation", "id": "T-0345", "split": "train"}
-{"text": "follow-up: Save the KYC copy in the file for C-055", "label": "documentation", "id": "T-0346", "split": "train"}
-{"text": "note: Customer says the agent was rude, C-472 wants this on record", "label": "complaint", "id": "T-0347", "split": "train"}
-{"text": "follow-up: C-241 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0348", "split": "train"}
-{"text": "Need senior review for C-438", "label": "escalation", "id": "T-0349", "split": "train"}
-{"text": "note: Refund not received, C-060 is very frustrated", "label": "complaint", "id": "T-0350", "split": "train"}
-{"text": "follow-up: Customer says the agent was rude, C-077 wants this on record", "label": "complaint", "id": "T-0351", "split": "train"}
-{"text": "follow-up: Update the interaction record for C-359", "label": "documentation", "id": "T-0352", "split": "train"}
-{"text": "please File the signed acknowledgement from C-170", "label": "documentation", "id": "T-0353", "split": "train"}
-{"text": "Customer says the agent was rude, C-042 wants this on record", "label": "complaint", "id": "T-0354", "split": "train"}
-{"text": "please Update the interaction record for C-113", "label": "documentation", "id": "T-0355", "split": "train"}
-{"text": "Need senior review for C-086", "label": "escalation", "id": "T-0356", "split": "train"}
-{"text": "urgent: Prepare the renewal reminder for C-186", "label": "renewal", "id": "T-0357", "split": "train"}
-{"text": "urgent: Need senior review for C-324", "label": "escalation", "id": "T-0358", "split": "train"}
-{"text": "urgent: Customer C-190 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0359", "split": "train"}
-{"text": "please Customer says the agent was rude, C-441 wants this on record", "label": "complaint", "id": "T-0360", "split": "train"}
-{"text": "urgent: Need senior review for C-427", "label": "escalation", "id": "T-0361", "split": "train"}
-{"text": "please Need senior review for C-301", "label": "escalation", "id": "T-0362", "split": "train"}
-{"text": "please C-467 wants a callback from a team lead", "label": "escalation", "id": "T-0363", "split": "train"}
-{"text": "note: C-013 wants a callback from a team lead", "label": "escalation", "id": "T-0364", "split": "train"}
-{"text": "follow-up: Customer C-461 asked for a supervisor", "label": "escalation", "id": "T-0365", "split": "train"}
-{"text": "urgent: Please attach the policy document for C-119", "label": "documentation", "id": "T-0366", "split": "train"}
-{"text": "note: Need senior review for C-065", "label": "escalation", "id": "T-0367", "split": "train"}
-{"text": "Need senior review for C-359", "label": "escalation", "id": "T-0368", "split": "train"}
-{"text": "follow-up: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0369", "split": "train"}
-{"text": "urgent: Renewal date check for C-143 please", "label": "renewal", "id": "T-0370", "split": "train"}
-{"text": "follow-up: What is the difference between Silver and Gold for C-221?", "label": "quote-question", "id": "T-0371", "split": "train"}
-{"text": "Need senior review for C-462", "label": "escalation", "id": "T-0372", "split": "train"}
-{"text": "urgent: Log the call note about the brochure for C-071", "label": "documentation", "id": "T-0373", "split": "train"}
+{"text": "please Refund not received, C-197 is very frustrated", "label": "complaint", "id": "T-0331", "split": "train"}
+{"text": "urgent: Renewal date check for C-374 please", "label": "renewal", "id": "T-0332", "split": "train"}
+{"text": "C-482 says the process felt unfair", "label": "complaint", "id": "T-0333", "split": "train"}
+{"text": "note: Upload the verification copy for C-069", "label": "documentation", "id": "T-0334", "split": "train"}
+{"text": "note: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0335", "split": "train"}
+{"text": "please Send a renewal nudge to C-195 next week", "label": "renewal", "id": "T-0336", "split": "train"}
+{"text": "please Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0337", "split": "train"}
+{"text": "follow-up: Log the call note about the brochure for C-426", "label": "documentation", "id": "T-0338", "split": "train"}
+{"text": "note: Keep a copy of the sent brochure against C-086", "label": "documentation", "id": "T-0339", "split": "train"}
+{"text": "please C-146 says the process felt unfair", "label": "complaint", "id": "T-0340", "split": "train"}
+{"text": "please Compare the two plans C-283 is considering", "label": "quote-question", "id": "T-0341", "split": "train"}
+{"text": "follow-up: Customer C-102 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0342", "split": "train"}
+{"text": "urgent: Beyond what I can approve, pass C-036 onward", "label": "escalation", "id": "T-0343", "split": "train"}
+{"text": "note: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0344", "split": "train"}
+{"text": "note: Forward the C-446 matter to the next level", "label": "escalation", "id": "T-0345", "split": "train"}
+{"text": "follow-up: Record of today's discussion with C-055 needs an entry", "label": "documentation", "id": "T-0346", "split": "train"}
+{"text": "note: C-472 is upset that nobody responded", "label": "complaint", "id": "T-0347", "split": "train"}
+{"text": "follow-up: Customer says the agent was rude, C-241 wants this on record", "label": "complaint", "id": "T-0348", "split": "train"}
+{"text": "This needs someone with more authority than me for C-438", "label": "escalation", "id": "T-0349", "split": "train"}
+{"text": "note: Service quality issue raised by C-060", "label": "complaint", "id": "T-0350", "split": "train"}
+{"text": "follow-up: C-077 is upset that nobody responded", "label": "complaint", "id": "T-0351", "split": "train"}
+{"text": "follow-up: File the signed acknowledgement from C-359", "label": "documentation", "id": "T-0352", "split": "train"}
+{"text": "please Filing is pending for C-170, add it to the record", "label": "documentation", "id": "T-0353", "split": "train"}
+{"text": "C-042 is upset that nobody responded", "label": "complaint", "id": "T-0354", "split": "train"}
+{"text": "please File the signed acknowledgement from C-113", "label": "documentation", "id": "T-0355", "split": "train"}
+{"text": "C-086 wants a callback from a team lead", "label": "escalation", "id": "T-0356", "split": "train"}
+{"text": "urgent: Renewal date check for C-186 please", "label": "renewal", "id": "T-0357", "split": "train"}
+{"text": "urgent: C-324 wants a callback from a team lead", "label": "escalation", "id": "T-0358", "split": "train"}
+{"text": "urgent: The plan for C-190 expires at the end of this quarter", "label": "renewal", "id": "T-0359", "split": "train"}
+{"text": "please C-441 is upset that nobody responded", "label": "complaint", "id": "T-0360", "split": "train"}
+{"text": "urgent: C-427 wants a callback from a team lead", "label": "escalation", "id": "T-0361", "split": "train"}
+{"text": "please C-301 wants a callback from a team lead", "label": "escalation", "id": "T-0362", "split": "train"}
+{"text": "please Higher approval is needed on C-467", "label": "escalation", "id": "T-0363", "split": "train"}
+{"text": "note: Higher approval is needed on C-013", "label": "escalation", "id": "T-0364", "split": "train"}
+{"text": "follow-up: Escalate this case for C-461 to the manager", "label": "escalation", "id": "T-0365", "split": "train"}
+{"text": "urgent: Log the call note about the brochure for C-119", "label": "documentation", "id": "T-0366", "split": "train"}
+{"text": "note: C-065 wants a callback from a team lead", "label": "escalation", "id": "T-0367", "split": "train"}
+{"text": "C-359 wants a callback from a team lead", "label": "escalation", "id": "T-0368", "split": "train"}
+{"text": "follow-up: Ceiling on the mid plan for C-264?", "label": "quote-question", "id": "T-0369", "split": "train"}
+{"text": "urgent: Check the policy anniversary for C-143", "label": "renewal", "id": "T-0370", "split": "train"}
+{"text": "follow-up: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0371", "split": "train"}
+{"text": "This needs someone with more authority than me for C-462", "label": "escalation", "id": "T-0372", "split": "train"}
+{"text": "urgent: Update the interaction record for C-071", "label": "documentation", "id": "T-0373", "split": "train"}
 {"text": "urgent: What is the difference between Silver and Gold for C-013?", "label": "quote-question", "id": "T-0374", "split": "train"}
-{"text": "urgent: Escalate this case for C-301 to the manager", "label": "escalation", "id": "T-0375", "split": "train"}
-{"text": "Please route the C-365 file to the escalation desk", "label": "escalation", "id": "T-0376", "split": "train"}
-{"text": "urgent: Need senior review for C-403", "label": "escalation", "id": "T-0377", "split": "train"}
-{"text": "note: Customer C-184 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0378", "split": "train"}
-{"text": "C-241 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0379", "split": "train"}
-{"text": "please Send a renewal nudge to C-461 next week", "label": "renewal", "id": "T-0380", "split": "train"}
-{"text": "please Renewal date check for C-109 please", "label": "renewal", "id": "T-0381", "split": "train"}
-{"text": "please File the signed acknowledgement from C-418", "label": "documentation", "id": "T-0382", "split": "train"}
-{"text": "Refund not received, C-320 is very frustrated", "label": "complaint", "id": "T-0383", "split": "train"}
-{"text": "follow-up: Update the interaction record for C-139", "label": "documentation", "id": "T-0384", "split": "train"}
-{"text": "urgent: Prepare the renewal reminder for C-062", "label": "renewal", "id": "T-0385", "split": "train"}
-{"text": "Escalate this case for C-409 to the manager", "label": "escalation", "id": "T-0386", "split": "train"}
-{"text": "Send a renewal nudge to C-347 next week", "label": "renewal", "id": "T-0387", "split": "train"}
-{"text": "please Escalate this case for C-387 to the manager", "label": "escalation", "id": "T-0388", "split": "train"}
-{"text": "please Customer C-496 asked for a supervisor", "label": "escalation", "id": "T-0389", "split": "train"}
-{"text": "urgent: Compare the two plans C-180 is considering", "label": "quote-question", "id": "T-0390", "split": "train"}
-{"text": "note: Customer C-090 asked for a supervisor", "label": "escalation", "id": "T-0391", "split": "train"}
-{"text": "please Customer C-059 asked for a supervisor", "label": "escalation", "id": "T-0392", "split": "train"}
-{"text": "follow-up: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0393", "split": "train"}
-{"text": "please Customer C-094 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0394", "split": "train"}
-{"text": "Renewal date check for C-048 please", "label": "renewal", "id": "T-0395", "split": "train"}
-{"text": "Compare the two plans C-251 is considering", "label": "quote-question", "id": "T-0396", "split": "train"}
+{"text": "urgent: Please route the C-301 file to the escalation desk", "label": "escalation", "id": "T-0375", "split": "train"}
+{"text": "C-365 should go to the senior handling desk", "label": "escalation", "id": "T-0376", "split": "train"}
+{"text": "urgent: This needs someone with more authority than me for C-403", "label": "escalation", "id": "T-0377", "split": "train"}
+{"text": "note: The plan for C-184 expires at the end of this quarter", "label": "renewal", "id": "T-0378", "split": "train"}
+{"text": "Customer says the agent was rude, C-241 wants this on record", "label": "complaint", "id": "T-0379", "split": "train"}
+{"text": "please C-461 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0380", "split": "train"}
+{"text": "please Check the policy anniversary for C-109", "label": "renewal", "id": "T-0381", "split": "train"}
+{"text": "please Filing is pending for C-418, add it to the record", "label": "documentation", "id": "T-0382", "split": "train"}
+{"text": "Service quality issue raised by C-320", "label": "complaint", "id": "T-0383", "split": "train"}
+{"text": "follow-up: File the signed acknowledgement from C-139", "label": "documentation", "id": "T-0384", "split": "train"}
+{"text": "urgent: Renewal date check for C-062 please", "label": "renewal", "id": "T-0385", "split": "train"}
+{"text": "Need senior review for C-409", "label": "escalation", "id": "T-0386", "split": "train"}
+{"text": "C-347 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0387", "split": "train"}
+{"text": "please Please route the C-387 file to the escalation desk", "label": "escalation", "id": "T-0388", "split": "train"}
+{"text": "please Escalate this case for C-496 to the manager", "label": "escalation", "id": "T-0389", "split": "train"}
+{"text": "urgent: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0390", "split": "train"}
+{"text": "note: Escalate this case for C-090 to the manager", "label": "escalation", "id": "T-0391", "split": "train"}
+{"text": "please Escalate this case for C-059 to the manager", "label": "escalation", "id": "T-0392", "split": "train"}
+{"text": "follow-up: Compare the two plans C-395 is considering", "label": "quote-question", "id": "T-0393", "split": "train"}
+{"text": "please Send a renewal nudge to C-094 next week", "label": "renewal", "id": "T-0394", "split": "train"}
+{"text": "Cover for C-048 lapses unless we act", "label": "renewal", "id": "T-0395", "split": "train"}
+{"text": "What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0396", "split": "train"}
 {"text": "note: Customer is unhappy with the claim delay for C-423", "label": "complaint", "id": "T-0397", "split": "train"}
-{"text": "follow-up: Please route the C-038 file to the escalation desk", "label": "escalation", "id": "T-0398", "split": "train"}
-{"text": "I want to complain about the service C-044 received", "label": "complaint", "id": "T-0399", "split": "train"}
-{"text": "Customer C-491 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0400", "split": "train"}
-{"text": "follow-up: File the signed acknowledgement from C-340", "label": "documentation", "id": "T-0401", "split": "test"}
-{"text": "note: Customer is unhappy with the claim delay for C-218", "label": "complaint", "id": "T-0402", "split": "test"}
-{"text": "urgent: C-470 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0403", "split": "test"}
-{"text": "please Customer says the agent was rude, C-398 wants this on record", "label": "complaint", "id": "T-0404", "split": "test"}
-{"text": "Customer says the agent was rude, C-031 wants this on record", "label": "complaint", "id": "T-0405", "split": "test"}
-{"text": "please Customer is unhappy with the claim delay for C-446", "label": "complaint", "id": "T-0406", "split": "test"}
-{"text": "note: Escalate this case for C-103 to the manager", "label": "escalation", "id": "T-0407", "split": "test"}
-{"text": "please Save the KYC copy in the file for C-427", "label": "documentation", "id": "T-0408", "split": "test"}
-{"text": "note: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0409", "split": "test"}
-{"text": "follow-up: Save the KYC copy in the file for C-111", "label": "documentation", "id": "T-0410", "split": "test"}
-{"text": "What is the difference between Silver and Gold for C-005?", "label": "quote-question", "id": "T-0411", "split": "test"}
+{"text": "follow-up: C-038 should go to the senior handling desk", "label": "escalation", "id": "T-0398", "split": "train"}
+{"text": "Refund not received, C-044 is very frustrated", "label": "complaint", "id": "T-0399", "split": "train"}
+{"text": "The plan for C-491 expires at the end of this quarter", "label": "renewal", "id": "T-0400", "split": "train"}
+{"text": "follow-up: Keep a copy of the sent brochure against C-340", "label": "documentation", "id": "T-0401", "split": "test"}
+{"text": "note: I want to complain about the service C-218 received", "label": "complaint", "id": "T-0402", "split": "test"}
+{"text": "urgent: Customer says the agent was rude, C-470 wants this on record", "label": "complaint", "id": "T-0403", "split": "test"}
+{"text": "please Poor feedback received from C-398 about the delay", "label": "complaint", "id": "T-0404", "split": "test"}
+{"text": "C-031 is upset that nobody responded", "label": "complaint", "id": "T-0405", "split": "test"}
+{"text": "please I want to complain about the service C-446 received", "label": "complaint", "id": "T-0406", "split": "test"}
+{"text": "note: Need senior review for C-103", "label": "escalation", "id": "T-0407", "split": "test"}
+{"text": "please Record of today's discussion with C-427 needs an entry", "label": "documentation", "id": "T-0408", "split": "test"}
+{"text": "note: Ceiling on the mid plan for C-215?", "label": "quote-question", "id": "T-0409", "split": "test"}
+{"text": "follow-up: Upload the verification copy for C-111", "label": "documentation", "id": "T-0410", "split": "test"}
+{"text": "Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0411", "split": "test"}
 {"text": "urgent: Customer is unhappy with the claim delay for C-494", "label": "complaint", "id": "T-0412", "split": "test"}
-{"text": "note: Please route the C-065 file to the escalation desk", "label": "escalation", "id": "T-0413", "split": "test"}
-{"text": "follow-up: What is the difference between Silver and Gold for C-338?", "label": "quote-question", "id": "T-0414", "split": "test"}
-{"text": "note: Escalate this case for C-169 to the manager", "label": "escalation", "id": "T-0415", "split": "test"}
-{"text": "please Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0416", "split": "test"}
-{"text": "note: Send a renewal nudge to C-431 next week", "label": "renewal", "id": "T-0417", "split": "test"}
-{"text": "What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0418", "split": "test"}
-{"text": "note: Please attach the policy document for C-243", "label": "documentation", "id": "T-0419", "split": "test"}
-{"text": "note: C-483 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0420", "split": "test"}
-{"text": "urgent: Send a renewal nudge to C-037 next week", "label": "renewal", "id": "T-0421", "split": "test"}
-{"text": "urgent: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0422", "split": "test"}
-{"text": "follow-up: Save the KYC copy in the file for C-273", "label": "documentation", "id": "T-0423", "split": "test"}
-{"text": "Update the interaction record for C-306", "label": "documentation", "id": "T-0424", "split": "test"}
-{"text": "urgent: Send a renewal nudge to C-498 next week", "label": "renewal", "id": "T-0425", "split": "test"}
-{"text": "urgent: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0426", "split": "test"}
+{"text": "note: Forward the C-065 matter to the next level", "label": "escalation", "id": "T-0413", "split": "test"}
+{"text": "follow-up: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0414", "split": "test"}
+{"text": "note: Need senior review for C-169", "label": "escalation", "id": "T-0415", "split": "test"}
+{"text": "please Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0416", "split": "test"}
+{"text": "note: C-431 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0417", "split": "test"}
+{"text": "Ceiling on the mid plan for C-021?", "label": "quote-question", "id": "T-0418", "split": "test"}
+{"text": "note: Log the call note about the brochure for C-243", "label": "documentation", "id": "T-0419", "split": "test"}
+{"text": "note: Customer says the agent was rude, C-483 wants this on record", "label": "complaint", "id": "T-0420", "split": "test"}
+{"text": "urgent: C-037 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0421", "split": "test"}
+{"text": "urgent: Which tier includes the second opinion clause?", "label": "quote-question", "id": "T-0422", "split": "test"}
+{"text": "follow-up: Record of today's discussion with C-273 needs an entry", "label": "documentation", "id": "T-0423", "split": "test"}
+{"text": "File the signed acknowledgement from C-306", "label": "documentation", "id": "T-0424", "split": "test"}
+{"text": "urgent: C-498 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0425", "split": "test"}
+{"text": "urgent: Is dental treatment payable under the entry plan?", "label": "quote-question", "id": "T-0426", "split": "test"}
 {"text": "urgent: What is the difference between Silver and Gold for C-115?", "label": "quote-question", "id": "T-0427", "split": "test"}
-{"text": "please Customer is unhappy with the claim delay for C-421", "label": "complaint", "id": "T-0428", "split": "test"}
+{"text": "please I want to complain about the service C-421 received", "label": "complaint", "id": "T-0428", "split": "test"}
 {"text": "follow-up: What is the difference between Silver and Gold for C-187?", "label": "quote-question", "id": "T-0429", "split": "test"}
-{"text": "Customer C-344 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0430", "split": "test"}
-{"text": "urgent: Need senior review for C-002", "label": "escalation", "id": "T-0431", "split": "test"}
-{"text": "please Save the KYC copy in the file for C-033", "label": "documentation", "id": "T-0432", "split": "test"}
-{"text": "urgent: C-234 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0433", "split": "test"}
-{"text": "please C-344 wants a callback from a team lead", "label": "escalation", "id": "T-0434", "split": "test"}
-{"text": "follow-up: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0435", "split": "test"}
-{"text": "follow-up: Log the call note about the brochure for C-249", "label": "documentation", "id": "T-0436", "split": "test"}
-{"text": "note: Prepare the renewal reminder for C-030", "label": "renewal", "id": "T-0437", "split": "test"}
+{"text": "Send a renewal nudge to C-344 next week", "label": "renewal", "id": "T-0430", "split": "test"}
+{"text": "urgent: C-002 wants a callback from a team lead", "label": "escalation", "id": "T-0431", "split": "test"}
+{"text": "please Record of today's discussion with C-033 needs an entry", "label": "documentation", "id": "T-0432", "split": "test"}
+{"text": "urgent: C-234 is dissatisfied with how the case was handled", "label": "complaint", "id": "T-0433", "split": "test"}
+{"text": "please Beyond what I can approve, pass C-344 onward", "label": "escalation", "id": "T-0434", "split": "test"}
+{"text": "follow-up: Ceiling on the mid plan for C-316?", "label": "quote-question", "id": "T-0435", "split": "test"}
+{"text": "follow-up: Save the KYC copy in the file for C-249", "label": "documentation", "id": "T-0436", "split": "test"}
+{"text": "note: Renewal date check for C-030 please", "label": "renewal", "id": "T-0437", "split": "test"}
 {"text": "urgent: Customer is unhappy with the claim delay for C-296", "label": "complaint", "id": "T-0438", "split": "test"}
-{"text": "please Compare the two plans C-177 is considering", "label": "quote-question", "id": "T-0439", "split": "test"}
-{"text": "note: Need senior review for C-449", "label": "escalation", "id": "T-0440", "split": "test"}
-{"text": "note: Save the KYC copy in the file for C-177", "label": "documentation", "id": "T-0441", "split": "test"}
+{"text": "please What is the limit on the higher tier for C-177?", "label": "quote-question", "id": "T-0439", "split": "test"}
+{"text": "note: This needs someone with more authority than me for C-449", "label": "escalation", "id": "T-0440", "split": "test"}
+{"text": "note: Record of today's discussion with C-177 needs an entry", "label": "documentation", "id": "T-0441", "split": "test"}
 {"text": "note: Customer is unhappy with the claim delay for C-499", "label": "complaint", "id": "T-0442", "split": "test"}
-{"text": "urgent: Send a renewal nudge to C-474 next week", "label": "renewal", "id": "T-0443", "split": "test"}
-{"text": "follow-up: Log the call note about the brochure for C-355", "label": "documentation", "id": "T-0444", "split": "test"}
-{"text": "note: Renewal date check for C-066 please", "label": "renewal", "id": "T-0445", "split": "test"}
-{"text": "follow-up: Please route the C-119 file to the escalation desk", "label": "escalation", "id": "T-0446", "split": "test"}
-{"text": "follow-up: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0447", "split": "test"}
+{"text": "urgent: C-474 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0443", "split": "test"}
+{"text": "follow-up: Save the KYC copy in the file for C-355", "label": "documentation", "id": "T-0444", "split": "test"}
+{"text": "note: Check the policy anniversary for C-066", "label": "renewal", "id": "T-0445", "split": "test"}
+{"text": "follow-up: C-119 should go to the senior handling desk", "label": "escalation", "id": "T-0446", "split": "test"}
+{"text": "follow-up: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0447", "split": "test"}
 {"text": "follow-up: Customer is unhappy with the claim delay for C-421", "label": "complaint", "id": "T-0448", "split": "test"}
-{"text": "please Customer says the agent was rude, C-229 wants this on record", "label": "complaint", "id": "T-0449", "split": "test"}
-{"text": "follow-up: Send a renewal nudge to C-350 next week", "label": "renewal", "id": "T-0450", "split": "test"}
-{"text": "please File the signed acknowledgement from C-439", "label": "documentation", "id": "T-0451", "split": "test"}
-{"text": "note: Customer C-271 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0452", "split": "test"}
+{"text": "please Poor feedback received from C-229 about the delay", "label": "complaint", "id": "T-0449", "split": "test"}
+{"text": "follow-up: C-350 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0450", "split": "test"}
+{"text": "please Keep a copy of the sent brochure against C-439", "label": "documentation", "id": "T-0451", "split": "test"}
+{"text": "note: Send a renewal nudge to C-271 next week", "label": "renewal", "id": "T-0452", "split": "test"}
 {"text": "When does C-387 renew?", "label": "renewal", "id": "T-0453", "split": "test"}
-{"text": "follow-up: C-184 wants a callback from a team lead", "label": "escalation", "id": "T-0454", "split": "test"}
-{"text": "please Send a renewal nudge to C-196 next week", "label": "renewal", "id": "T-0455", "split": "test"}
-{"text": "follow-up: Send a renewal nudge to C-109 next week", "label": "renewal", "id": "T-0456", "split": "test"}
-{"text": "Please attach the policy document for C-333", "label": "documentation", "id": "T-0457", "split": "test"}
-{"text": "note: Refund not received, C-148 is very frustrated", "label": "complaint", "id": "T-0458", "split": "test"}
+{"text": "follow-up: Higher approval is needed on C-184", "label": "escalation", "id": "T-0454", "split": "test"}
+{"text": "please Grace period for C-196 is closing, prepare the message", "label": "renewal", "id": "T-0455", "split": "test"}
+{"text": "follow-up: Grace period for C-109 is closing, prepare the message", "label": "renewal", "id": "T-0456", "split": "test"}
+{"text": "Log the call note about the brochure for C-333", "label": "documentation", "id": "T-0457", "split": "test"}
+{"text": "note: Service quality issue raised by C-148", "label": "complaint", "id": "T-0458", "split": "test"}
 {"text": "follow-up: When does C-035 renew?", "label": "renewal", "id": "T-0459", "split": "test"}
-{"text": "urgent: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0460", "split": "test"}
-{"text": "urgent: What is the difference between Silver and Gold for C-478?", "label": "quote-question", "id": "T-0461", "split": "test"}
-{"text": "C-310 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0462", "split": "test"}
-{"text": "follow-up: Please route the C-316 file to the escalation desk", "label": "escalation", "id": "T-0463", "split": "test"}
+{"text": "urgent: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0460", "split": "test"}
+{"text": "urgent: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0461", "split": "test"}
+{"text": "Customer says the agent was rude, C-310 wants this on record", "label": "complaint", "id": "T-0462", "split": "test"}
+{"text": "follow-up: Forward the C-316 matter to the next level", "label": "escalation", "id": "T-0463", "split": "test"}
 {"text": "urgent: Please attach the policy document for C-213", "label": "documentation", "id": "T-0464", "split": "test"}
-{"text": "follow-up: Compare the two plans C-205 is considering", "label": "quote-question", "id": "T-0465", "split": "test"}
+{"text": "follow-up: What is the limit on the higher tier for C-205?", "label": "quote-question", "id": "T-0465", "split": "test"}
 {"text": "When does C-441 renew?", "label": "renewal", "id": "T-0466", "split": "test"}
-{"text": "urgent: Refund not received, C-075 is very frustrated", "label": "complaint", "id": "T-0467", "split": "test"}
-{"text": "follow-up: Update the interaction record for C-121", "label": "documentation", "id": "T-0468", "split": "test"}
-{"text": "note: Save the KYC copy in the file for C-487", "label": "documentation", "id": "T-0469", "split": "test"}
-{"text": "please Please route the C-246 file to the escalation desk", "label": "escalation", "id": "T-0470", "split": "test"}
-{"text": "Please route the C-197 file to the escalation desk", "label": "escalation", "id": "T-0471", "split": "test"}
-{"text": "follow-up: Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0472", "split": "test"}
-{"text": "follow-up: Please attach the policy document for C-226", "label": "documentation", "id": "T-0473", "split": "test"}
-{"text": "follow-up: Compare the two plans C-268 is considering", "label": "quote-question", "id": "T-0474", "split": "test"}
-{"text": "please Customer C-332 asked for a supervisor", "label": "escalation", "id": "T-0475", "split": "test"}
-{"text": "note: Save the KYC copy in the file for C-465", "label": "documentation", "id": "T-0476", "split": "test"}
-{"text": "note: Escalate this case for C-258 to the manager", "label": "escalation", "id": "T-0477", "split": "test"}
-{"text": "Does Platinum cover day-care procedures?", "label": "quote-question", "id": "T-0478", "split": "test"}
-{"text": "Need senior review for C-383", "label": "escalation", "id": "T-0479", "split": "test"}
-{"text": "note: C-256 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0480", "split": "test"}
+{"text": "urgent: Service quality issue raised by C-075", "label": "complaint", "id": "T-0467", "split": "test"}
+{"text": "follow-up: File the signed acknowledgement from C-121", "label": "documentation", "id": "T-0468", "split": "test"}
+{"text": "note: Upload the verification copy for C-487", "label": "documentation", "id": "T-0469", "split": "test"}
+{"text": "please Forward the C-246 matter to the next level", "label": "escalation", "id": "T-0470", "split": "test"}
+{"text": "C-197 should go to the senior handling desk", "label": "escalation", "id": "T-0471", "split": "test"}
+{"text": "follow-up: Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0472", "split": "test"}
+{"text": "follow-up: Log the call note about the brochure for C-226", "label": "documentation", "id": "T-0473", "split": "test"}
+{"text": "follow-up: What is the limit on the higher tier for C-268?", "label": "quote-question", "id": "T-0474", "split": "test"}
+{"text": "please Escalate this case for C-332 to the manager", "label": "escalation", "id": "T-0475", "split": "test"}
+{"text": "note: Record of today's discussion with C-465 needs an entry", "label": "documentation", "id": "T-0476", "split": "test"}
+{"text": "note: Please route the C-258 file to the escalation desk", "label": "escalation", "id": "T-0477", "split": "test"}
+{"text": "Compare the two plans C-436 is considering", "label": "quote-question", "id": "T-0478", "split": "test"}
+{"text": "This needs someone with more authority than me for C-383", "label": "escalation", "id": "T-0479", "split": "test"}
+{"text": "note: Customer says the agent was rude, C-256 wants this on record", "label": "complaint", "id": "T-0480", "split": "test"}
 {"text": "Please attach the policy document for C-406", "label": "documentation", "id": "T-0481", "split": "test"}
-{"text": "please Customer says the agent was rude, C-052 wants this on record", "label": "complaint", "id": "T-0482", "split": "test"}
-{"text": "follow-up: Need senior review for C-233", "label": "escalation", "id": "T-0483", "split": "test"}
-{"text": "follow-up: Customer says the agent was rude, C-305 wants this on record", "label": "complaint", "id": "T-0484", "split": "test"}
-{"text": "please C-353 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0485", "split": "test"}
-{"text": "urgent: Need senior review for C-297", "label": "escalation", "id": "T-0486", "split": "test"}
-{"text": "Send a renewal nudge to C-489 next week", "label": "renewal", "id": "T-0487", "split": "test"}
+{"text": "please Poor feedback received from C-052 about the delay", "label": "complaint", "id": "T-0482", "split": "test"}
+{"text": "follow-up: This needs someone with more authority than me for C-233", "label": "escalation", "id": "T-0483", "split": "test"}
+{"text": "follow-up: C-305 is upset that nobody responded", "label": "complaint", "id": "T-0484", "split": "test"}
+{"text": "please Customer says the agent was rude, C-353 wants this on record", "label": "complaint", "id": "T-0485", "split": "test"}
+{"text": "urgent: This needs someone with more authority than me for C-297", "label": "escalation", "id": "T-0486", "split": "test"}
+{"text": "C-489 needs a continuation notice before the deadline", "label": "renewal", "id": "T-0487", "split": "test"}
 {"text": "urgent: Customer is unhappy with the claim delay for C-390", "label": "complaint", "id": "T-0488", "split": "test"}
-{"text": "Need senior review for C-024", "label": "escalation", "id": "T-0489", "split": "test"}
-{"text": "Customer C-394 policy is due soon, draft a reminder", "label": "renewal", "id": "T-0490", "split": "test"}
-{"text": "File the signed acknowledgement from C-464", "label": "documentation", "id": "T-0491", "split": "test"}
+{"text": "This needs someone with more authority than me for C-024", "label": "escalation", "id": "T-0489", "split": "test"}
+{"text": "The plan for C-394 expires at the end of this quarter", "label": "renewal", "id": "T-0490", "split": "test"}
+{"text": "Keep a copy of the sent brochure against C-464", "label": "documentation", "id": "T-0491", "split": "test"}
 {"text": "urgent: Customer is unhappy with the claim delay for C-323", "label": "complaint", "id": "T-0492", "split": "test"}
 {"text": "follow-up: Please attach the policy document for C-401", "label": "documentation", "id": "T-0493", "split": "test"}
 {"text": "Please attach the policy document for C-289", "label": "documentation", "id": "T-0494", "split": "test"}
-{"text": "urgent: What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0495", "split": "test"}
-{"text": "note: Save the KYC copy in the file for C-385", "label": "documentation", "id": "T-0496", "split": "test"}
+{"text": "urgent: Ceiling on the mid plan for C-499?", "label": "quote-question", "id": "T-0495", "split": "test"}
+{"text": "note: Upload the verification copy for C-385", "label": "documentation", "id": "T-0496", "split": "test"}
 {"text": "follow-up: Customer is unhappy with the claim delay for C-495", "label": "complaint", "id": "T-0497", "split": "test"}
-{"text": "please Is there a waiting period on Gold care?", "label": "quote-question", "id": "T-0498", "split": "test"}
-{"text": "Compare the two plans C-298 is considering", "label": "quote-question", "id": "T-0499", "split": "test"}
-{"text": "follow-up: I want to complain about the service C-364 received", "label": "complaint", "id": "T-0500", "split": "test"}
+{"text": "please Is dental treatment payable under the entry plan?", "label": "quote-question", "id": "T-0498", "split": "test"}
+{"text": "What exclusions apply to Silver Shield?", "label": "quote-question", "id": "T-0499", "split": "test"}
+{"text": "follow-up: C-364 is angry about a rejected reimbursement", "label": "complaint", "id": "T-0500", "split": "test"}

@@ -55,3 +55,35 @@ def test_complaint_escalates_to_human(store_and_index):
     out = handle(store, index, "The customer is angry about a claim and wants a supervisor")
     assert out["escalated"] is True
     assert out["draft_id"] is None
+
+
+def test_unmatched_message_without_classifier_asks_instead_of_guessing(store_and_index):
+    store, index = store_and_index
+    out = handle(store, index, "please handle the thing we discussed")
+    assert out["intents"] == ["unclear"]
+    assert out["missing_inputs"]
+    assert out["draft_id"] is None
+
+
+def test_classifier_routes_an_unmatched_complaint_to_a_human(store_and_index, trained_classifier):
+    store, index = store_and_index
+    out = handle(store, index, "he is fed up with how long settlement is taking",
+                 classifier=trained_classifier)
+    assert out["escalated"] is True
+    assert out["predicted_intent"] == "complaint"
+
+
+def test_classifier_cannot_unlock_a_send(store_and_index, trained_classifier):
+    """A safety control must not depend on model confidence."""
+    store, index = store_and_index
+    cid = find_customer(store, "opt_out")
+    out = handle(store, index, "renewal reminder", cid, classifier=trained_classifier)
+    assert out["draft_id"] is None
+    assert any("consent" in w.lower() for w in out["warnings"])
+
+
+def test_low_confidence_input_is_reported_as_unclear(store_and_index, trained_classifier):
+    store, index = store_and_index
+    out = handle(store, index, "zzz qqq", classifier=trained_classifier)
+    assert out["predicted_intent"] in ("unclear", "documentation", "escalation")
+    assert out["intent_confidence"] is not None
